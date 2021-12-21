@@ -1,0 +1,111 @@
+Provincia	ID	Before_WWII	After_WWII	DM_72	DM_81_85	DM_92_96	NTC_2008_2018
+Torino	1						
+Vercelli	2						
+Novara	3						
+Cuneo	4						
+Asti	5						
+Alessandria	6						
+Aosta	7						
+Imperia	8						
+Savona	9						
+Genova	10						
+La Spezia	11						
+Varese	12						
+Como	13						
+Sondrio	14						
+Milano	15						
+Bergamo	16						
+Brescia	17						
+Pavia	18						
+Cremona	19						
+Mantova	20						
+Bolzano	21						
+Trento	22						
+Verona	23						
+Vicenza	24						
+Belluno	25						
+Treviso	26						
+Venezia	27						
+Padova	28						
+Rovigo	29						
+Udine	30						
+Gorizia	31						
+Trieste	32						
+Piacenza	33						
+Parma	34						
+Reggio nell'Emilia	35						
+Modena	36						
+Bologna	37						
+Ferrara	38						
+Ravenna	39						
+Forli'-Cesena	40						
+Pesaro e Urbino	41						
+Ancona	42						
+Macerata	43						
+Ascoli Piceno	44						
+Massa Carrara	45						
+Lucca	46						
+Pistoia	47						
+Firenze	48						
+Livorno	49						
+Pisa	50						
+Arezzo	51						
+Siena	52						
+Grosseto	53						
+Perugia	54						
+Terni	55						
+Viterbo	56						
+Rieti	57						
+Roma	58						
+Latina	59						
+Frosinone	60						
+Caserta	61						
+Benevento	62						
+Napoli	63						
+Avellino	64						
+Salerno	65						
+L'Aquila	66	Seismic	Seismic	Seismic	Seismic	Seismic	Seismic
+Teramo	67	Gravity	Gravity	Seismic	Seismic	Seismic	Seismic
+Pescara	68	Gravity	Gravity	Gravity	Gravity	Gravity	Seismic
+Chieti	69	Gravity	Gravity	Gravity	Gravity	Gravity	Seismic
+Campobasso	70						
+Foggia	71						
+Bari	72						
+Taranto	73						
+Brindisi	74						
+Lecce	75						
+Potenza	76						
+Matera	77						
+Cosenza	78						
+Catanzaro	79						
+Reggio di Calabria	80						
+Pordenone	93						
+Isernia	94						
+Biella	96						
+Lecco	97						
+Lodi	98						
+Rimini	99						
+Prato	100						
+Crotone	101						
+Vibo Valentia	102						
+Verbano-Cusio-Ossola	103						
+Monza e della Brianza	108						
+Fermo	109						
+Barletta-Andria-Trani	110						
+Trapani	81						
+Palermo	82						
+Messina	83						
+Agrigento	84						
+Caltanissetta	85						
+Enna	86						
+Catania	87						
+Ragusa	88						
+Siracusa	89						
+Sassari	90						
+Nuoro	91						
+Cagliari	92						
+Oristano	95						
+Olbia-Tempio	104						
+Ogliastra	105						
+Medio Campidano	106						
+Carbonia-Iglesias	107						

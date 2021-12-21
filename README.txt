@@ -1,0 +1,38 @@
+Thank you for the interest in our work. 
+
+In case you need further assistance or to report a bug, please contact: 
+alberto.basaglia(at)unich.com
+
+Recommended citation: Basaglia, A., G. Cianchino, G. Cocco, D. Rapone, M. Terrenzi, E. Spacone, and G. Brando. "An automatic procedure for deriving building portfolios using the Italian “CARTIS” online database." In Structures, vol. 34, pp. 2974-2986. Elsevier, 2021.
+
+---------------------------------------------------------------------------
+
+Sub-typologies Definition - USER MANUAL (Updated December 2021)
+
+1) FILES DESCRIPTION
+Two scripts are provided - one for Reinforced Concrete (RC) and the other for Unreinforced Masonry (URM) buildings. 
+Please make sure to download the entire folder. Absence of one or more file will not allow the script to work.
+The "allcomb" function was downloaded from: https://it.mathworks.com/matlabcentral/fileexchange/10064-allcomb-varargin. All credits to the owner.
+
+2) CARTIS PARAMETER
+The script currently includes all CARTIS parameter available in the pgAdmin platform as of May 2021. Change in the available parameters may not allow the script to work.
+Access to the pgAdmin database is possible only with permission of the PLINIVS Center (http://plinivs.it/home/).
+The downloaded .csv file from pgAdmin should be placed inside the folder with all the other files.
+
+3) MATLAB VERSION
+Version used to develop and test the script was the MATLAB version 9.9.0.1592791 (R2020b) Update 5. 2020.
+Use of a different MATLAB version should not compromise the script functionality but is not guaranteed.
+MATLAB is a registered trademark and MATLAB Grader is a trademark of The MathWorks, Inc.
+User licence was provided by the University of Ferrara (Total Academic Headcount License).
+
+4) RC BUILDINGS - SEISMIC ZONATION
+The sub-typologies definition for RC building requires (according to the proposed framework) the classification of Italian Provinces over time between "Seismic" and "Gravity" loads.
+This classication is based on the evolution of the seismic zonation.
+NOTE: Currently, this classification is done ONLY for the Abruzzo Region. In case the procedure is going to be applied to a different Region, the User should edit the .txt file adding the aforementioned classification for all considered Provinces.
+
+5) ASSIMILATION/AGGREGATION
+The choice of parameters aggregation/assimilation described in the paper was made following the Authors expert judgment.
+Users may choose to adopt different approaches to derive the sub-typologies.
+
+6) PLOT 
+Users can choose a different layout of plots by searching and editing the variables "n_col" and "n_row" at the end of the scripts.

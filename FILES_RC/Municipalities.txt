@@ -1,0 +1,7904 @@
+Comune	ID	ID_Provincia
+Abano Terme	1	28
+Abbadia Cerreto	2	98
+Abbadia Lariana	3	97
+Abbadia San Salvatore	4	52
+Abbasanta	5	95
+Abbateggio	6	68
+Abbiategrasso	7	15
+Abetone Cutigliano	8	47
+Abriola	9	76
+Acate	10	88
+Accadia	11	71
+Acceglio	12	4
+Accettura	13	77
+Acciano	14	66
+Accumoli	15	57
+Acerenza	16	76
+Acerno	17	65
+Acerra	18	63
+Aci Bonaccorsi	19	87
+Aci Castello	20	87
+Aci Catena	21	87
+Aci Sant'Antonio	22	87
+Acireale	23	87
+Acquafondata	24	60
+Acquaformosa	25	78
+Acquafredda	26	17
+Acqualagna	27	41
+Acquanegra Cremonese	28	19
+Acquanegra sul Chiese	29	20
+Acquapendente	30	56
+Acquappesa	31	78
+Acquaro	32	102
+Acquasanta Terme	33	44
+Acquasparta	34	55
+Acquaviva Collecroce	35	70
+Acquaviva delle Fonti	36	72
+Acquaviva d'Isernia	37	94
+Acquaviva Picena	38	44
+Acquaviva Platani	39	85
+Acquedolci	40	83
+Acqui Terme	41	6
+Acri	42	78
+Acuto	43	60
+Adelfia	44	72
+Adrano	45	87
+Adrara San Martino	46	16
+Adrara San Rocco	47	16
+Adria	48	29
+Adro	49	17
+Affi	50	23
+Affile	51	58
+Afragola	52	63
+Africo	53	80
+Agazzano	54	33
+Agerola	55	63
+Aggius	56	90
+Agira	57	86
+Agliana	58	47
+Agliano Terme	59	5
+Agliè	60	1
+Aglientu	61	90
+Agna	62	28
+Agnadello	63	19
+Agnana Calabra	64	80
+Agnone	65	94
+Agnosine	66	17
+Agordo	67	25
+Agosta	68	58
+Agra	69	12
+Agrate Brianza	70	108
+Agrate Conturbia	71	3
+Agrigento	72	84
+Agropoli	73	65
+Agugliano	74	42
+Agugliaro	75	24
+Aicurzio	76	108
+Aidomaggiore	77	95
+Aidone	78	86
+Aielli	79	66
+Aiello Calabro	80	78
+Aiello del Friuli	81	30
+Aiello del Sabato	82	64
+Aieta	83	78
+Ailano	84	61
+Ailoche	85	96
+Airasca	86	1
+Airola	87	62
+Airole	88	8
+Airuno	89	97
+Aisone	90	4
+Ala	91	22
+Alà dei Sardi	92	90
+Ala di Stura	93	1
+Alagna	94	18
+Alagna Valsesia	95	2
+Alanno	96	68
+Alano di Piave	97	25
+Alassio	98	9
+Alatri	99	60
+Alba	100	4
+Alba Adriatica	101	67
+Albagiara	102	95
+Albairate	103	15
+Albanella	104	65
+Albano di Lucania	105	76
+Albano Laziale	106	58
+Albano Sant'Alessandro	107	16
+Albano Vercellese	108	2
+Albaredo Arnaboldi	109	18
+Albaredo d'Adige	110	23
+Albaredo per San Marco	111	14
+Albareto	112	34
+Albaretto della Torre	113	4
+Albavilla	114	13
+Albenga	115	9
+Albera Ligure	116	6
+Alberobello	117	72
+Alberona	118	71
+Albese con Cassano	119	13
+Albettone	120	24
+Albi	121	79
+Albiano	122	22
+Albiano d'Ivrea	123	1
+Albiate	124	108
+Albidona	125	78
+Albignasego	126	28
+Albinea	127	35
+Albino	128	16
+Albiolo	129	13
+Albisola Superiore	130	9
+Albissola Marina	131	9
+Albizzate	132	12
+Albonese	133	18
+Albosaggia	134	14
+Albugnano	135	5
+Albuzzano	136	18
+Alcamo	137	81
+Alcara li Fusi	138	83
+Aldeno	139	22
+Aldino	140	21
+Ales	141	95
+Alessandria	142	6
+Alessandria del Carretto	143	78
+Alessandria della Rocca	144	84
+Alessano	145	75
+Alezio	146	75
+Alfano	147	65
+Alfedena	148	66
+Alfianello	149	17
+Alfiano Natta	150	6
+Alfonsine	151	39
+Alghero	152	90
+Algua	153	16
+Alì	154	83
+Alì Terme	155	83
+Alia	156	82
+Aliano	157	77
+Alice Bel Colle	158	6
+Alice Castello	159	2
+Alife	160	61
+Alimena	161	82
+Aliminusa	162	82
+Allai	163	95
+Alleghe	164	25
+Allein	165	7
+Allerona	166	55
+Alliste	167	75
+Allumiere	168	58
+Alluvioni Piovera	169	6
+Almè	170	16
+Almenno San Bartolomeo	171	16
+Almenno San Salvatore	172	16
+Almese	173	1
+Alonte	174	24
+Alpago	175	25
+Alpette	176	1
+Alpignano	177	1
+Alseno	178	33
+Alserio	179	13
+Alta Val Tidone	180	33
+Alta Valle Intelvi	181	13
+Altamura	182	72
+Altare	183	9
+Altavalle	184	22
+Altavilla Irpina	185	64
+Altavilla Milicia	186	82
+Altavilla Monferrato	187	6
+Altavilla Silentina	188	65
+Altavilla Vicentina	189	24
+Altidona	190	109
+Altilia	191	78
+Altino	192	69
+Altissimo	193	24
+Altivole	194	26
+Alto	195	4
+Alto Reno Terme	196	37
+Alto Sermenza	197	2
+Altofonte	198	82
+Altomonte	199	78
+Altopascio	200	46
+Altopiano della Vigolana	201	22
+Alviano	202	55
+Alvignano	203	61
+Alvito	204	60
+Alzano Lombardo	205	16
+Alzano Scrivia	206	6
+Alzate Brianza	207	13
+Amalfi	208	65
+Amandola	209	109
+Amantea	210	78
+Amaro	211	30
+Amaroni	212	79
+Amaseno	213	60
+Amato	214	79
+Amatrice	215	57
+Ambivere	216	16
+Amblar-Don	217	22
+Ameglia	218	11
+Amelia	219	55
+Amendolara	220	78
+Ameno	221	3
+Amorosi	222	62
+Ampezzo	223	30
+Anacapri	224	63
+Anagni	225	60
+Ancarano	226	67
+Ancona	227	42
+Andali	228	79
+Andalo	229	22
+Andalo Valtellino	230	14
+Andezeno	231	1
+Andora	232	9
+Andorno Micca	233	96
+Andrano	234	75
+Andrate	235	1
+Andreis	236	93
+Andretta	237	64
+Andria	238	110
+Andriano	239	21
+Anela	240	90
+Anfo	241	17
+Angera	242	12
+Anghiari	243	51
+Angiari	244	23
+Angolo Terme	245	17
+Angri	246	65
+Angrogna	247	1
+Anguillara Sabazia	248	58
+Anguillara Veneta	249	28
+Annicco	250	19
+Annone di Brianza	251	97
+Annone Veneto	252	27
+Anoia	253	80
+Antegnate	254	16
+Anterivo	255	21
+Antey-Saint-André	256	7
+Anticoli Corrado	257	58
+Antignano	258	5
+Antillo	259	83
+Antonimina	260	80
+Antrodoco	261	57
+Antrona Schieranco	262	103
+Anversa degli Abruzzi	263	66
+Anzano del Parco	264	13
+Anzano di Puglia	265	71
+Anzi	266	76
+Anzio	267	58
+Anzola dell'Emilia	268	37
+Anzola d'Ossola	269	103
+Aosta	270	7
+Apecchio	271	41
+Apice	272	62
+Apiro	273	43
+Apollosa	274	62
+Appiano Gentile	275	13
+Appiano sulla strada del vino	276	21
+Appignano	277	43
+Appignano del Tronto	278	44
+Aprica	279	14
+Apricale	280	8
+Apricena	281	71
+Aprigliano	282	78
+Aprilia	283	59
+Aquara	284	65
+Aquila d'Arroscia	285	8
+Aquileia	286	30
+Aquilonia	287	64
+Aquino	288	60
+Aradeo	289	75
+Aragona	290	84
+Aramengo	291	5
+Arba	292	93
+Arborea	293	95
+Arborio	294	2
+Arbus	295	109
+Arcade	296	26
+Arce	297	60
+Arcene	298	16
+Arcevia	299	42
+Archi	300	69
+Arcidosso	301	53
+Arcinazzo Romano	302	58
+Arcisate	303	12
+Arco	304	22
+Arcola	305	11
+Arcole	306	23
+Arconate	307	15
+Arcore	308	108
+Arcugnano	309	24
+Ardara	310	90
+Ardauli	311	95
+Ardea	312	58
+Ardenno	313	14
+Ardesio	314	16
+Ardore	315	80
+Arena	316	102
+Arena Po	317	18
+Arenzano	318	10
+Arese	319	15
+Arezzo	320	51
+Argegno	321	13
+Argelato	322	37
+Argenta	323	38
+Argentera	324	4
+Arguello	325	4
+Argusto	326	79
+Ari	327	69
+Ariano Irpino	328	64
+Ariano nel Polesine	329	29
+Ariccia	330	58
+Arielli	331	69
+Arienzo	332	61
+Arignano	333	1
+Aritzo	334	91
+Arizzano	335	103
+Arlena di Castro	336	56
+Arluno	337	15
+Armeno	338	3
+Armento	339	76
+Armo	340	8
+Armungia	341	109
+Arnad	342	7
+Arnara	343	60
+Arnasco	344	9
+Arnesano	345	75
+Arola	346	103
+Arona	347	3
+Arosio	348	13
+Arpaia	349	62
+Arpaise	350	62
+Arpino	351	60
+Arquà Petrarca	352	28
+Arquà Polesine	353	29
+Arquata del Tronto	354	44
+Arquata Scrivia	355	6
+Arre	356	28
+Arrone	357	55
+Arsago Seprio	358	12
+Arsiè	359	25
+Arsiero	360	24
+Arsita	361	67
+Arsoli	362	58
+Arta Terme	363	30
+Artegna	364	30
+Artena	365	58
+Artogne	366	17
+Arvier	367	7
+Arzachena	368	90
+Arzago d'Adda	369	16
+Arzana	370	91
+Arzano	371	63
+Arzergrande	372	28
+Arzignano	373	24
+Ascea	374	65
+Asciano	375	52
+Ascoli Piceno	376	44
+Ascoli Satriano	377	71
+Ascrea	378	57
+Asiago	379	24
+Asigliano Veneto	380	24
+Asigliano Vercellese	381	2
+Asola	382	20
+Asolo	383	26
+Assago	384	15
+Assemini	385	92
+Assisi	386	54
+Asso	387	13
+Assolo	388	95
+Assoro	389	86
+Asti	390	5
+Asuni	391	95
+Ateleta	392	66
+Atella	393	76
+Atena Lucana	394	65
+Atessa	395	69
+Atina	396	60
+Atrani	397	65
+Atri	398	67
+Atripalda	399	64
+Attigliano	400	55
+Attimis	401	30
+Atzara	402	91
+Augusta	403	89
+Auletta	404	65
+Aulla	405	45
+Aurano	406	103
+Aurigo	407	8
+Auronzo di Cadore	408	25
+Ausonia	409	60
+Austis	410	91
+Avegno	411	10
+Avelengo	412	21
+Avella	413	64
+Avellino	414	64
+Averara	415	16
+Aversa	416	61
+Avetrana	417	73
+Avezzano	418	66
+Aviano	419	93
+Aviatico	420	16
+Avigliana	421	1
+Avigliano	422	76
+Avigliano Umbro	423	55
+Avio	424	22
+Avise	425	7
+Avola	426	89
+Avolasca	427	6
+Ayas	428	7
+Aymavilles	429	7
+Azeglio	430	1
+Azzanello	431	19
+Azzano d'Asti	432	5
+Azzano Decimo	433	93
+Azzano Mella	434	17
+Azzano San Paolo	435	16
+Azzate	436	12
+Azzio	437	12
+Azzone	438	16
+Baceno	439	103
+Bacoli	440	63
+Badalucco	441	8
+Badesi	442	90
+Badia	443	21
+Badia Calavena	444	23
+Badia Pavese	445	18
+Badia Polesine	446	29
+Badia Tedalda	447	51
+Badolato	448	79
+Bagaladi	449	80
+Bagheria	450	82
+Bagnacavallo	451	39
+Bagnara Calabra	452	80
+Bagnara di Romagna	453	39
+Bagnaria	454	18
+Bagnaria Arsa	455	30
+Bagnasco	456	4
+Bagnatica	457	16
+Bagni di Lucca	458	46
+Bagno a Ripoli	459	48
+Bagno di Romagna	460	40
+Bagnoli del Trigno	461	94
+Bagnoli di Sopra	462	28
+Bagnoli Irpino	463	64
+Bagnolo Cremasco	464	19
+Bagnolo del Salento	465	75
+Bagnolo di Po	466	29
+Bagnolo in Piano	467	35
+Bagnolo Mella	468	17
+Bagnolo Piemonte	469	4
+Bagnolo San Vito	470	20
+Bagnone	471	45
+Bagnoregio	472	56
+Bagolino	473	17
+Baia e Latina	474	61
+Baiano	475	64
+Bairo	476	1
+Baiso	477	35
+Bajardo	478	8
+Balangero	479	1
+Baldichieri d'Asti	480	5
+Baldissero Canavese	481	1
+Baldissero d'Alba	482	4
+Baldissero Torinese	483	1
+Balestrate	484	82
+Balestrino	485	9
+Ballabio	486	97
+Ballao	487	109
+Balme	488	1
+Balmuccia	489	2
+Balocco	490	2
+Balsorano	491	66
+Balvano	492	76
+Balzola	493	6
+Banari	494	90
+Banchette	495	1
+Bannio Anzino	496	103
+Banzi	497	76
+Baone	498	28
+Baradili	499	95
+Baragiano	500	76
+Baranello	501	70
+Barano d'Ischia	502	63
+Baranzate	503	15
+Barasso	504	12
+Baratili San Pietro	505	95
+Barbania	506	1
+Barbara	507	42
+Barbarano Mossano	508	24
+Barbarano Romano	509	56
+Barbaresco	510	4
+Barbariga	511	17
+Barbata	512	16
+Barberino di Mugello	513	48
+Barberino Tavarnelle	514	48
+Barbianello	515	18
+Barbiano	516	21
+Barbona	517	28
+Barcellona Pozzo di Gotto	518	83
+Barcis	519	93
+Bard	520	7
+Bardello	521	12
+Bardi	522	34
+Bardineto	523	9
+Bardolino	524	23
+Bardonecchia	525	1
+Bareggio	526	15
+Barengo	527	3
+Baressa	528	95
+Barete	529	66
+Barga	530	46
+Bargagli	531	10
+Barge	532	4
+Barghe	533	17
+Bari	534	72
+Bari Sardo	535	91
+Bariano	536	16
+Baricella	537	37
+Barile	538	76
+Barisciano	539	66
+Barlassina	540	108
+Barletta	541	110
+Barni	542	13
+Barolo	543	4
+Barone Canavese	544	1
+Baronissi	545	65
+Barrafranca	546	86
+Barrali	547	109
+Barrea	548	66
+Barumini	549	109
+Barzago	550	97
+Barzana	551	16
+Barzanò	552	97
+Barzio	553	97
+Basaluzzo	554	6
+Bascapè	555	18
+Baschi	556	55
+Basciano	557	67
+Baselga di Pinè	558	22
+Baselice	559	62
+Basiano	560	15
+Basicò	561	83
+Basiglio	562	15
+Basiliano	563	30
+Bassano Bresciano	564	17
+Bassano del Grappa	565	24
+Bassano in Teverina	566	56
+Bassano Romano	567	56
+Bassiano	568	59
+Bassignana	569	6
+Bastia Mondovì	570	4
+Bastia Umbra	571	54
+Bastida Pancarana	572	18
+Bastiglia	573	36
+Battaglia Terme	574	28
+Battifollo	575	4
+Battipaglia	576	65
+Battuda	577	18
+Baucina	578	82
+Bauladu	579	95
+Baunei	580	91
+Baveno	581	103
+Bedero Valcuvia	582	12
+Bedizzole	583	17
+Bedollo	584	22
+Bedonia	585	34
+Bedulita	586	16
+Bee	587	103
+Beinasco	588	1
+Beinette	589	4
+Belcastro	590	79
+Belfiore	591	23
+Belforte all'Isauro	592	41
+Belforte del Chienti	593	43
+Belforte Monferrato	594	6
+Belgioioso	595	18
+Belgirate	596	103
+Bella	597	76
+Bellagio	598	13
+Bellano	599	97
+Bellante	600	67
+Bellaria-Igea Marina	601	99
+Bellegra	602	58
+Bellino	603	4
+Bellinzago Lombardo	604	15
+Bellinzago Novarese	605	3
+Bellizzi	606	65
+Bellona	607	61
+Bellosguardo	608	65
+Belluno	609	25
+Bellusco	610	108
+Belmonte Calabro	611	78
+Belmonte Castello	612	60
+Belmonte del Sannio	613	94
+Belmonte in Sabina	614	57
+Belmonte Mezzagno	615	82
+Belmonte Piceno	616	109
+Belpasso	617	87
+Belsito	618	78
+Belvedere di Spinello	619	101
+Belvedere Langhe	620	4
+Belvedere Marittimo	621	78
+Belvedere Ostrense	622	42
+Belveglio	623	5
+Belvì	624	91
+Bema	625	14
+Bene Lario	626	13
+Bene Vagienna	627	4
+Benestare	628	80
+Benetutti	629	90
+Benevello	630	4
+Benevento	631	62
+Benna	632	96
+Bentivoglio	633	37
+Berbenno	634	16
+Berbenno di Valtellina	635	14
+Berceto	636	34
+Berchidda	637	90
+Beregazzo con Figliaro	638	13
+Bereguardo	639	18
+Bergamasco	640	6
+Bergamo	641	16
+Bergantino	642	29
+Bergeggi	643	9
+Bergolo	644	4
+Berlingo	645	17
+Bernalda	646	77
+Bernareggio	647	108
+Bernate Ticino	648	15
+Bernezzo	649	4
+Bertinoro	650	40
+Bertiolo	651	30
+Bertonico	652	98
+Berzano di San Pietro	653	5
+Berzano di Tortona	654	6
+Berzo Demo	655	17
+Berzo Inferiore	656	17
+Berzo San Fermo	657	16
+Besana in Brianza	658	108
+Besano	659	12
+Besate	660	15
+Besenello	661	22
+Besenzone	662	33
+Besnate	663	12
+Besozzo	664	12
+Bessude	665	90
+Bettola	666	33
+Bettona	667	54
+Beura-Cardezza	668	103
+Bevagna	669	54
+Beverino	670	11
+Bevilacqua	671	23
+Biancavilla	672	87
+Bianchi	673	78
+Bianco	674	80
+Biandrate	675	3
+Biandronno	676	12
+Bianzano	677	16
+Bianzè	678	2
+Bianzone	679	14
+Biassono	680	108
+Bibbiano	681	35
+Bibbiena	682	51
+Bibbona	683	49
+Bibiana	684	1
+Biccari	685	71
+Bicinicco	686	30
+Bidonì	687	95
+Biella	688	96
+Bienno	689	17
+Bieno	690	22
+Bientina	691	50
+Binago	692	13
+Binasco	693	15
+Binetto	694	72
+Bioglio	695	96
+Bionaz	696	7
+Bione	697	17
+Birori	698	91
+Bisaccia	699	64
+Bisacquino	700	82
+Bisceglie	701	110
+Bisegna	702	66
+Bisenti	703	67
+Bisignano	704	78
+Bistagno	705	6
+Bisuschio	706	12
+Bitetto	707	72
+Bitonto	708	72
+Bitritto	709	72
+Bitti	710	91
+Bivona	711	84
+Bivongi	712	80
+Bizzarone	713	13
+Bleggio Superiore	714	22
+Blello	715	16
+Blera	716	56
+Blessagno	717	13
+Blevio	718	13
+Blufi	719	82
+Boara Pisani	720	28
+Bobbio	721	33
+Bobbio Pellice	722	1
+Boca	723	3
+Bocchigliero	724	78
+Boccioleto	725	2
+Bocenago	726	22
+Bodio Lomnago	727	12
+Boffalora d'Adda	728	98
+Boffalora sopra Ticino	729	15
+Bogliasco	730	10
+Bognanco	731	103
+Bogogno	732	3
+Boissano	733	9
+Bojano	734	70
+Bolano	735	11
+Bolgare	736	16
+Bollate	737	15
+Bollengo	738	1
+Bologna	739	37
+Bolognano	740	68
+Bolognetta	741	82
+Bolognola	742	43
+Bolotana	743	91
+Bolsena	744	56
+Boltiere	745	16
+Bolzano	746	21
+Bolzano Novarese	747	3
+Bolzano Vicentino	748	24
+Bomarzo	749	56
+Bomba	750	69
+Bompensiere	751	85
+Bompietro	752	82
+Bomporto	753	36
+Bonarcado	754	95
+Bonassola	755	11
+Bonate Sopra	756	16
+Bonate Sotto	757	16
+Bonavigo	758	23
+Bondeno	759	38
+Bondone	760	22
+Bonea	761	62
+Bonefro	762	70
+Bonemerse	763	19
+Bonifati	764	78
+Bonito	765	64
+Bonnanaro	766	90
+Bono	767	90
+Bonorva	768	90
+Bonvicino	769	4
+Borbona	770	57
+Borca di Cadore	771	25
+Bordano	772	30
+Bordighera	773	8
+Bordolano	774	19
+Bore	775	34
+Boretto	776	35
+Borgarello	777	18
+Borgaro Torinese	778	1
+Borgetto	779	82
+Borghetto d'Arroscia	780	8
+Borghetto di Borbera	781	6
+Borghetto di Vara	782	11
+Borghetto Lodigiano	783	98
+Borghetto Santo Spirito	784	9
+Borghi	785	40
+Borgia	786	79
+Borgiallo	787	1
+Borgio Verezzi	788	9
+Borgo a Mozzano	789	46
+Borgo Chiese	790	22
+Borgo d'Ale	791	2
+Borgo d'Anaunia	792	22
+Borgo di Terzo	793	16
+Borgo Lares	794	22
+Borgo Mantovano	795	20
+Borgo Pace	796	41
+Borgo Priolo	797	18
+Borgo San Dalmazzo	798	4
+Borgo San Giacomo	799	17
+Borgo San Giovanni	800	98
+Borgo San Lorenzo	801	48
+Borgo San Martino	802	6
+Borgo San Siro	803	18
+Borgo Ticino	804	3
+Borgo Tossignano	805	37
+Borgo Val di Taro	806	34
+Borgo Valbelluna	807	25
+Borgo Valsugana	808	22
+Borgo Velino	809	57
+Borgo Veneto	810	28
+Borgo Vercelli	811	2
+Borgo Virgilio	812	20
+Borgocarbonara	813	20
+Borgofranco d'Ivrea	814	1
+Borgolavezzaro	815	3
+Borgomale	816	4
+Borgomanero	817	3
+Borgomaro	818	8
+Borgomasino	819	1
+Borgomezzavalle	820	103
+Borgone Susa	821	1
+Borgonovo Val Tidone	822	33
+Borgoratto Alessandrino	823	6
+Borgoratto Mormorolo	824	18
+Borgoricco	825	28
+Borgorose	826	57
+Borgosatollo	827	17
+Borgosesia	828	2
+Bormida	829	9
+Bormio	830	14
+Bornasco	831	18
+Borno	832	17
+Boroneddu	833	95
+Borore	834	91
+Borrello	835	69
+Borriana	836	96
+Borso del Grappa	837	26
+Bortigali	838	91
+Bortigiadas	839	90
+Borutta	840	90
+Borzonasca	841	10
+Bosa	842	95
+Bosaro	843	29
+Boschi Sant'Anna	844	23
+Bosco Chiesanuova	845	23
+Bosco Marengo	846	6
+Bosconero	847	1
+Boscoreale	848	63
+Boscotrecase	849	63
+Bosia	850	4
+Bosio	851	6
+Bosisio Parini	852	97
+Bosnasco	853	18
+Bossico	854	16
+Bossolasco	855	4
+Botricello	856	79
+Botrugno	857	75
+Bottanuco	858	16
+Botticino	859	17
+Bottidda	860	90
+Bova	861	80
+Bova Marina	862	80
+Bovalino	863	80
+Bovegno	864	17
+Boves	865	4
+Bovezzo	866	17
+Boville Ernica	867	60
+Bovino	868	71
+Bovisio-Masciago	869	108
+Bovolenta	870	28
+Bovolone	871	23
+Bozzole	872	6
+Bozzolo	873	20
+Bra	874	4
+Bracca	875	16
+Bracciano	876	58
+Bracigliano	877	65
+Braies	878	21
+Brallo di Pregola	879	18
+Brancaleone	880	80
+Brandico	881	17
+Brandizzo	882	1
+Branzi	883	16
+Braone	884	17
+Brebbia	885	12
+Breda di Piave	886	26
+Bregano	887	12
+Breganze	888	24
+Bregnano	889	13
+Brembate	890	16
+Brembate di Sopra	891	16
+Brembio	892	98
+Breme	893	18
+Brendola	894	24
+Brenna	895	13
+Brennero	896	21
+Breno	897	17
+Brenta	898	12
+Brentino Belluno	899	23
+Brentonico	900	22
+Brenzone sul Garda	901	23
+Brescello	902	35
+Brescia	903	17
+Bresimo	904	22
+Bressana Bottarone	905	18
+Bressanone	906	21
+Bressanvido	907	24
+Bresso	908	15
+Brezzo di Bedero	909	12
+Briaglia	910	4
+Briatico	911	102
+Bricherasio	912	1
+Brienno	913	13
+Brienza	914	76
+Briga Alta	915	4
+Briga Novarese	916	3
+Brignano Gera d'Adda	917	16
+Brignano-Frascata	918	6
+Brindisi	919	74
+Brindisi Montagna	920	76
+Brinzio	921	12
+Briona	922	3
+Brione	923	17
+Briosco	924	108
+Brisighella	925	39
+Brissago-Valtravaglia	926	12
+Brissogne	927	7
+Brittoli	928	68
+Brivio	929	97
+Broccostella	930	60
+Brogliano	931	24
+Brognaturo	932	102
+Brolo	933	83
+Brondello	934	4
+Broni	935	18
+Bronte	936	87
+Bronzolo	937	21
+Brossasco	938	4
+Brosso	939	1
+Brovello-Carpugnino	940	103
+Brozolo	941	1
+Brugherio	942	108
+Brugine	943	28
+Brugnato	944	11
+Brugnera	945	93
+Bruino	946	1
+Brumano	947	16
+Brunate	948	13
+Brunello	949	12
+Brunico	950	21
+Bruno	951	5
+Brusaporto	952	16
+Brusasco	953	1
+Brusciano	954	63
+Brusimpiano	955	12
+Brusnengo	956	96
+Brusson	957	7
+Bruzolo	958	1
+Bruzzano Zeffirio	959	80
+Bubbiano	960	15
+Bubbio	961	5
+Buccheri	962	89
+Bucchianico	963	69
+Bucciano	964	62
+Buccinasco	965	15
+Buccino	966	65
+Bucine	967	51
+Buddusò	968	90
+Budoia	969	93
+Budoni	970	90
+Budrio	971	37
+Buggerru	972	109
+Buggiano	973	47
+Buglio in Monte	974	14
+Bugnara	975	66
+Buguggiate	976	12
+Buja	977	30
+Bulciago	978	97
+Bulgarograsso	979	13
+Bultei	980	90
+Bulzi	981	90
+Buonabitacolo	982	65
+Buonalbergo	983	62
+Buonconvento	984	52
+Buonvicino	985	78
+Burago di Molgora	986	108
+Burcei	987	109
+Burgio	988	84
+Burgos	989	90
+Buriasco	990	1
+Burolo	991	1
+Buronzo	992	2
+Busachi	993	95
+Busalla	994	10
+Busano	995	1
+Busca	996	4
+Buscate	997	15
+Buscemi	998	89
+Buseto Palizzolo	999	81
+Busnago	1000	108
+Bussero	1001	15
+Busseto	1002	34
+Bussi sul Tirino	1003	68
+Busso	1004	70
+Bussolengo	1005	23
+Bussoleno	1006	1
+Busto Arsizio	1007	12
+Busto Garolfo	1008	15
+Butera	1009	85
+Buti	1010	50
+Buttapietra	1011	23
+Buttigliera Alta	1012	1
+Buttigliera d'Asti	1013	5
+Buttrio	1014	30
+Cabella Ligure	1015	6
+Cabiate	1016	13
+Cabras	1017	95
+Caccamo	1018	82
+Caccuri	1019	101
+Cadegliano-Viconago	1020	12
+Cadelbosco di Sopra	1021	35
+Cadeo	1022	33
+Caderzone Terme	1023	22
+Cadoneghe	1024	28
+Cadorago	1025	13
+Cadrezzate con Osmate	1026	12
+Caerano di San Marco	1027	26
+Cafasse	1028	1
+Caggiano	1029	65
+Cagli	1030	41
+Cagliari	1031	92
+Caglio	1032	13
+Cagnano Amiterno	1033	66
+Cagnano Varano	1034	71
+Caianello	1035	61
+Caiazzo	1036	61
+Caines	1037	21
+Caino	1038	17
+Caiolo	1039	14
+Cairano	1040	64
+Cairate	1041	12
+Cairo Montenotte	1042	9
+Caivano	1043	63
+Calabritto	1044	64
+Calalzo di Cadore	1045	25
+Calamandrana	1046	5
+Calamonaci	1047	84
+Calangianus	1048	90
+Calanna	1049	80
+Calasca-Castiglione	1050	103
+Calascibetta	1051	86
+Calascio	1052	66
+Calasetta	1053	109
+Calatabiano	1054	87
+Calatafimi-Segesta	1055	81
+Calcata	1056	56
+Calceranica al Lago	1057	22
+Calci	1058	50
+Calciano	1059	77
+Calcinaia	1060	50
+Calcinate	1061	16
+Calcinato	1062	17
+Calcio	1063	16
+Calco	1064	97
+Caldaro sulla strada del vino	1065	21
+Caldarola	1066	43
+Calderara di Reno	1067	37
+Caldes	1068	22
+Caldiero	1069	23
+Caldogno	1070	24
+Caldonazzo	1071	22
+Calendasco	1072	33
+Calenzano	1073	48
+Calestano	1074	34
+Calice al Cornoviglio	1075	11
+Calice Ligure	1076	9
+Calimera	1077	75
+Calitri	1078	64
+Calizzano	1079	9
+Callabiana	1080	96
+Calliano	1081	5
+Calliano	1082	22
+Calolziocorte	1083	97
+Calopezzati	1084	78
+Calosso	1085	5
+Caloveto	1086	78
+Caltabellotta	1087	84
+Caltagirone	1088	87
+Caltanissetta	1089	85
+Caltavuturo	1090	82
+Caltignaga	1091	3
+Calto	1092	29
+Caltrano	1093	24
+Calusco d'Adda	1094	16
+Caluso	1095	1
+Calvagese della Riviera	1096	17
+Calvanico	1097	65
+Calvatone	1098	19
+Calvello	1099	76
+Calvene	1100	24
+Calvenzano	1101	16
+Calvera	1102	76
+Calvi	1103	62
+Calvi dell'Umbria	1104	55
+Calvi Risorta	1105	61
+Calvignano	1106	18
+Calvignasco	1107	15
+Calvisano	1108	17
+Calvizzano	1109	63
+Camagna Monferrato	1110	6
+Camaiore	1111	46
+Camandona	1112	96
+Camastra	1113	84
+Cambiago	1114	15
+Cambiano	1115	1
+Cambiasca	1116	103
+Camburzano	1117	96
+Camerana	1118	4
+Camerano	1119	42
+Camerano Casasco	1120	5
+Camerata Cornello	1121	16
+Camerata Nuova	1122	58
+Camerata Picena	1123	42
+Cameri	1124	3
+Camerino	1125	43
+Camerota	1126	65
+Camigliano	1127	61
+Camini	1128	80
+Camino	1129	6
+Camino al Tagliamento	1130	30
+Camisano	1131	19
+Camisano Vicentino	1132	24
+Cammarata	1133	84
+Camogli	1134	10
+Campagna	1135	65
+Campagna Lupia	1136	27
+Campagnano di Roma	1137	58
+Campagnatico	1138	53
+Campagnola Cremasca	1139	19
+Campagnola Emilia	1140	35
+Campana	1141	78
+Camparada	1142	108
+Campegine	1143	35
+Campello sul Clitunno	1144	54
+Campertogno	1145	2
+Campi Bisenzio	1146	48
+Campi Salentina	1147	75
+Campiglia Cervo	1148	96
+Campiglia dei Berici	1149	24
+Campiglia Marittima	1150	49
+Campiglione Fenile	1151	1
+Campione d'Italia	1152	13
+Campitello di Fassa	1153	22
+Campli	1154	67
+Campo Calabro	1155	80
+Campo di Giove	1156	66
+Campo di Trens	1157	21
+Campo Ligure	1158	10
+Campo nell'Elba	1159	49
+Campo San Martino	1160	28
+Campo Tures	1161	21
+Campobasso	1162	70
+Campobello di Licata	1163	84
+Campobello di Mazara	1164	81
+Campochiaro	1165	70
+Campodarsego	1166	28
+Campodenno	1167	22
+Campodimele	1168	59
+Campodipietra	1169	70
+Campodolcino	1170	14
+Campodoro	1171	28
+Campofelice di Fitalia	1172	82
+Campofelice di Roccella	1173	82
+Campofilone	1174	109
+Campofiorito	1175	82
+Campoformido	1176	30
+Campofranco	1177	85
+Campogalliano	1178	36
+Campolattaro	1179	62
+Campoli Appennino	1180	60
+Campoli del Monte Taburno	1181	62
+Campolieto	1182	70
+Campolongo Maggiore	1183	27
+Campolongo Tapogliano	1184	30
+Campomaggiore	1185	76
+Campomarino	1186	70
+Campomorone	1187	10
+Camponogara	1188	27
+Campora	1189	65
+Camporeale	1190	82
+Camporgiano	1191	46
+Camporosso	1192	8
+Camporotondo di Fiastrone	1193	43
+Camporotondo Etneo	1194	87
+Camposampiero	1195	28
+Camposano	1196	63
+Camposanto	1197	36
+Campospinoso	1198	18
+Campotosto	1199	66
+Camugnano	1200	37
+Canal San Bovo	1201	22
+Canale	1202	4
+Canale d'Agordo	1203	25
+Canale Monterano	1204	58
+Canaro	1205	29
+Canazei	1206	22
+Cancellara	1207	76
+Cancello ed Arnone	1208	61
+Canda	1209	29
+Candela	1210	71
+Candelo	1211	96
+Candia Canavese	1212	1
+Candia Lomellina	1213	18
+Candiana	1214	28
+Candida	1215	64
+Candidoni	1216	80
+Candiolo	1217	1
+Canegrate	1218	15
+Canelli	1219	5
+Canepina	1220	56
+Caneva	1221	93
+Canicattì	1222	84
+Canicattini Bagni	1223	89
+Canino	1224	56
+Canischio	1225	1
+Canistro	1226	66
+Canna	1227	78
+Cannalonga	1228	65
+Cannara	1229	54
+Cannero Riviera	1230	103
+Canneto Pavese	1231	18
+Canneto sull'Oglio	1232	20
+Cannobio	1233	103
+Cannole	1234	75
+Canolo	1235	80
+Canonica d'Adda	1236	16
+Canosa di Puglia	1237	110
+Canosa Sannita	1238	69
+Canosio	1239	4
+Canossa	1240	35
+Cansano	1241	66
+Cantagallo	1242	100
+Cantalice	1243	57
+Cantalupa	1244	1
+Cantalupo in Sabina	1245	57
+Cantalupo Ligure	1246	6
+Cantalupo nel Sannio	1247	94
+Cantarana	1248	5
+Cantello	1249	12
+Canterano	1250	58
+Cantiano	1251	41
+Cantoira	1252	1
+Cantù	1253	13
+Canzano	1254	67
+Canzo	1255	13
+Caorle	1256	27
+Caorso	1257	33
+Capaccio Paestum	1258	65
+Capaci	1259	82
+Capalbio	1260	53
+Capannoli	1261	50
+Capannori	1262	46
+Capena	1263	58
+Capergnanica	1264	19
+Capestrano	1265	66
+Capiago Intimiano	1266	13
+Capistrano	1267	102
+Capistrello	1268	66
+Capitignano	1269	66
+Capizzi	1270	83
+Capizzone	1271	16
+Capo di Ponte	1272	17
+Capo d'Orlando	1273	83
+Capodimonte	1274	56
+Capodrise	1275	61
+Capoliveri	1276	49
+Capolona	1277	51
+Caponago	1278	108
+Caporciano	1279	66
+Caposele	1280	64
+Capoterra	1281	92
+Capovalle	1282	17
+Cappadocia	1283	66
+Cappella Cantone	1284	19
+Cappella de' Picenardi	1285	19
+Cappella Maggiore	1286	26
+Cappelle sul Tavo	1287	68
+Capracotta	1288	94
+Capraia e Limite	1289	48
+Capraia Isola	1290	49
+Capralba	1291	19
+Capranica	1292	56
+Capranica Prenestina	1293	58
+Caprarica di Lecce	1294	75
+Caprarola	1295	56
+Caprauna	1296	4
+Caprese Michelangelo	1297	51
+Caprezzo	1298	103
+Capri	1299	63
+Capri Leone	1300	83
+Capriana	1301	22
+Capriano del Colle	1302	17
+Capriata d'Orba	1303	6
+Capriate San Gervasio	1304	16
+Capriati a Volturno	1305	61
+Caprie	1306	1
+Capriglia Irpina	1307	64
+Capriglio	1308	5
+Caprile	1309	96
+Caprino Bergamasco	1310	16
+Caprino Veronese	1311	23
+Capriolo	1312	17
+Capriva del Friuli	1313	31
+Capua	1314	61
+Capurso	1315	72
+Caraffa del Bianco	1316	80
+Caraffa di Catanzaro	1317	79
+Caraglio	1318	4
+Caramagna Piemonte	1319	4
+Caramanico Terme	1320	68
+Carapelle	1321	71
+Carapelle Calvisio	1322	66
+Carasco	1323	10
+Carassai	1324	44
+Carate Brianza	1325	108
+Carate Urio	1326	13
+Caravaggio	1327	16
+Caravate	1328	12
+Caravino	1329	1
+Caravonica	1330	8
+Carbognano	1331	56
+Carbonara al Ticino	1332	18
+Carbonara di Nola	1333	63
+Carbonara Scrivia	1334	6
+Carbonate	1335	13
+Carbone	1336	76
+Carbonera	1337	26
+Carbonia	1338	109
+Carcare	1339	9
+Carceri	1340	28
+Carcoforo	1341	2
+Cardano al Campo	1342	12
+Cardè	1343	4
+Cardedu	1344	91
+Cardeto	1345	80
+Cardinale	1346	79
+Cardito	1347	63
+Careggine	1348	46
+Carema	1349	1
+Carenno	1350	97
+Carentino	1351	6
+Careri	1352	80
+Caresana	1353	2
+Caresanablot	1354	2
+Carezzano	1355	6
+Carfizzi	1356	101
+Cargeghe	1357	90
+Cariati	1358	78
+Carife	1359	64
+Carignano	1360	1
+Carimate	1361	13
+Carinaro	1362	61
+Carini	1363	82
+Carinola	1364	61
+Carisio	1365	2
+Carisolo	1366	22
+Carlantino	1367	71
+Carlazzo	1368	13
+Carlentini	1369	89
+Carlino	1370	30
+Carloforte	1371	109
+Carlopoli	1372	79
+Carmagnola	1373	1
+Carmiano	1374	75
+Carmignano	1375	100
+Carmignano di Brenta	1376	28
+Carnago	1377	12
+Carnate	1378	108
+Carobbio degli Angeli	1379	16
+Carolei	1380	78
+Carona	1381	16
+Caronia	1382	83
+Caronno Pertusella	1383	12
+Caronno Varesino	1384	12
+Carosino	1385	73
+Carovigno	1386	74
+Carovilli	1387	94
+Carpaneto Piacentino	1388	33
+Carpanzano	1389	78
+Carpegna	1390	41
+Carpenedolo	1391	17
+Carpeneto	1392	6
+Carpi	1393	36
+Carpiano	1394	15
+Carpignano Salentino	1395	75
+Carpignano Sesia	1396	3
+Carpineti	1397	35
+Carpineto della Nora	1398	68
+Carpineto Romano	1399	58
+Carpineto Sinello	1400	69
+Carpino	1401	71
+Carpinone	1402	94
+Carrara	1403	45
+Carrè	1404	24
+Carrega Ligure	1405	6
+Carro	1406	11
+Carrodano	1407	11
+Carrosio	1408	6
+Carrù	1409	4
+Carsoli	1410	66
+Cartigliano	1411	24
+Cartignano	1412	4
+Cartoceto	1413	41
+Cartosio	1414	6
+Cartura	1415	28
+Carugate	1416	15
+Carugo	1417	13
+Carunchio	1418	69
+Carvico	1419	16
+Carzano	1420	22
+Casabona	1421	101
+Casacalenda	1422	70
+Casacanditella	1423	69
+Casagiove	1424	61
+Casal Cermelli	1425	6
+Casal di Principe	1426	61
+Casal Velino	1427	65
+Casalanguida	1428	69
+Casalattico	1429	60
+Casalbeltrame	1430	3
+Casalbordino	1431	69
+Casalbore	1432	64
+Casalborgone	1433	1
+Casalbuono	1434	65
+Casalbuttano ed Uniti	1435	19
+Casalciprano	1436	70
+Casalduni	1437	62
+Casale Corte Cerro	1438	103
+Casale Cremasco-Vidolasco	1439	19
+Casale di Scodosia	1440	28
+Casale Litta	1441	12
+Casale Marittimo	1442	50
+Casale Monferrato	1443	6
+Casale sul Sile	1444	26
+Casalecchio di Reno	1445	37
+Casaleggio Boiro	1446	6
+Casaleggio Novara	1447	3
+Casaleone	1448	23
+Casaletto Ceredano	1449	19
+Casaletto di Sopra	1450	19
+Casaletto Lodigiano	1451	98
+Casaletto Spartano	1452	65
+Casaletto Vaprio	1453	19
+Casalfiumanese	1454	37
+Casalgrande	1455	35
+Casalgrasso	1456	4
+Casali del Manco	1457	78
+Casalincontrada	1458	69
+Casalino	1459	3
+Casalmaggiore	1460	19
+Casalmaiocco	1461	98
+Casalmorano	1462	19
+Casalmoro	1463	20
+Casalnoceto	1464	6
+Casalnuovo di Napoli	1465	63
+Casalnuovo Monterotaro	1466	71
+Casaloldo	1467	20
+Casalpusterlengo	1468	98
+Casalromano	1469	20
+Casalserugo	1470	28
+Casaluce	1471	61
+Casalvecchio di Puglia	1472	71
+Casalvecchio Siculo	1473	83
+Casalvieri	1474	60
+Casalvolone	1475	3
+Casalzuigno	1476	12
+Casamarciano	1477	63
+Casamassima	1478	72
+Casamicciola Terme	1479	63
+Casandrino	1480	63
+Casanova Elvo	1481	2
+Casanova Lerrone	1482	9
+Casanova Lonati	1483	18
+Casape	1484	58
+Casapesenna	1485	61
+Casapinta	1486	96
+Casaprota	1487	57
+Casapulla	1488	61
+Casarano	1489	75
+Casargo	1490	97
+Casarile	1491	15
+Casarsa della Delizia	1492	93
+Casarza Ligure	1493	10
+Casasco	1494	6
+Casatenovo	1495	97
+Casatisma	1496	18
+Casavatore	1497	63
+Casazza	1498	16
+Cascia	1499	54
+Casciago	1500	12
+Casciana Terme Lari	1501	50
+Cascina	1502	50
+Cascinette d'Ivrea	1503	1
+Casei Gerola	1504	18
+Caselette	1505	1
+Casella	1506	10
+Caselle in Pittari	1507	65
+Caselle Landi	1508	98
+Caselle Lurani	1509	98
+Caselle Torinese	1510	1
+Caserta	1511	61
+Casier	1512	26
+Casignana	1513	80
+Casina	1514	35
+Casirate d'Adda	1515	16
+Caslino d'Erba	1516	13
+Casnate con Bernate	1517	13
+Casnigo	1518	16
+Casola di Napoli	1519	63
+Casola in Lunigiana	1520	45
+Casola Valsenio	1521	39
+Casole d'Elsa	1522	52
+Casoli	1523	69
+Casorate Primo	1524	18
+Casorate Sempione	1525	12
+Casorezzo	1526	15
+Casoria	1527	63
+Casorzo	1528	5
+Casperia	1529	57
+Caspoggio	1530	14
+Cassacco	1531	30
+Cassago Brianza	1532	97
+Cassano all'Ionio	1533	78
+Cassano d'Adda	1534	15
+Cassano delle Murge	1535	72
+Cassano Irpino	1536	64
+Cassano Magnago	1537	12
+Cassano Spinola	1538	6
+Cassano Valcuvia	1539	12
+Cassaro	1540	89
+Cassiglio	1541	16
+Cassina de' Pecchi	1542	15
+Cassina Rizzardi	1543	13
+Cassina Valsassina	1544	97
+Cassinasco	1545	5
+Cassine	1546	6
+Cassinelle	1547	6
+Cassinetta di Lugagnano	1548	15
+Cassino	1549	60
+Cassola	1550	24
+Cassolnovo	1551	18
+Castagnaro	1552	23
+Castagneto Carducci	1553	49
+Castagneto Po	1554	1
+Castagnito	1555	4
+Castagnole delle Lanze	1556	5
+Castagnole Monferrato	1557	5
+Castagnole Piemonte	1558	1
+Castana	1559	18
+Castano Primo	1560	15
+Casteggio	1561	18
+Castegnato	1562	17
+Castegnero	1563	24
+Castel Baronia	1564	64
+Castel Boglione	1565	5
+Castel Bolognese	1566	39
+Castel Campagnano	1567	61
+Castel Castagna	1568	67
+Castel Condino	1569	22
+Castel d'Aiano	1570	37
+Castel d'Ario	1571	20
+Castel d'Azzano	1572	23
+Castel del Giudice	1573	94
+Castel del Monte	1574	66
+Castel del Piano	1575	53
+Castel del Rio	1576	37
+Castel di Casio	1577	37
+Castel di Ieri	1578	66
+Castel di Iudica	1579	87
+Castel di Lama	1580	44
+Castel di Lucio	1581	83
+Castel di Sangro	1582	66
+Castel di Sasso	1583	61
+Castel di Tora	1584	57
+Castel Focognano	1585	51
+Castel Frentano	1586	69
+Castel Gabbiano	1587	19
+Castel Gandolfo	1588	58
+Castel Giorgio	1589	55
+Castel Goffredo	1590	20
+Castel Guelfo di Bologna	1591	37
+Castel Ivano	1592	22
+Castel Madama	1593	58
+Castel Maggiore	1594	37
+Castel Mella	1595	17
+Castel Morrone	1596	61
+Castel Ritaldi	1597	54
+Castel Rocchero	1598	5
+Castel Rozzone	1599	16
+Castel San Giorgio	1600	65
+Castel San Giovanni	1601	33
+Castel San Lorenzo	1602	65
+Castel San Niccolò	1603	51
+Castel San Pietro Romano	1604	58
+Castel San Pietro Terme	1605	37
+Castel San Vincenzo	1606	94
+Castel Sant'Angelo	1607	57
+Castel Sant'Elia	1608	56
+Castel Viscardo	1609	55
+Castel Vittorio	1610	8
+Castel Volturno	1611	61
+Castelbaldo	1612	28
+Castelbelforte	1613	20
+Castelbellino	1614	42
+Castelbello-Ciardes	1615	21
+Castelbianco	1616	9
+Castelbottaccio	1617	70
+Castelbuono	1618	82
+Castelcivita	1619	65
+Castelcovati	1620	17
+Castelcucco	1621	26
+Casteldaccia	1622	82
+Casteldelci	1623	99
+Casteldelfino	1624	4
+Casteldidone	1625	19
+Castelfidardo	1626	42
+Castelfiorentino	1627	48
+Castelforte	1628	59
+Castelfranci	1629	64
+Castelfranco di Sotto	1630	50
+Castelfranco Emilia	1631	36
+Castelfranco in Miscano	1632	62
+Castelfranco Piandiscò	1633	51
+Castelfranco Veneto	1634	26
+Castelgerundo	1635	98
+Castelgomberto	1636	24
+Castelgrande	1637	76
+Castelguglielmo	1638	29
+Castelguidone	1639	69
+Castellabate	1640	65
+Castellafiume	1641	66
+Castell'Alfero	1642	5
+Castellalto	1643	67
+Castellammare del Golfo	1644	81
+Castellammare di Stabia	1645	63
+Castellamonte	1646	1
+Castellana Grotte	1647	72
+Castellana Sicula	1648	82
+Castellaneta	1649	73
+Castellania Coppi	1650	6
+Castellanza	1651	12
+Castellar Guidobono	1652	6
+Castellarano	1653	35
+Castellaro	1654	8
+Castell'Arquato	1655	33
+Castell'Azzara	1656	53
+Castellazzo Bormida	1657	6
+Castellazzo Novarese	1658	3
+Castelleone	1659	19
+Castelleone di Suasa	1660	42
+Castellero	1661	5
+Castelletto Cervo	1662	96
+Castelletto d'Erro	1663	6
+Castelletto di Branduzzo	1664	18
+Castelletto d'Orba	1665	6
+Castelletto Merli	1666	6
+Castelletto Molina	1667	5
+Castelletto Monferrato	1668	6
+Castelletto sopra Ticino	1669	3
+Castelletto Stura	1670	4
+Castelletto Uzzone	1671	4
+Castelli	1672	67
+Castelli Calepio	1673	16
+Castellina in Chianti	1674	52
+Castellina Marittima	1675	50
+Castellinaldo d'Alba	1676	4
+Castellino del Biferno	1677	70
+Castellino Tanaro	1678	4
+Castelliri	1679	60
+Castello Cabiaglio	1680	12
+Castello d'Agogna	1681	18
+Castello d'Argile	1682	37
+Castello del Matese	1683	61
+Castello dell'Acqua	1684	14
+Castello di Annone	1685	5
+Castello di Brianza	1686	97
+Castello di Cisterna	1687	63
+Castello di Godego	1688	26
+Castello Tesino	1689	22
+Castello-Molina di Fiemme	1690	22
+Castellucchio	1691	20
+Castelluccio dei Sauri	1692	71
+Castelluccio Inferiore	1693	76
+Castelluccio Superiore	1694	76
+Castelluccio Valmaggiore	1695	71
+Castell'Umberto	1696	83
+Castelmagno	1697	4
+Castelmarte	1698	13
+Castelmassa	1699	29
+Castelmauro	1700	70
+Castelmezzano	1701	76
+Castelmola	1702	83
+Castelnovetto	1703	18
+Castelnovo Bariano	1704	29
+Castelnovo del Friuli	1705	93
+Castelnovo di Sotto	1706	35
+Castelnovo ne' Monti	1707	35
+Castelnuovo	1708	22
+Castelnuovo Belbo	1709	5
+Castelnuovo Berardenga	1710	52
+Castelnuovo Bocca d'Adda	1711	98
+Castelnuovo Bormida	1712	6
+Castelnuovo Bozzente	1713	13
+Castelnuovo Calcea	1714	5
+Castelnuovo Cilento	1715	65
+Castelnuovo del Garda	1716	23
+Castelnuovo della Daunia	1717	71
+Castelnuovo di Ceva	1718	4
+Castelnuovo di Conza	1719	65
+Castelnuovo di Farfa	1720	57
+Castelnuovo di Garfagnana	1721	46
+Castelnuovo di Porto	1722	58
+Castelnuovo di Val di Cecina	1723	50
+Castelnuovo Don Bosco	1724	5
+Castelnuovo Magra	1725	11
+Castelnuovo Nigra	1726	1
+Castelnuovo Parano	1727	60
+Castelnuovo Rangone	1728	36
+Castelnuovo Scrivia	1729	6
+Castelpagano	1730	62
+Castelpetroso	1731	94
+Castelpizzuto	1732	94
+Castelplanio	1733	42
+Castelpoto	1734	62
+Castelraimondo	1735	43
+Castelrotto	1736	21
+Castelsantangelo sul Nera	1737	43
+Castelsaraceno	1738	76
+Castelsardo	1739	90
+Castelseprio	1740	12
+Castelsilano	1741	101
+Castelspina	1742	6
+Casteltermini	1743	84
+Castelveccana	1744	12
+Castelvecchio Calvisio	1745	66
+Castelvecchio di Rocca Barbena	1746	9
+Castelvecchio Subequo	1747	66
+Castelvenere	1748	62
+Castelverde	1749	19
+Castelverrino	1750	94
+Castelvetere in Val Fortore	1751	62
+Castelvetere sul Calore	1752	64
+Castelvetrano	1753	81
+Castelvetro di Modena	1754	36
+Castelvetro Piacentino	1755	33
+Castelvisconti	1756	19
+Castenaso	1757	37
+Castenedolo	1758	17
+Castiadas	1759	109
+Castiglion Fibocchi	1760	51
+Castiglion Fiorentino	1761	51
+Castiglione a Casauria	1762	68
+Castiglione Chiavarese	1763	10
+Castiglione Cosentino	1764	78
+Castiglione d'Adda	1765	98
+Castiglione dei Pepoli	1766	37
+Castiglione del Genovesi	1767	65
+Castiglione del Lago	1768	54
+Castiglione della Pescaia	1769	53
+Castiglione delle Stiviere	1770	20
+Castiglione di Garfagnana	1771	46
+Castiglione di Sicilia	1772	87
+Castiglione d'Orcia	1773	52
+Castiglione Falletto	1774	4
+Castiglione in Teverina	1775	56
+Castiglione Messer Marino	1776	69
+Castiglione Messer Raimondo	1777	67
+Castiglione Olona	1778	12
+Castiglione Tinella	1779	4
+Castiglione Torinese	1780	1
+Castignano	1781	44
+Castilenti	1782	67
+Castino	1783	4
+Castione Andevenno	1784	14
+Castione della Presolana	1785	16
+Castions di Strada	1786	30
+Castiraga Vidardo	1787	98
+Casto	1788	17
+Castorano	1789	44
+Castrezzato	1790	17
+Castri di Lecce	1791	75
+Castrignano de' Greci	1792	75
+Castrignano del Capo	1793	75
+Castro	1794	16
+Castro	1795	75
+Castro dei Volsci	1796	60
+Castrocaro Terme e Terra del Sole	1797	40
+Castrocielo	1798	60
+Castrofilippo	1799	84
+Castrolibero	1800	78
+Castronno	1801	12
+Castronovo di Sicilia	1802	82
+Castronuovo di Sant'Andrea	1803	76
+Castropignano	1804	70
+Castroreale	1805	83
+Castroregio	1806	78
+Castrovillari	1807	78
+Catania	1808	87
+Catanzaro	1809	79
+Catenanuova	1810	86
+Catignano	1811	68
+Cattolica	1812	99
+Cattolica Eraclea	1813	84
+Caulonia	1814	80
+Cautano	1815	62
+Cava de' Tirreni	1816	65
+Cava Manara	1817	18
+Cavaglià	1818	96
+Cavaglietto	1819	3
+Cavaglio d'Agogna	1820	3
+Cavagnolo	1821	1
+Cavaion Veronese	1822	23
+Cavalese	1823	22
+Cavallerleone	1824	4
+Cavallermaggiore	1825	4
+Cavallino	1826	75
+Cavallino-Treporti	1827	27
+Cavallirio	1828	3
+Cavareno	1829	22
+Cavargna	1830	13
+Cavaria con Premezzo	1831	12
+Cavarzere	1832	27
+Cavaso del Tomba	1833	26
+Cavasso Nuovo	1834	93
+Cavatore	1835	6
+Cavazzo Carnico	1836	30
+Cave	1837	58
+Cavedago	1838	22
+Cavedine	1839	22
+Cavenago d'Adda	1840	98
+Cavenago di Brianza	1841	108
+Cavernago	1842	16
+Cavezzo	1843	36
+Cavizzana	1844	22
+Cavour	1845	1
+Cavriago	1846	35
+Cavriana	1847	20
+Cavriglia	1848	51
+Cazzago Brabbia	1849	12
+Cazzago San Martino	1850	17
+Cazzano di Tramigna	1851	23
+Cazzano Sant'Andrea	1852	16
+Ceccano	1853	60
+Cecima	1854	18
+Cecina	1855	49
+Cedegolo	1856	17
+Cedrasco	1857	14
+Cefalà Diana	1858	82
+Cefalù	1859	82
+Ceggia	1860	27
+Ceglie Messapica	1861	74
+Celano	1862	66
+Celenza sul Trigno	1863	69
+Celenza Valfortore	1864	71
+Celico	1865	78
+Cella Dati	1866	19
+Cella Monte	1867	6
+Cellamare	1868	72
+Cellara	1869	78
+Cellarengo	1870	5
+Cellatica	1871	17
+Celle di Bulgheria	1872	65
+Celle di Macra	1873	4
+Celle di San Vito	1874	71
+Celle Enomondo	1875	5
+Celle Ligure	1876	9
+Celleno	1877	56
+Cellere	1878	56
+Cellino Attanasio	1879	67
+Cellino San Marco	1880	74
+Cellio con Breia	1881	2
+Cellole	1882	61
+Cembra Lisignago	1883	22
+Cenadi	1884	79
+Cenate Sopra	1885	16
+Cenate Sotto	1886	16
+Cencenighe Agordino	1887	25
+Cene	1888	16
+Ceneselli	1889	29
+Cengio	1890	9
+Centallo	1891	4
+Cento	1892	38
+Centola	1893	65
+Centrache	1894	79
+Centro Valle Intelvi	1895	13
+Centuripe	1896	86
+Cepagatti	1897	68
+Ceppaloni	1898	62
+Ceppo Morelli	1899	103
+Ceprano	1900	60
+Cerami	1901	86
+Ceranesi	1902	10
+Cerano	1903	3
+Cerano d'Intelvi	1904	13
+Ceranova	1905	18
+Ceraso	1906	65
+Cercemaggiore	1907	70
+Cercenasco	1908	1
+Cercepiccola	1909	70
+Cerchiara di Calabria	1910	78
+Cerchio	1911	66
+Cercino	1912	14
+Cercivento	1913	30
+Cercola	1914	63
+Cerda	1915	82
+Cerea	1916	23
+Ceregnano	1917	29
+Cerenzia	1918	101
+Ceres	1919	1
+Ceresara	1920	20
+Cereseto	1921	6
+Ceresole Alba	1922	4
+Ceresole Reale	1923	1
+Cerete	1924	16
+Ceretto Lomellina	1925	18
+Cergnago	1926	18
+Ceriale	1927	9
+Ceriana	1928	8
+Ceriano Laghetto	1929	108
+Cerignale	1930	33
+Cerignola	1931	71
+Cerisano	1932	78
+Cermenate	1933	13
+Cermes	1934	21
+Cermignano	1935	67
+Cernobbio	1936	13
+Cernusco Lombardone	1937	97
+Cernusco sul Naviglio	1938	15
+Cerreto d'Asti	1939	5
+Cerreto d'Esi	1940	42
+Cerreto di Spoleto	1941	54
+Cerreto Grue	1942	6
+Cerreto Guidi	1943	48
+Cerreto Laziale	1944	58
+Cerreto Sannita	1945	62
+Cerretto Langhe	1946	4
+Cerrina Monferrato	1947	6
+Cerrione	1948	96
+Cerro al Lambro	1949	15
+Cerro al Volturno	1950	94
+Cerro Maggiore	1951	15
+Cerro Tanaro	1952	5
+Cerro Veronese	1953	23
+Cersosimo	1954	76
+Certaldo	1955	48
+Certosa di Pavia	1956	18
+Cerva	1957	79
+Cervara di Roma	1958	58
+Cervarese Santa Croce	1959	28
+Cervaro	1960	60
+Cervasca	1961	4
+Cervatto	1962	2
+Cerveno	1963	17
+Cervere	1964	4
+Cervesina	1965	18
+Cerveteri	1966	58
+Cervia	1967	39
+Cervicati	1968	78
+Cervignano d'Adda	1969	98
+Cervignano del Friuli	1970	30
+Cervinara	1971	64
+Cervino	1972	61
+Cervo	1973	8
+Cerzeto	1974	78
+Cesa	1975	61
+Cesana Brianza	1976	97
+Cesana Torinese	1977	1
+Cesano Boscone	1978	15
+Cesano Maderno	1979	108
+Cesara	1980	103
+Cesarò	1981	83
+Cesate	1982	15
+Cesena	1983	40
+Cesenatico	1984	40
+Cesinali	1985	64
+Cesio	1986	8
+Cesiomaggiore	1987	25
+Cessalto	1988	26
+Cessaniti	1989	102
+Cessapalombo	1990	43
+Cessole	1991	5
+Cetara	1992	65
+Ceto	1993	17
+Cetona	1994	52
+Cetraro	1995	78
+Ceva	1996	4
+Cevo	1997	17
+Challand-Saint-Anselme	1998	7
+Challand-Saint-Victor	1999	7
+Chambave	2000	7
+Chamois	2001	7
+Champdepraz	2002	7
+Champorcher	2003	7
+Charvensod	2004	7
+Châtillon	2005	7
+Cherasco	2006	4
+Cheremule	2007	90
+Chialamberto	2008	1
+Chiampo	2009	24
+Chianche	2010	64
+Chianciano Terme	2011	52
+Chianni	2012	50
+Chianocco	2013	1
+Chiaramonte Gulfi	2014	88
+Chiaramonti	2015	90
+Chiarano	2016	26
+Chiaravalle	2017	42
+Chiaravalle Centrale	2018	79
+Chiari	2019	17
+Chiaromonte	2020	76
+Chiauci	2021	94
+Chiavari	2022	10
+Chiavenna	2023	14
+Chiaverano	2024	1
+Chienes	2025	21
+Chieri	2026	1
+Chies d'Alpago	2027	25
+Chiesa in Valmalenco	2028	14
+Chiesanuova	2029	1
+Chiesina Uzzanese	2030	47
+Chieti	2031	69
+Chieuti	2032	71
+Chieve	2033	19
+Chignolo d'Isola	2034	16
+Chignolo Po	2035	18
+Chioggia	2036	27
+Chiomonte	2037	1
+Chions	2038	93
+Chiopris-Viscone	2039	30
+Chitignano	2040	51
+Chiuduno	2041	16
+Chiuppano	2042	24
+Chiuro	2043	14
+Chiusa	2044	21
+Chiusa di Pesio	2045	4
+Chiusa di San Michele	2046	1
+Chiusa Sclafani	2047	82
+Chiusaforte	2048	30
+Chiusanico	2049	8
+Chiusano d'Asti	2050	5
+Chiusano di San Domenico	2051	64
+Chiusavecchia	2052	8
+Chiusdino	2053	52
+Chiusi	2054	52
+Chiusi della Verna	2055	51
+Chivasso	2056	1
+Ciampino	2057	58
+Cianciana	2058	84
+Cibiana di Cadore	2059	25
+Cicagna	2060	10
+Cicala	2061	79
+Cicciano	2062	63
+Cicerale	2063	65
+Ciciliano	2064	58
+Cicognolo	2065	19
+Ciconio	2066	1
+Cigliano	2067	2
+Cigliè	2068	4
+Cigognola	2069	18
+Cigole	2070	17
+Cilavegna	2071	18
+Cimadolmo	2072	26
+Cimbergo	2073	17
+Ciminà	2074	80
+Ciminna	2075	82
+Cimitile	2076	63
+Cimolais	2077	93
+Cimone	2078	22
+Cinaglio	2079	5
+Cineto Romano	2080	58
+Cingia de' Botti	2081	19
+Cingoli	2082	43
+Cinigiano	2083	53
+Cinisello Balsamo	2084	15
+Cinisi	2085	82
+Cino	2086	14
+Cinquefrondi	2087	80
+Cintano	2088	1
+Cinte Tesino	2089	22
+Cinto Caomaggiore	2090	27
+Cinto Euganeo	2091	28
+Cinzano	2092	1
+Ciorlano	2093	61
+Cipressa	2094	8
+Circello	2095	62
+Ciriè	2096	1
+Cirigliano	2097	77
+Cirimido	2098	13
+Cirò	2099	101
+Cirò Marina	2100	101
+Cis	2101	22
+Cisano Bergamasco	2102	16
+Cisano sul Neva	2103	9
+Ciserano	2104	16
+Cislago	2105	12
+Cisliano	2106	15
+Cison di Valmarino	2107	26
+Cissone	2108	4
+Cisterna d'Asti	2109	5
+Cisterna di Latina	2110	59
+Cisternino	2111	74
+Citerna	2112	54
+Città della Pieve	2113	54
+Città di Castello	2114	54
+Città Sant'Angelo	2115	68
+Cittadella	2116	28
+Cittaducale	2117	57
+Cittanova	2118	80
+Cittareale	2119	57
+Cittiglio	2120	12
+Civate	2121	97
+Civezza	2122	8
+Civezzano	2123	22
+Civiasco	2124	2
+Cividale del Friuli	2125	30
+Cividate al Piano	2126	16
+Cividate Camuno	2127	17
+Civita	2128	78
+Civita Castellana	2129	56
+Civita d'Antino	2130	66
+Civitacampomarano	2131	70
+Civitaluparella	2132	69
+Civitanova del Sannio	2133	94
+Civitanova Marche	2134	43
+Civitaquana	2135	68
+Civitavecchia	2136	58
+Civitella Alfedena	2137	66
+Civitella Casanova	2138	68
+Civitella d'Agliano	2139	56
+Civitella del Tronto	2140	67
+Civitella di Romagna	2141	40
+Civitella in Val di Chiana	2142	51
+Civitella Messer Raimondo	2143	69
+Civitella Paganico	2144	53
+Civitella Roveto	2145	66
+Civitella San Paolo	2146	58
+Civo	2147	14
+Claino con Osteno	2148	13
+Claut	2149	93
+Clauzetto	2150	93
+Clavesana	2151	4
+Claviere	2152	1
+Cles	2153	22
+Cleto	2154	78
+Clivio	2155	12
+Clusone	2156	16
+Coassolo Torinese	2157	1
+Coazze	2158	1
+Coazzolo	2159	5
+Coccaglio	2160	17
+Cocconato	2161	5
+Cocquio-Trevisago	2162	12
+Cocullo	2163	66
+Codevigo	2164	28
+Codevilla	2165	18
+Codigoro	2166	38
+Codognè	2167	26
+Codogno	2168	98
+Codroipo	2169	30
+Codrongianos	2170	90
+Coggiola	2171	96
+Cogliate	2172	108
+Cogne	2173	7
+Cogoleto	2174	10
+Cogollo del Cengio	2175	24
+Cogorno	2176	10
+Colazza	2177	3
+Colceresa	2178	24
+Colere	2179	16
+Colfelice	2180	60
+Coli	2181	33
+Colico	2182	97
+Collalto Sabino	2183	57
+Collarmele	2184	66
+Collazzone	2185	54
+Colle Brianza	2186	97
+Colle d'Anchise	2187	70
+Colle di Tora	2188	57
+Colle di Val d'Elsa	2189	52
+Colle San Magno	2190	60
+Colle Sannita	2191	62
+Colle Santa Lucia	2192	25
+Colle Umberto	2193	26
+Collebeato	2194	17
+Collecchio	2195	34
+Collecorvino	2196	68
+Colledara	2197	67
+Colledimacine	2198	69
+Colledimezzo	2199	69
+Colleferro	2200	58
+Collegiove	2201	57
+Collegno	2202	1
+Collelongo	2203	66
+Collepardo	2204	60
+Collepasso	2205	75
+Collepietro	2206	66
+Colleretto Castelnuovo	2207	1
+Colleretto Giacosa	2208	1
+Collesalvetti	2209	49
+Collesano	2210	82
+Colletorto	2211	70
+Collevecchio	2212	57
+Colli a Volturno	2213	94
+Colli al Metauro	2214	41
+Colli del Tronto	2215	44
+Colli sul Velino	2216	57
+Colli Verdi	2217	18
+Colliano	2218	65
+Collinas	2219	109
+Collio	2220	17
+Collobiano	2221	2
+Colloredo di Monte Albano	2222	30
+Colmurano	2223	43
+Colobraro	2224	77
+Cologna Veneta	2225	23
+Cologne	2226	17
+Cologno al Serio	2227	16
+Cologno Monzese	2228	15
+Colognola ai Colli	2229	23
+Colonna	2230	58
+Colonnella	2231	67
+Colonno	2232	13
+Colorina	2233	14
+Colorno	2234	34
+Colosimi	2235	78
+Colturano	2236	15
+Colverde	2237	13
+Colzate	2238	16
+Comabbio	2239	12
+Comacchio	2240	38
+Comano	2241	45
+Comano Terme	2242	22
+Comazzo	2243	98
+Comeglians	2244	30
+Comelico Superiore	2245	25
+Comerio	2246	12
+Comezzano-Cizzago	2247	17
+Comignago	2248	3
+Comiso	2249	88
+Comitini	2250	84
+Comiziano	2251	63
+Commessaggio	2252	20
+Commezzadura	2253	22
+Como	2254	13
+Compiano	2255	34
+Comun Nuovo	2256	16
+Comunanza	2257	44
+Cona	2258	27
+Conca Casale	2259	94
+Conca dei Marini	2260	65
+Conca della Campania	2261	61
+Concamarise	2262	23
+Concerviano	2263	57
+Concesio	2264	17
+Concordia Sagittaria	2265	27
+Concordia sulla Secchia	2266	36
+Concorezzo	2267	108
+Condofuri	2268	80
+Condove	2269	1
+Condrò	2270	83
+Conegliano	2271	26
+Confienza	2272	18
+Configni	2273	57
+Conflenti	2274	79
+Coniolo	2275	6
+Conselice	2276	39
+Conselve	2277	28
+Contà	2278	22
+Contessa Entellina	2279	82
+Contigliano	2280	57
+Contrada	2281	64
+Controguerra	2282	67
+Controne	2283	65
+Contursi Terme	2284	65
+Conversano	2285	72
+Conza della Campania	2286	64
+Conzano	2287	6
+Copertino	2288	75
+Copiano	2289	18
+Copparo	2290	38
+Corana	2291	18
+Corato	2292	72
+Corbara	2293	65
+Corbetta	2294	15
+Corbola	2295	29
+Corchiano	2296	56
+Corciano	2297	54
+Cordenons	2298	93
+Cordignano	2299	26
+Cordovado	2300	93
+Coreglia Antelminelli	2301	46
+Coreglia Ligure	2302	10
+Coreno Ausonio	2303	60
+Corfinio	2304	66
+Cori	2305	59
+Coriano	2306	99
+Corigliano d'Otranto	2307	75
+Corigliano-Rossano	2308	78
+Corinaldo	2309	42
+Corio	2310	1
+Corleone	2311	82
+Corleto Monforte	2312	65
+Corleto Perticara	2313	76
+Cormano	2314	15
+Cormons	2315	31
+Corna Imagna	2316	16
+Cornalba	2317	16
+Cornale e Bastida	2318	18
+Cornaredo	2319	15
+Cornate d'Adda	2320	108
+Cornedo all'Isarco	2321	21
+Cornedo Vicentino	2322	24
+Cornegliano Laudense	2323	98
+Corneliano d'Alba	2324	4
+Corniglio	2325	34
+Corno di Rosazzo	2326	30
+Corno Giovine	2327	98
+Cornovecchio	2328	98
+Cornuda	2329	26
+Correggio	2330	35
+Correzzana	2331	108
+Correzzola	2332	28
+Corrido	2333	13
+Corridonia	2334	43
+Corropoli	2335	67
+Corsano	2336	75
+Corsico	2337	15
+Corsione	2338	5
+Cortaccia sulla strada del vino	2339	21
+Cortale	2340	79
+Cortandone	2341	5
+Cortanze	2342	5
+Cortazzone	2343	5
+Corte Brugnatella	2344	33
+Corte de' Cortesi con Cignone	2345	19
+Corte de' Frati	2346	19
+Corte Franca	2347	17
+Corte Palasio	2348	98
+Cortemaggiore	2349	33
+Cortemilia	2350	4
+Corteno Golgi	2351	17
+Cortenova	2352	97
+Cortenuova	2353	16
+Corteolona e Genzone	2354	18
+Cortiglione	2355	5
+Cortina d'Ampezzo	2356	25
+Cortina sulla strada del vino	2357	21
+Cortino	2358	67
+Cortona	2359	51
+Corvara	2360	68
+Corvara in Badia	2361	21
+Corvino San Quirico	2362	18
+Corzano	2363	17
+Coseano	2364	30
+Cosenza	2365	78
+Cosio d'Arroscia	2366	8
+Cosio Valtellino	2367	14
+Cosoleto	2368	80
+Cossano Belbo	2369	4
+Cossano Canavese	2370	1
+Cossato	2371	96
+Cosseria	2372	9
+Cossignano	2373	44
+Cossogno	2374	103
+Cossoine	2375	90
+Cossombrato	2376	5
+Costa de' Nobili	2377	18
+Costa di Mezzate	2378	16
+Costa di Rovigo	2379	29
+Costa Masnaga	2380	97
+Costa Serina	2381	16
+Costa Valle Imagna	2382	16
+Costa Vescovato	2383	6
+Costa Volpino	2384	16
+Costabissara	2385	24
+Costacciaro	2386	54
+Costanzana	2387	2
+Costarainera	2388	8
+Costermano sul Garda	2389	23
+Costigliole d'Asti	2390	5
+Costigliole Saluzzo	2391	4
+Cotignola	2392	39
+Cotronei	2393	101
+Cottanello	2394	57
+Courmayeur	2395	7
+Covo	2396	16
+Cozzo	2397	18
+Craco	2398	77
+Crandola Valsassina	2399	97
+Cravagliana	2400	2
+Cravanzana	2401	4
+Craveggia	2402	103
+Creazzo	2403	24
+Crecchio	2404	69
+Credaro	2405	16
+Credera Rubbiano	2406	19
+Crema	2407	19
+Cremella	2408	97
+Cremenaga	2409	12
+Cremeno	2410	97
+Cremia	2411	13
+Cremolino	2412	6
+Cremona	2413	19
+Cremosano	2414	19
+Crescentino	2415	2
+Crespadoro	2416	24
+Crespiatica	2417	98
+Crespina Lorenzana	2418	50
+Crespino	2419	29
+Cressa	2420	3
+Crevacuore	2421	96
+Crevalcore	2422	37
+Crevoladossola	2423	103
+Crispano	2424	63
+Crispiano	2425	73
+Crissolo	2426	4
+Crocefieschi	2427	10
+Crocetta del Montello	2428	26
+Crodo	2429	103
+Crognaleto	2430	67
+Cropalati	2431	78
+Cropani	2432	79
+Crosia	2433	78
+Crosio della Valle	2434	12
+Crotone	2435	101
+Crotta d'Adda	2436	19
+Crova	2437	2
+Croviana	2438	22
+Crucoli	2439	101
+Cuasso al Monte	2440	12
+Cuccaro Vetere	2441	65
+Cucciago	2442	13
+Cuceglio	2443	1
+Cuggiono	2444	15
+Cugliate-Fabiasco	2445	12
+Cuglieri	2446	95
+Cugnoli	2447	68
+Cumiana	2448	1
+Cumignano sul Naviglio	2449	19
+Cunardo	2450	12
+Cuneo	2451	4
+Cunico	2452	5
+Cuorgnè	2453	1
+Cupello	2454	69
+Cupra Marittima	2455	44
+Cupramontana	2456	42
+Cura Carpignano	2457	18
+Curcuris	2458	95
+Cureggio	2459	3
+Curiglia con Monteviasco	2460	12
+Curinga	2461	79
+Curino	2462	96
+Curno	2463	16
+Curon Venosta	2464	21
+Cursi	2465	75
+Curtarolo	2466	28
+Curtatone	2467	20
+Curti	2468	61
+Cusago	2469	15
+Cusano Milanino	2470	15
+Cusano Mutri	2471	62
+Cusino	2472	13
+Cusio	2473	16
+Custonaci	2474	81
+Cutro	2475	101
+Cutrofiano	2476	75
+Cuveglio	2477	12
+Cuvio	2478	12
+Dairago	2479	15
+Dalmine	2480	16
+Dambel	2481	22
+Danta di Cadore	2482	25
+Darfo Boario Terme	2483	17
+Dasà	2484	102
+Davagna	2485	10
+Daverio	2486	12
+Davoli	2487	79
+Dazio	2488	14
+Decimomannu	2489	92
+Decimoputzu	2490	109
+Decollatura	2491	79
+Dego	2492	9
+Deiva Marina	2493	11
+Delebio	2494	14
+Delia	2495	85
+Delianuova	2496	80
+Deliceto	2497	71
+Dello	2498	17
+Demonte	2499	4
+Denice	2500	6
+Denno	2501	22
+Dernice	2502	6
+Derovere	2503	19
+Deruta	2504	54
+Dervio	2505	97
+Desana	2506	2
+Desenzano del Garda	2507	17
+Desio	2508	108
+Desulo	2509	91
+Diamante	2510	78
+Diano Arentino	2511	8
+Diano Castello	2512	8
+Diano d'Alba	2513	4
+Diano Marina	2514	8
+Diano San Pietro	2515	8
+Dicomano	2516	48
+Dignano	2517	30
+Dimaro Folgarida	2518	22
+Dinami	2519	102
+Dipignano	2520	78
+Diso	2521	75
+Divignano	2522	3
+Dizzasco	2523	13
+Dobbiaco	2524	21
+Doberdò del Lago	2525	31
+Dogliani	2526	4
+Dogliola	2527	69
+Dogna	2528	30
+Dolcè	2529	23
+Dolceacqua	2530	8
+Dolcedo	2531	8
+Dolegna del Collio	2532	31
+Dolianova	2533	109
+Dolo	2534	27
+Dolzago	2535	97
+Domanico	2536	78
+Domaso	2537	13
+Domegge di Cadore	2538	25
+Domicella	2539	64
+Domodossola	2540	103
+Domus de Maria	2541	109
+Domusnovas	2542	109
+Donato	2543	96
+Dongo	2544	13
+Donnas	2545	7
+Donori	2546	109
+Dorgali	2547	91
+Dorio	2548	97
+Dormelletto	2549	3
+Dorno	2550	18
+Dorzano	2551	96
+Dosolo	2552	20
+Dossena	2553	16
+Dosso del Liro	2554	13
+Doues	2555	7
+Dovadola	2556	40
+Dovera	2557	19
+Dozza	2558	37
+Dragoni	2559	61
+Drapia	2560	102
+Drena	2561	22
+Drenchia	2562	30
+Dresano	2563	15
+Dro	2564	22
+Dronero	2565	4
+Druento	2566	1
+Druogno	2567	103
+Dualchi	2568	91
+Dubino	2569	14
+Due Carrare	2570	28
+Dueville	2571	24
+Dugenta	2572	62
+Duino Aurisina	2573	32
+Dumenza	2574	12
+Duno	2575	12
+Durazzano	2576	62
+Duronia	2577	70
+Dusino San Michele	2578	5
+Eboli	2579	65
+Edolo	2580	17
+Egna	2581	21
+Elice	2582	68
+Elini	2583	91
+Ello	2584	97
+Elmas	2585	92
+Elva	2586	4
+Emarèse	2587	7
+Empoli	2588	48
+Endine Gaiano	2589	16
+Enego	2590	24
+Enemonzo	2591	30
+Enna	2592	86
+Entracque	2593	4
+Entratico	2594	16
+Envie	2595	4
+Episcopia	2596	76
+Eraclea	2597	27
+Erba	2598	13
+Erbè	2599	23
+Erbezzo	2600	23
+Erbusco	2601	17
+Erchie	2602	74
+Ercolano	2603	63
+Erice	2604	81
+Erli	2605	9
+Erto e Casso	2606	93
+Erula	2607	90
+Erve	2608	97
+Esanatoglia	2609	43
+Escalaplano	2610	109
+Escolca	2611	109
+Esine	2612	17
+Esino Lario	2613	97
+Esperia	2614	60
+Esporlatu	2615	90
+Este	2616	28
+Esterzili	2617	109
+Etroubles	2618	7
+Eupilio	2619	13
+Exilles	2620	1
+Fabbrica Curone	2621	6
+Fabbriche di Vergemoli	2622	46
+Fabbrico	2623	35
+Fabriano	2624	42
+Fabrica di Roma	2625	56
+Fabrizia	2626	102
+Fabro	2627	55
+Faedis	2628	30
+Faedo Valtellino	2629	14
+Faenza	2630	39
+Faeto	2631	71
+Fagagna	2632	30
+Faggeto Lario	2633	13
+Faggiano	2634	73
+Fagnano Alto	2635	66
+Fagnano Castello	2636	78
+Fagnano Olona	2637	12
+Fai della Paganella	2638	22
+Faicchio	2639	62
+Falcade	2640	25
+Falciano del Massico	2641	61
+Falconara Albanese	2642	78
+Falconara Marittima	2643	42
+Falcone	2644	83
+Faleria	2645	56
+Falerna	2646	79
+Falerone	2647	109
+Fallo	2648	69
+Faloppio	2649	13
+Falvaterra	2650	60
+Falzes	2651	21
+Fanano	2652	36
+Fanna	2653	93
+Fano	2654	41
+Fano Adriano	2655	67
+Fara Filiorum Petri	2656	69
+Fara Gera d'Adda	2657	16
+Fara in Sabina	2658	57
+Fara Novarese	2659	3
+Fara Olivana con Sola	2660	16
+Fara San Martino	2661	69
+Fara Vicentino	2662	24
+Fardella	2663	76
+Farigliano	2664	4
+Farindola	2665	68
+Farini	2666	33
+Farnese	2667	56
+Farra di Soligo	2668	26
+Farra d'Isonzo	2669	31
+Fasano	2670	74
+Fascia	2671	10
+Fauglia	2672	50
+Faule	2673	4
+Favale di Malvaro	2674	10
+Favara	2675	84
+Favignana	2676	81
+Favria	2677	1
+Feisoglio	2678	4
+Feletto	2679	1
+Felino	2680	34
+Felitto	2681	65
+Felizzano	2682	6
+Feltre	2683	25
+Fenegrò	2684	13
+Fenestrelle	2685	1
+Fénis	2686	7
+Ferentillo	2687	55
+Ferentino	2688	60
+Ferla	2689	89
+Fermignano	2690	41
+Fermo	2691	109
+Ferno	2692	12
+Feroleto Antico	2693	79
+Feroleto della Chiesa	2694	80
+Ferrandina	2695	77
+Ferrara	2696	38
+Ferrara di Monte Baldo	2697	23
+Ferrazzano	2698	70
+Ferrera di Varese	2699	12
+Ferrera Erbognone	2700	18
+Ferrere	2701	5
+Ferriere	2702	33
+Ferruzzano	2703	80
+Fiamignano	2704	57
+Fiano	2705	1
+Fiano Romano	2706	58
+Fiastra	2707	43
+Fiavè	2708	22
+Ficarazzi	2709	82
+Ficarolo	2710	29
+Ficarra	2711	83
+Ficulle	2712	55
+Fidenza	2713	34
+Fiè allo Sciliar	2714	21
+Fierozzo	2715	22
+Fiesco	2716	19
+Fiesole	2717	48
+Fiesse	2718	17
+Fiesso d'Artico	2719	27
+Fiesso Umbertiano	2720	29
+Figino Serenza	2721	13
+Figline e Incisa Valdarno	2722	48
+Figline Vegliaturo	2723	78
+Filacciano	2724	58
+Filadelfia	2725	102
+Filago	2726	16
+Filandari	2727	102
+Filattiera	2728	45
+Filettino	2729	60
+Filetto	2730	69
+Filiano	2731	76
+Filighera	2732	18
+Filignano	2733	94
+Filogaso	2734	102
+Filottrano	2735	42
+Finale Emilia	2736	36
+Finale Ligure	2737	9
+Fino del Monte	2738	16
+Fino Mornasco	2739	13
+Fiorano al Serio	2740	16
+Fiorano Canavese	2741	1
+Fiorano Modenese	2742	36
+Fiorenzuola d'Arda	2743	33
+Firenze	2744	48
+Firenzuola	2745	48
+Firmo	2746	78
+Fiscaglia	2747	38
+Fisciano	2748	65
+Fiuggi	2749	60
+Fiumalbo	2750	36
+Fiumara	2751	80
+Fiume Veneto	2752	93
+Fiumedinisi	2753	83
+Fiumefreddo Bruzio	2754	78
+Fiumefreddo di Sicilia	2755	87
+Fiumicello Villa Vicentina	2756	30
+Fiumicino	2757	58
+Fiuminata	2758	43
+Fivizzano	2759	45
+Flaibano	2760	30
+Flero	2761	17
+Floresta	2762	83
+Floridia	2763	89
+Florinas	2764	90
+Flumeri	2765	64
+Fluminimaggiore	2766	109
+Flussio	2767	95
+Fobello	2768	2
+Foggia	2769	71
+Foglianise	2770	62
+Fogliano Redipuglia	2771	31
+Foglizzo	2772	1
+Foiano della Chiana	2773	51
+Foiano di Val Fortore	2774	62
+Folgaria	2775	22
+Folignano	2776	44
+Foligno	2777	54
+Follina	2778	26
+Follo	2779	11
+Follonica	2780	53
+Fombio	2781	98
+Fondachelli-Fantina	2782	83
+Fondi	2783	59
+Fonni	2784	91
+Fontainemore	2785	7
+Fontana Liri	2786	60
+Fontanafredda	2787	93
+Fontanarosa	2788	64
+Fontanelice	2789	37
+Fontanella	2790	16
+Fontanellato	2791	34
+Fontanelle	2792	26
+Fontaneto d'Agogna	2793	3
+Fontanetto Po	2794	2
+Fontanigorda	2795	10
+Fontanile	2796	5
+Fontaniva	2797	28
+Fonte	2798	26
+Fonte Nuova	2799	58
+Fontecchio	2800	66
+Fontechiari	2801	60
+Fontegreca	2802	61
+Fonteno	2803	16
+Fontevivo	2804	34
+Fonzaso	2805	25
+Foppolo	2806	16
+Forano	2807	57
+Force	2808	44
+Forchia	2809	62
+Forcola	2810	14
+Fordongianus	2811	95
+Forenza	2812	76
+Foresto Sparso	2813	16
+Forgaria nel Friuli	2814	30
+Forino	2815	64
+Forio	2816	63
+Forlì	2817	40
+Forlì del Sannio	2818	94
+Forlimpopoli	2819	40
+Formazza	2820	103
+Formello	2821	58
+Formia	2822	59
+Formicola	2823	61
+Formigara	2824	19
+Formigine	2825	36
+Formigliana	2826	2
+Fornace	2827	22
+Fornelli	2828	94
+Forni Avoltri	2829	30
+Forni di Sopra	2830	30
+Forni di Sotto	2831	30
+Forno Canavese	2832	1
+Fornovo di Taro	2833	34
+Fornovo San Giovanni	2834	16
+Forte dei Marmi	2835	46
+Fortezza	2836	21
+Fortunago	2837	18
+Forza d'Agrò	2838	83
+Fosciandora	2839	46
+Fosdinovo	2840	45
+Fossa	2841	66
+Fossacesia	2842	69
+Fossalta di Piave	2843	27
+Fossalta di Portogruaro	2844	27
+Fossalto	2845	70
+Fossano	2846	4
+Fossato di Vico	2847	54
+Fossato Serralta	2848	79
+Fossò	2849	27
+Fossombrone	2850	41
+Foza	2851	24
+Frabosa Soprana	2852	4
+Frabosa Sottana	2853	4
+Fraconalto	2854	6
+Fragagnano	2855	73
+Fragneto l'Abate	2856	62
+Fragneto Monforte	2857	62
+Fraine	2858	69
+Framura	2859	11
+Francavilla al Mare	2860	69
+Francavilla Angitola	2861	102
+Francavilla Bisio	2862	6
+Francavilla d'Ete	2863	109
+Francavilla di Sicilia	2864	83
+Francavilla Fontana	2865	74
+Francavilla in Sinni	2866	76
+Francavilla Marittima	2867	78
+Francica	2868	102
+Francofonte	2869	89
+Francolise	2870	61
+Frascaro	2871	6
+Frascarolo	2872	18
+Frascati	2873	58
+Frascineto	2874	78
+Frassilongo	2875	22
+Frassinelle Polesine	2876	29
+Frassinello Monferrato	2877	6
+Frassineto Po	2878	6
+Frassinetto	2879	1
+Frassino	2880	4
+Frassinoro	2881	36
+Frasso Sabino	2882	57
+Frasso Telesino	2883	62
+Fratta Polesine	2884	29
+Fratta Todina	2885	54
+Frattamaggiore	2886	63
+Frattaminore	2887	63
+Fratte Rosa	2888	41
+Frazzanò	2889	83
+Fregona	2890	26
+Fresagrandinaria	2891	69
+Fresonara	2892	6
+Frigento	2893	64
+Frignano	2894	61
+Frinco	2895	5
+Frisa	2896	69
+Frisanco	2897	93
+Front	2898	1
+Frontino	2899	41
+Frontone	2900	41
+Frosinone	2901	60
+Frosolone	2902	94
+Frossasco	2903	1
+Frugarolo	2904	6
+Fubine Monferrato	2905	6
+Fucecchio	2906	48
+Fuipiano Valle Imagna	2907	16
+Fumane	2908	23
+Fumone	2909	60
+Funes	2910	21
+Furci	2911	69
+Furci Siculo	2912	83
+Furnari	2913	83
+Furore	2914	65
+Furtei	2915	109
+Fuscaldo	2916	78
+Fusignano	2917	39
+Fusine	2918	14
+Futani	2919	65
+Gabbioneta-Binanuova	2920	19
+Gabiano	2921	6
+Gabicce Mare	2922	41
+Gaby	2923	7
+Gadesco-Pieve Delmona	2924	19
+Gadoni	2925	91
+Gaeta	2926	59
+Gaggi	2927	83
+Gaggiano	2928	15
+Gaggio Montano	2929	37
+Gaglianico	2930	96
+Gagliano Aterno	2931	66
+Gagliano Castelferrato	2932	86
+Gagliano del Capo	2933	75
+Gagliato	2934	79
+Gagliole	2935	43
+Gaiarine	2936	26
+Gaiba	2937	29
+Gaiola	2938	4
+Gaiole in Chianti	2939	52
+Gairo	2940	91
+Gais	2941	21
+Galati Mamertino	2942	83
+Galatina	2943	75
+Galatone	2944	75
+Galatro	2945	80
+Galbiate	2946	97
+Galeata	2947	40
+Galgagnano	2948	98
+Gallarate	2949	12
+Gallese	2950	56
+Galliate	2951	3
+Galliate Lombardo	2952	12
+Galliavola	2953	18
+Gallicano	2954	46
+Gallicano nel Lazio	2955	58
+Gallicchio	2956	76
+Galliera	2957	37
+Galliera Veneta	2958	28
+Gallinaro	2959	60
+Gallio	2960	24
+Gallipoli	2961	75
+Gallo Matese	2962	61
+Gallodoro	2963	83
+Galluccio	2964	61
+Galtellì	2965	91
+Galzignano Terme	2966	28
+Gamalero	2967	6
+Gambara	2968	17
+Gambarana	2969	18
+Gambasca	2970	4
+Gambassi Terme	2971	48
+Gambatesa	2972	70
+Gambellara	2973	24
+Gamberale	2974	69
+Gambettola	2975	40
+Gambolò	2976	18
+Gambugliano	2977	24
+Gandellino	2978	16
+Gandino	2979	16
+Gandosso	2980	16
+Gangi	2981	82
+Garaguso	2982	77
+Garbagna	2983	6
+Garbagna Novarese	2984	3
+Garbagnate Milanese	2985	15
+Garbagnate Monastero	2986	97
+Garda	2987	23
+Gardone Riviera	2988	17
+Gardone Val Trompia	2989	17
+Garessio	2990	4
+Gargallo	2991	3
+Gargazzone	2992	21
+Gargnano	2993	17
+Garlasco	2994	18
+Garlate	2995	97
+Garlenda	2996	9
+Garniga Terme	2997	22
+Garzeno	2998	13
+Garzigliana	2999	1
+Gasperina	3000	79
+Gassino Torinese	3001	1
+Gattatico	3002	35
+Gatteo	3003	40
+Gattico-Veruno	3004	3
+Gattinara	3005	2
+Gavardo	3006	17
+Gavello	3007	29
+Gaverina Terme	3008	16
+Gavi	3009	6
+Gavignano	3010	58
+Gavirate	3011	12
+Gavoi	3012	91
+Gavorrano	3013	53
+Gazoldo degli Ippoliti	3014	20
+Gazzada Schianno	3015	12
+Gazzaniga	3016	16
+Gazzo	3017	28
+Gazzo Veronese	3018	23
+Gazzola	3019	33
+Gazzuolo	3020	20
+Gela	3021	85
+Gemmano	3022	99
+Gemona del Friuli	3023	30
+Gemonio	3024	12
+Genazzano	3025	58
+Genga	3026	42
+Genivolta	3027	19
+Genola	3028	4
+Genoni	3029	109
+Genova	3030	10
+Genuri	3031	109
+Genzano di Lucania	3032	76
+Genzano di Roma	3033	58
+Gera Lario	3034	13
+Gerace	3035	80
+Geraci Siculo	3036	82
+Gerano	3037	58
+Gerenzago	3038	18
+Gerenzano	3039	12
+Gergei	3040	109
+Germagnano	3041	1
+Germagno	3042	103
+Germignaga	3043	12
+Gerocarne	3044	102
+Gerola Alta	3045	14
+Gerre de' Caprioli	3046	19
+Gesico	3047	109
+Gessate	3048	15
+Gessopalena	3049	69
+Gesturi	3050	109
+Gesualdo	3051	64
+Ghedi	3052	17
+Ghemme	3053	3
+Ghiffa	3054	103
+Ghilarza	3055	95
+Ghisalba	3056	16
+Ghislarengo	3057	2
+Giacciano con Baruchella	3058	29
+Giaglione	3059	1
+Gianico	3060	17
+Giano dell'Umbria	3061	54
+Giano Vetusto	3062	61
+Giardinello	3063	82
+Giardini-Naxos	3064	83
+Giarole	3065	6
+Giarratana	3066	88
+Giarre	3067	87
+Giave	3068	90
+Giaveno	3069	1
+Giavera del Montello	3070	26
+Giba	3071	109
+Gibellina	3072	81
+Gifflenga	3073	96
+Giffone	3074	80
+Giffoni Sei Casali	3075	65
+Giffoni Valle Piana	3076	65
+Gignese	3077	103
+Gignod	3078	7
+Gildone	3079	70
+Gimigliano	3080	79
+Ginestra	3081	76
+Ginestra degli Schiavoni	3082	62
+Ginosa	3083	73
+Gioi	3084	65
+Gioia dei Marsi	3085	66
+Gioia del Colle	3086	72
+Gioia Sannitica	3087	61
+Gioia Tauro	3088	80
+Gioiosa Ionica	3089	80
+Gioiosa Marea	3090	83
+Giove	3091	55
+Giovinazzo	3092	72
+Giovo	3093	22
+Girasole	3094	91
+Girifalco	3095	79
+Gissi	3096	69
+Giuggianello	3097	75
+Giugliano in Campania	3098	63
+Giuliana	3099	82
+Giuliano di Roma	3100	60
+Giuliano Teatino	3101	69
+Giulianova	3102	67
+Giungano	3103	65
+Giurdignano	3104	75
+Giussago	3105	18
+Giussano	3106	108
+Giustenice	3107	9
+Giustino	3108	22
+Giusvalla	3109	9
+Givoletto	3110	1
+Gizzeria	3111	79
+Glorenza	3112	21
+Godega di Sant'Urbano	3113	26
+Godiasco Salice Terme	3114	18
+Godrano	3115	82
+Goito	3116	20
+Golasecca	3117	12
+Golferenzo	3118	18
+Golfo Aranci	3119	90
+Gombito	3120	19
+Gonars	3121	30
+Goni	3122	109
+Gonnesa	3123	109
+Gonnoscodina	3124	95
+Gonnosfanadiga	3125	109
+Gonnosnò	3126	95
+Gonnostramatza	3127	95
+Gonzaga	3128	20
+Gordona	3129	14
+Gorga	3130	58
+Gorgo al Monticano	3131	26
+Gorgoglione	3132	77
+Gorgonzola	3133	15
+Goriano Sicoli	3134	66
+Gorizia	3135	31
+Gorla Maggiore	3136	12
+Gorla Minore	3137	12
+Gorlago	3138	16
+Gorle	3139	16
+Gornate Olona	3140	12
+Gorno	3141	16
+Goro	3142	38
+Gorreto	3143	10
+Gorzegno	3144	4
+Gosaldo	3145	25
+Gossolengo	3146	33
+Gottasecca	3147	4
+Gottolengo	3148	17
+Govone	3149	4
+Gozzano	3150	3
+Gradara	3151	41
+Gradisca d'Isonzo	3152	31
+Grado	3153	31
+Gradoli	3154	56
+Graffignana	3155	98
+Graffignano	3156	56
+Graglia	3157	96
+Gragnano	3158	63
+Gragnano Trebbiense	3159	33
+Grammichele	3160	87
+Grana	3161	5
+Granarolo dell'Emilia	3162	37
+Grandate	3163	13
+Grandola ed Uniti	3164	13
+Graniti	3165	83
+Granozzo con Monticello	3166	3
+Grantola	3167	12
+Grantorto	3168	28
+Granze	3169	28
+Grassano	3170	77
+Grassobbio	3171	16
+Gratteri	3172	82
+Gravedona ed Uniti	3173	13
+Gravellona Lomellina	3174	18
+Gravellona Toce	3175	103
+Gravere	3176	1
+Gravina di Catania	3177	87
+Gravina in Puglia	3178	72
+Grazzanise	3179	61
+Grazzano Badoglio	3180	5
+Greccio	3181	57
+Greci	3182	64
+Greggio	3183	2
+Gremiasco	3184	6
+Gressan	3185	7
+Gressoney-La-Trinité	3186	7
+Gressoney-Saint-Jean	3187	7
+Greve in Chianti	3188	48
+Grezzago	3189	15
+Grezzana	3190	23
+Griante	3191	13
+Gricignano di Aversa	3192	61
+Grignasco	3193	3
+Grigno	3194	22
+Grimacco	3195	30
+Grimaldi	3196	78
+Grinzane Cavour	3197	4
+Grisignano di Zocco	3198	24
+Grisolia	3199	78
+Grizzana Morandi	3200	37
+Grognardo	3201	6
+Gromo	3202	16
+Grondona	3203	6
+Grone	3204	16
+Grontardo	3205	19
+Gropello Cairoli	3206	18
+Gropparello	3207	33
+Groscavallo	3208	1
+Grosio	3209	14
+Grosotto	3210	14
+Grosseto	3211	53
+Grosso	3212	1
+Grottaferrata	3213	58
+Grottaglie	3214	73
+Grottaminarda	3215	64
+Grottammare	3216	44
+Grottazzolina	3217	109
+Grotte	3218	84
+Grotte di Castro	3219	56
+Grotteria	3220	80
+Grottole	3221	77
+Grottolella	3222	64
+Gruaro	3223	27
+Grugliasco	3224	1
+Grumello Cremonese ed Uniti	3225	19
+Grumello del Monte	3226	16
+Grumento Nova	3227	76
+Grumo Appula	3228	72
+Grumo Nevano	3229	63
+Grumolo delle Abbadesse	3230	24
+Guagnano	3231	75
+Gualdo	3232	43
+Gualdo Cattaneo	3233	54
+Gualdo Tadino	3234	54
+Gualtieri	3235	35
+Gualtieri Sicaminò	3236	83
+Guamaggiore	3237	109
+Guanzate	3238	13
+Guarcino	3239	60
+Guarda Veneta	3240	29
+Guardabosone	3241	2
+Guardamiglio	3242	98
+Guardavalle	3243	79
+Guardea	3244	55
+Guardia Lombardi	3245	64
+Guardia Perticara	3246	76
+Guardia Piemontese	3247	78
+Guardia Sanframondi	3248	62
+Guardiagrele	3249	69
+Guardialfiera	3250	70
+Guardiaregia	3251	70
+Guardistallo	3252	50
+Guarene	3253	4
+Guasila	3254	109
+Guastalla	3255	35
+Guazzora	3256	6
+Gubbio	3257	54
+Gudo Visconti	3258	15
+Guglionesi	3259	70
+Guidizzolo	3260	20
+Guidonia Montecelio	3261	58
+Guiglia	3262	36
+Guilmi	3263	69
+Gurro	3264	103
+Guspini	3265	109
+Gussago	3266	17
+Gussola	3267	19
+Hône	3268	7
+Idro	3269	17
+Iglesias	3270	109
+Igliano	3271	4
+Ilbono	3272	91
+Illasi	3273	23
+Illorai	3274	90
+Imbersago	3275	97
+Imer	3276	22
+Imola	3277	37
+Imperia	3278	8
+Impruneta	3279	48
+Inarzo	3280	12
+Incisa Scapaccino	3281	5
+Incudine	3282	17
+Induno Olona	3283	12
+Ingria	3284	1
+Intragna	3285	103
+Introbio	3286	97
+Introd	3287	7
+Introdacqua	3288	66
+Inverigo	3289	13
+Inverno e Monteleone	3290	18
+Inverso Pinasca	3291	1
+Inveruno	3292	15
+Invorio	3293	3
+Inzago	3294	15
+Ionadi	3295	102
+Irgoli	3296	91
+Irma	3297	17
+Irsina	3298	77
+Isasca	3299	4
+Isca sullo Ionio	3300	79
+Ischia	3301	63
+Ischia di Castro	3302	56
+Ischitella	3303	71
+Iseo	3304	17
+Isera	3305	22
+Isernia	3306	94
+Isili	3307	109
+Isnello	3308	82
+Isola d'Asti	3309	5
+Isola del Cantone	3310	10
+Isola del Giglio	3311	53
+Isola del Gran Sasso d'Italia	3312	67
+Isola del Liri	3313	60
+Isola del Piano	3314	41
+Isola della Scala	3315	23
+Isola delle Femmine	3316	82
+Isola di Capo Rizzuto	3317	101
+Isola di Fondra	3318	16
+Isola Dovarese	3319	19
+Isola Rizza	3320	23
+Isola Sant'Antonio	3321	6
+Isola Vicentina	3322	24
+Isolabella	3323	1
+Isolabona	3324	8
+Isole Tremiti	3325	71
+Isorella	3326	17
+Ispani	3327	65
+Ispica	3328	88
+Ispra	3329	12
+Issiglio	3330	1
+Issime	3331	7
+Isso	3332	16
+Issogne	3333	7
+Istrana	3334	26
+Itala	3335	83
+Itri	3336	59
+Ittireddu	3337	90
+Ittiri	3338	90
+Ivrea	3339	1
+Izano	3340	19
+Jacurso	3341	79
+Jelsi	3342	70
+Jenne	3343	58
+Jerago con Orago	3344	12
+Jerzu	3345	91
+Jesi	3346	42
+Jesolo	3347	27
+Jolanda di Savoia	3348	38
+Joppolo	3349	102
+Joppolo Giancaxio	3350	84
+Jovençan	3351	7
+La Cassa	3352	1
+La Loggia	3353	1
+La Maddalena	3354	90
+La Magdeleine	3355	7
+La Morra	3356	4
+La Salle	3357	7
+La Spezia	3358	11
+La Thuile	3359	7
+La Valle	3360	21
+La Valle Agordina	3361	25
+La Valletta Brianza	3362	97
+Labico	3363	58
+Labro	3364	57
+Lacchiarella	3365	15
+Lacco Ameno	3366	63
+Lacedonia	3367	64
+Laces	3368	21
+Laconi	3369	95
+Ladispoli	3370	58
+Laerru	3371	90
+Laganadi	3372	80
+Laghi	3373	24
+Laglio	3374	13
+Lagnasco	3375	4
+Lago	3376	78
+Lagonegro	3377	76
+Lagosanto	3378	38
+Lagundo	3379	21
+Laigueglia	3380	9
+Lainate	3381	15
+Laino	3382	13
+Laino Borgo	3383	78
+Laino Castello	3384	78
+Laion	3385	21
+Laives	3386	21
+Lajatico	3387	50
+Lallio	3388	16
+Lama dei Peligni	3389	69
+Lama Mocogno	3390	36
+Lambrugo	3391	13
+Lamezia Terme	3392	79
+Lamon	3393	25
+Lampedusa e Linosa	3394	84
+Lamporecchio	3395	47
+Lamporo	3396	2
+Lana	3397	21
+Lanciano	3398	69
+Landiona	3399	3
+Landriano	3400	18
+Langhirano	3401	34
+Langosco	3402	18
+Lanusei	3403	91
+Lanuvio	3404	58
+Lanzada	3405	14
+Lanzo Torinese	3406	1
+Lapedona	3407	109
+Lapio	3408	64
+Lappano	3409	78
+L'Aquila	3410	66
+Larciano	3411	47
+Lardirago	3412	18
+Lariano	3413	58
+Larino	3414	70
+Las Plassas	3415	109
+Lasa	3416	21
+Lascari	3417	82
+Lasnigo	3418	13
+Lastebasse	3419	24
+Lastra a Signa	3420	48
+Latera	3421	56
+Laterina Pergine Valdarno	3422	51
+Laterza	3423	73
+Latiano	3424	74
+Latina	3425	59
+Latisana	3426	30
+Latronico	3427	76
+Lattarico	3428	78
+Lauco	3429	30
+Laureana Cilento	3430	65
+Laureana di Borrello	3431	80
+Lauregno	3432	21
+Laurenzana	3433	76
+Lauria	3434	76
+Lauriano	3435	1
+Laurino	3436	65
+Laurito	3437	65
+Lauro	3438	64
+Lavagna	3439	10
+Lavagno	3440	23
+Lavarone	3441	22
+Lavello	3442	76
+Lavena Ponte Tresa	3443	12
+Laveno-Mombello	3444	12
+Lavenone	3445	17
+Laviano	3446	65
+Lavis	3447	22
+Lazise	3448	23
+Lazzate	3449	108
+Lecce	3450	75
+Lecce nei Marsi	3451	66
+Lecco	3452	97
+Ledro	3453	22
+Leffe	3454	16
+Leggiuno	3455	12
+Legnago	3456	23
+Legnano	3457	15
+Legnaro	3458	28
+Lei	3459	91
+Leini	3460	1
+Leivi	3461	10
+Lemie	3462	1
+Lendinara	3463	29
+Leni	3464	83
+Lenna	3465	16
+Leno	3466	17
+Lenola	3467	59
+Lenta	3468	2
+Lentate sul Seveso	3469	108
+Lentella	3470	69
+Lentini	3471	89
+Leonessa	3472	57
+Leonforte	3473	86
+Leporano	3474	73
+Lequile	3475	75
+Lequio Berria	3476	4
+Lequio Tanaro	3477	4
+Lercara Friddi	3478	82
+Lerici	3479	11
+Lerma	3480	6
+Lesa	3481	3
+Lesegno	3482	4
+Lesignano de' Bagni	3483	34
+Lesina	3484	71
+Lesmo	3485	108
+Lessolo	3486	1
+Lessona	3487	96
+Lestizza	3488	30
+Letino	3489	61
+Letojanni	3490	83
+Lettere	3491	63
+Lettomanoppello	3492	68
+Lettopalena	3493	69
+Levanto	3494	11
+Levate	3495	16
+Leverano	3496	75
+Levice	3497	4
+Levico Terme	3498	22
+Levone	3499	1
+Lezzeno	3500	13
+Liberi	3501	61
+Librizzi	3502	83
+Licata	3503	84
+Licciana Nardi	3504	45
+Licenza	3505	58
+Licodia Eubea	3506	87
+Lierna	3507	97
+Lignana	3508	2
+Lignano Sabbiadoro	3509	30
+Lillianes	3510	7
+Limana	3511	25
+Limatola	3512	62
+Limbadi	3513	102
+Limbiate	3514	108
+Limena	3515	28
+Limido Comasco	3516	13
+Limina	3517	83
+Limone Piemonte	3518	4
+Limone sul Garda	3519	17
+Limosano	3520	70
+Linarolo	3521	18
+Linguaglossa	3522	87
+Lioni	3523	64
+Lipari	3524	83
+Lipomo	3525	13
+Lirio	3526	18
+Liscate	3527	15
+Liscia	3528	69
+Lisciano Niccone	3529	54
+Lisio	3530	4
+Lissone	3531	108
+Liveri	3532	63
+Livigno	3533	14
+Livinallongo del Col di Lana	3534	25
+Livo	3535	13
+Livo	3536	22
+Livorno	3537	49
+Livorno Ferraris	3538	2
+Livraga	3539	98
+Lizzanello	3540	75
+Lizzano	3541	73
+Lizzano in Belvedere	3542	37
+Loano	3543	9
+Loazzolo	3544	5
+Locana	3545	1
+Locate di Triulzi	3546	15
+Locate Varesino	3547	13
+Locatello	3548	16
+Loceri	3549	91
+Locorotondo	3550	72
+Locri	3551	80
+Loculi	3552	91
+Lodè	3553	91
+Lodi	3554	98
+Lodi Vecchio	3555	98
+Lodine	3556	91
+Lodrino	3557	17
+Lograto	3558	17
+Loiano	3559	37
+Loiri Porto San Paolo	3560	90
+Lomagna	3561	97
+Lomazzo	3562	13
+Lombardore	3563	1
+Lombriasco	3564	1
+Lomello	3565	18
+Lona-Lases	3566	22
+Lonate Ceppino	3567	12
+Lonate Pozzolo	3568	12
+Lonato del Garda	3569	17
+Londa	3570	48
+Longano	3571	94
+Longare	3572	24
+Longarone	3573	25
+Longhena	3574	17
+Longi	3575	83
+Longiano	3576	40
+Longobardi	3577	78
+Longobucco	3578	78
+Longone al Segrino	3579	13
+Longone Sabino	3580	57
+Lonigo	3581	24
+Loranzè	3582	1
+Loreggia	3583	28
+Loreglia	3584	103
+Lorenzago di Cadore	3585	25
+Loreo	3586	29
+Loreto	3587	42
+Loreto Aprutino	3588	68
+Loria	3589	26
+Loro Ciuffenna	3590	51
+Loro Piceno	3591	43
+Lorsica	3592	10
+Losine	3593	17
+Lotzorai	3594	91
+Lovere	3595	16
+Lovero	3596	14
+Lozio	3597	17
+Lozza	3598	12
+Lozzo Atestino	3599	28
+Lozzo di Cadore	3600	25
+Lozzolo	3601	2
+Lu e Cuccaro Monferrato	3602	6
+Lubriano	3603	56
+Lucca	3604	46
+Lucca Sicula	3605	84
+Lucera	3606	71
+Lucignano	3607	51
+Lucinasco	3608	8
+Lucito	3609	70
+Luco dei Marsi	3610	66
+Lucoli	3611	66
+Lugagnano Val d'Arda	3612	33
+Lugnano in Teverina	3613	55
+Lugo	3614	39
+Lugo di Vicenza	3615	24
+Luino	3616	12
+Luisago	3617	13
+Lula	3618	91
+Lumarzo	3619	10
+Lumezzane	3620	17
+Lunamatrona	3621	109
+Lunano	3622	41
+Lungavilla	3623	18
+Lungro	3624	78
+Luni	3625	11
+Luogosano	3626	64
+Luogosanto	3627	90
+Lupara	3628	70
+Lurago d'Erba	3629	13
+Lurago Marinone	3630	13
+Lurano	3631	16
+Luras	3632	90
+Lurate Caccivio	3633	13
+Lusciano	3634	61
+Luserna	3635	22
+Luserna San Giovanni	3636	1
+Lusernetta	3637	1
+Lusevera	3638	30
+Lusia	3639	29
+Lusiana Conco	3640	24
+Lusigliè	3641	1
+Luson	3642	21
+Lustra	3643	65
+Luvinate	3644	12
+Luzzana	3645	16
+Luzzara	3646	35
+Luzzi	3647	78
+Maccagno con Pino e Veddasca	3648	12
+Maccastorna	3649	98
+Macchia d'Isernia	3650	94
+Macchia Valfortore	3651	70
+Macchiagodena	3652	94
+Macello	3653	1
+Macerata	3654	43
+Macerata Campania	3655	61
+Macerata Feltria	3656	41
+Macherio	3657	108
+Maclodio	3658	17
+Macomer	3659	91
+Macra	3660	4
+Macugnaga	3661	103
+Maddaloni	3662	61
+Madesimo	3663	14
+Madignano	3664	19
+Madone	3665	16
+Madonna del Sasso	3666	103
+Madruzzo	3667	22
+Maenza	3668	59
+Mafalda	3669	70
+Magasa	3670	17
+Magenta	3671	15
+Maggiora	3672	3
+Magherno	3673	18
+Magione	3674	54
+Magisano	3675	79
+Magliano Alfieri	3676	4
+Magliano Alpi	3677	4
+Magliano de' Marsi	3678	66
+Magliano di Tenna	3679	109
+Magliano in Toscana	3680	53
+Magliano Romano	3681	58
+Magliano Sabina	3682	57
+Magliano Vetere	3683	65
+Maglie	3684	75
+Magliolo	3685	9
+Maglione	3686	1
+Magnacavallo	3687	20
+Magnago	3688	15
+Magnano	3689	96
+Magnano in Riviera	3690	30
+Magomadas	3691	95
+Magrè sulla strada del vino	3692	21
+Magreglio	3693	13
+Maida	3694	79
+Maierà	3695	78
+Maierato	3696	102
+Maiolati Spontini	3697	42
+Maiolo	3698	99
+Maiori	3699	65
+Mairago	3700	98
+Mairano	3701	17
+Maissana	3702	11
+Majano	3703	30
+Malagnino	3704	19
+Malalbergo	3705	37
+Malborghetto Valbruna	3706	30
+Malcesine	3707	23
+Malé	3708	22
+Malegno	3709	17
+Maleo	3710	98
+Malesco	3711	103
+Maletto	3712	87
+Malfa	3713	83
+Malgesso	3714	12
+Malgrate	3715	97
+Malito	3716	78
+Mallare	3717	9
+Malles Venosta	3718	21
+Malnate	3719	12
+Malo	3720	24
+Malonno	3721	17
+Maltignano	3722	44
+Malvagna	3723	83
+Malvicino	3724	6
+Malvito	3725	78
+Mammola	3726	80
+Mamoiada	3727	91
+Manciano	3728	53
+Mandanici	3729	83
+Mandas	3730	109
+Mandatoriccio	3731	78
+Mandela	3732	58
+Mandello del Lario	3733	97
+Mandello Vitta	3734	3
+Manduria	3735	73
+Manerba del Garda	3736	17
+Manerbio	3737	17
+Manfredonia	3738	71
+Mango	3739	4
+Mangone	3740	78
+Maniace	3741	87
+Maniago	3742	93
+Manocalzati	3743	64
+Manoppello	3744	68
+Mansuè	3745	26
+Manta	3746	4
+Mantello	3747	14
+Mantova	3748	20
+Manzano	3749	30
+Manziana	3750	58
+Mapello	3751	16
+Mappano	3752	1
+Mara	3753	90
+Maracalagonis	3754	92
+Maranello	3755	36
+Marano di Napoli	3756	63
+Marano di Valpolicella	3757	23
+Marano Equo	3758	58
+Marano Lagunare	3759	30
+Marano Marchesato	3760	78
+Marano Principato	3761	78
+Marano sul Panaro	3762	36
+Marano Ticino	3763	3
+Marano Vicentino	3764	24
+Maranzana	3765	5
+Maratea	3766	76
+Marcallo con Casone	3767	15
+Marcaria	3768	20
+Marcedusa	3769	79
+Marcellina	3770	58
+Marcellinara	3771	79
+Marcetelli	3772	57
+Marcheno	3773	17
+Marchirolo	3774	12
+Marciana	3775	49
+Marciana Marina	3776	49
+Marcianise	3777	61
+Marciano della Chiana	3778	51
+Marcignago	3779	18
+Marcon	3780	27
+Marebbe	3781	21
+Marene	3782	4
+Mareno di Piave	3783	26
+Marentino	3784	1
+Maretto	3785	5
+Margarita	3786	4
+Margherita di Savoia	3787	110
+Margno	3788	97
+Mariana Mantovana	3789	20
+Mariano Comense	3790	13
+Mariano del Friuli	3791	31
+Marianopoli	3792	85
+Mariglianella	3793	63
+Marigliano	3794	63
+Marina di Gioiosa Ionica	3795	80
+Marineo	3796	82
+Marino	3797	58
+Marlengo	3798	21
+Marliana	3799	47
+Marmentino	3800	17
+Marmirolo	3801	20
+Marmora	3802	4
+Marnate	3803	12
+Marone	3804	17
+Maropati	3805	80
+Marostica	3806	24
+Marradi	3807	48
+Marrubiu	3808	95
+Marsaglia	3809	4
+Marsala	3810	81
+Marsciano	3811	54
+Marsico Nuovo	3812	76
+Marsicovetere	3813	76
+Marta	3814	56
+Martano	3815	75
+Martellago	3816	27
+Martello	3817	21
+Martignacco	3818	30
+Martignana di Po	3819	19
+Martignano	3820	75
+Martina Franca	3821	73
+Martinengo	3822	16
+Martiniana Po	3823	4
+Martinsicuro	3824	67
+Martirano	3825	79
+Martirano Lombardo	3826	79
+Martis	3827	90
+Martone	3828	80
+Marudo	3829	98
+Maruggio	3830	73
+Marzabotto	3831	37
+Marzano	3832	18
+Marzano Appio	3833	61
+Marzano di Nola	3834	64
+Marzi	3835	78
+Marzio	3836	12
+Masainas	3837	109
+Masate	3838	15
+Mascali	3839	87
+Mascalucia	3840	87
+Maschito	3841	76
+Masciago Primo	3842	12
+Maser	3843	26
+Masera	3844	103
+Maserà di Padova	3845	28
+Maserada sul Piave	3846	26
+Masi	3847	28
+Masi Torello	3848	38
+Masio	3849	6
+Maslianico	3850	13
+Masone	3851	10
+Massa	3852	45
+Massa d'Albe	3853	66
+Massa di Somma	3854	63
+Massa e Cozzile	3855	47
+Massa Fermana	3856	109
+Massa Lombarda	3857	39
+Massa Lubrense	3858	63
+Massa Marittima	3859	53
+Massa Martana	3860	54
+Massafra	3861	73
+Massalengo	3862	98
+Massanzago	3863	28
+Massarosa	3864	46
+Massazza	3865	96
+Massello	3866	1
+Masserano	3867	96
+Massignano	3868	44
+Massimeno	3869	22
+Massimino	3870	9
+Massino Visconti	3871	3
+Massiola	3872	103
+Masullas	3873	95
+Matelica	3874	43
+Matera	3875	77
+Mathi	3876	1
+Matino	3877	75
+Matrice	3878	70
+Mattie	3879	1
+Mattinata	3880	71
+Mazara del Vallo	3881	81
+Mazzano	3882	17
+Mazzano Romano	3883	58
+Mazzarino	3884	85
+Mazzarrà Sant'Andrea	3885	83
+Mazzarrone	3886	87
+Mazzè	3887	1
+Mazzin	3888	22
+Mazzo di Valtellina	3889	14
+Meana di Susa	3890	1
+Meana Sardo	3891	91
+Meda	3892	108
+Mede	3893	18
+Medea	3894	31
+Medesano	3895	34
+Medicina	3896	37
+Mediglia	3897	15
+Medolago	3898	16
+Medole	3899	20
+Medolla	3900	36
+Meduna di Livenza	3901	26
+Meduno	3902	93
+Megliadino San Vitale	3903	28
+Meina	3904	3
+Melara	3905	29
+Melazzo	3906	6
+Meldola	3907	40
+Mele	3908	10
+Melegnano	3909	15
+Melendugno	3910	75
+Meleti	3911	98
+Melfi	3912	76
+Melicuccà	3913	80
+Melicucco	3914	80
+Melilli	3915	89
+Melissa	3916	101
+Melissano	3917	75
+Melito di Napoli	3918	63
+Melito di Porto Salvo	3919	80
+Melito Irpino	3920	64
+Melizzano	3921	62
+Melle	3922	4
+Mello	3923	14
+Melpignano	3924	75
+Meltina	3925	21
+Melzo	3926	15
+Menaggio	3927	13
+Menconico	3928	18
+Mendatica	3929	8
+Mendicino	3930	78
+Menfi	3931	84
+Mentana	3932	58
+Meolo	3933	27
+Merana	3934	6
+Merano	3935	21
+Merate	3936	97
+Mercallo	3937	12
+Mercatello sul Metauro	3938	41
+Mercatino Conca	3939	41
+Mercato San Severino	3940	65
+Mercato Saraceno	3941	40
+Mercenasco	3942	1
+Mercogliano	3943	64
+Mereto di Tomba	3944	30
+Mergo	3945	42
+Mergozzo	3946	103
+Merì	3947	83
+Merlara	3948	28
+Merlino	3949	98
+Merone	3950	13
+Mesagne	3951	74
+Mese	3952	14
+Mesenzana	3953	12
+Mesero	3954	15
+Mesola	3955	38
+Mesoraca	3956	101
+Messina	3957	83
+Mestrino	3958	28
+Meta	3959	63
+Mezzago	3960	108
+Mezzana	3961	22
+Mezzana Bigli	3962	18
+Mezzana Mortigliengo	3963	96
+Mezzana Rabattone	3964	18
+Mezzane di Sotto	3965	23
+Mezzanego	3966	10
+Mezzanino	3967	18
+Mezzano	3968	22
+Mezzenile	3969	1
+Mezzocorona	3970	22
+Mezzojuso	3971	82
+Mezzoldo	3972	16
+Mezzolombardo	3973	22
+Mezzomerico	3974	3
+Miagliano	3975	96
+Miane	3976	26
+Miasino	3977	3
+Miazzina	3978	103
+Micigliano	3979	57
+Miggiano	3980	75
+Miglianico	3981	69
+Miglierina	3982	79
+Miglionico	3983	77
+Mignanego	3984	10
+Mignano Monte Lungo	3985	61
+Milano	3986	15
+Milazzo	3987	83
+Milena	3988	85
+Mileto	3989	102
+Milis	3990	95
+Militello in Val di Catania	3991	87
+Militello Rosmarino	3992	83
+Millesimo	3993	9
+Milo	3994	87
+Milzano	3995	17
+Mineo	3996	87
+Minerbe	3997	23
+Minerbio	3998	37
+Minervino di Lecce	3999	75
+Minervino Murge	4000	110
+Minori	4001	65
+Minturno	4002	59
+Minucciano	4003	46
+Mioglia	4004	9
+Mira	4005	27
+Mirabella Eclano	4006	64
+Mirabella Imbaccari	4007	87
+Mirabello Monferrato	4008	6
+Mirabello Sannitico	4009	70
+Miradolo Terme	4010	18
+Miranda	4011	94
+Mirandola	4012	36
+Mirano	4013	27
+Mirto	4014	83
+Misano Adriatico	4015	99
+Misano di Gera d'Adda	4016	16
+Misilmeri	4017	82
+Misinto	4018	108
+Missaglia	4019	97
+Missanello	4020	76
+Misterbianco	4021	87
+Mistretta	4022	83
+Moasca	4023	5
+Moconesi	4024	10
+Modena	4025	36
+Modica	4026	88
+Modigliana	4027	40
+Modolo	4028	95
+Modugno	4029	72
+Moena	4030	22
+Moggio	4031	97
+Moggio Udinese	4032	30
+Moglia	4033	20
+Mogliano	4034	43
+Mogliano Veneto	4035	26
+Mogorella	4036	95
+Mogoro	4037	95
+Moiano	4038	62
+Moimacco	4039	30
+Moio Alcantara	4040	83
+Moio de' Calvi	4041	16
+Moio della Civitella	4042	65
+Moiola	4043	4
+Mola di Bari	4044	72
+Molare	4045	6
+Molazzana	4046	46
+Molfetta	4047	72
+Molina Aterno	4048	66
+Molinara	4049	62
+Molinella	4050	37
+Molini di Triora	4051	8
+Molino dei Torti	4052	6
+Molise	4053	70
+Moliterno	4054	76
+Mollia	4055	2
+Molochio	4056	80
+Molteno	4057	97
+Moltrasio	4058	13
+Molveno	4059	22
+Mombaldone	4060	5
+Mombarcaro	4061	4
+Mombaroccio	4062	41
+Mombaruzzo	4063	5
+Mombasiglio	4064	4
+Mombello di Torino	4065	1
+Mombello Monferrato	4066	6
+Mombercelli	4067	5
+Momo	4068	3
+Mompantero	4069	1
+Mompeo	4070	57
+Momperone	4071	6
+Monacilioni	4072	70
+Monale	4073	5
+Monasterace	4074	80
+Monastero Bormida	4075	5
+Monastero di Lanzo	4076	1
+Monastero di Vasco	4077	4
+Monasterolo Casotto	4078	4
+Monasterolo del Castello	4079	16
+Monasterolo di Savigliano	4080	4
+Monastier di Treviso	4081	26
+Monastir	4082	109
+Moncalieri	4083	1
+Moncalvo	4084	5
+Moncenisio	4085	1
+Moncestino	4086	6
+Monchiero	4087	4
+Monchio delle Corti	4088	34
+Moncrivello	4089	2
+Moncucco Torinese	4090	5
+Mondaino	4091	99
+Mondavio	4092	41
+Mondolfo	4093	41
+Mondovì	4094	4
+Mondragone	4095	61
+Moneglia	4096	10
+Monesiglio	4097	4
+Monfalcone	4098	31
+Monforte d'Alba	4099	4
+Monforte San Giorgio	4100	83
+Monfumo	4101	26
+Mongardino	4102	5
+Monghidoro	4103	37
+Mongiana	4104	102
+Mongiardino Ligure	4105	6
+Mongiuffi Melia	4106	83
+Mongrando	4107	96
+Mongrassano	4108	78
+Monguelfo-Tesido	4109	21
+Monguzzo	4110	13
+Moniga del Garda	4111	17
+Monleale	4112	6
+Monno	4113	17
+Monopoli	4114	72
+Monreale	4115	82
+Monrupino	4116	32
+Monsampietro Morico	4117	109
+Monsampolo del Tronto	4118	44
+Monsano	4119	42
+Monselice	4120	28
+Monserrato	4121	92
+Monsummano Terme	4122	47
+Montà	4123	4
+Montabone	4124	5
+Montacuto	4125	6
+Montafia	4126	5
+Montagano	4127	70
+Montagna	4128	21
+Montagna in Valtellina	4129	14
+Montagnana	4130	28
+Montagnareale	4131	83
+Montaguto	4132	64
+Montaione	4133	48
+Montalbano Elicona	4134	83
+Montalbano Jonico	4135	77
+Montalcino	4136	52
+Montaldeo	4137	6
+Montaldo Bormida	4138	6
+Montaldo di Mondovì	4139	4
+Montaldo Roero	4140	4
+Montaldo Scarampi	4141	5
+Montaldo Torinese	4142	1
+Montale	4143	47
+Montalenghe	4144	1
+Montallegro	4145	84
+Montalto Carpasio	4146	8
+Montalto delle Marche	4147	44
+Montalto di Castro	4148	56
+Montalto Dora	4149	1
+Montalto Pavese	4150	18
+Montalto Uffugo	4151	78
+Montanaro	4152	1
+Montanaso Lombardo	4153	98
+Montanera	4154	4
+Montano Antilia	4155	65
+Montano Lucino	4156	13
+Montappone	4157	109
+Montaquila	4158	94
+Montasola	4159	57
+Montauro	4160	79
+Montazzoli	4161	69
+Monte Argentario	4162	53
+Monte Castello di Vibio	4163	54
+Monte Cavallo	4164	43
+Monte Cerignone	4165	41
+Monte Compatri	4166	58
+Monte Cremasco	4167	19
+Monte di Malo	4168	24
+Monte di Procida	4169	63
+Monte Giberto	4170	109
+Monte Grimano Terme	4171	41
+Monte Isola	4172	17
+Monte Marenzo	4173	97
+Monte Porzio	4174	41
+Monte Porzio Catone	4175	58
+Monte Rinaldo	4176	109
+Monte Roberto	4177	42
+Monte Romano	4178	56
+Monte San Biagio	4179	59
+Monte San Giacomo	4180	65
+Monte San Giovanni Campano	4181	60
+Monte San Giovanni in Sabina	4182	57
+Monte San Giusto	4183	43
+Monte San Martino	4184	43
+Monte San Pietrangeli	4185	109
+Monte San Pietro	4186	37
+Monte San Savino	4187	51
+Monte San Vito	4188	42
+Monte Santa Maria Tiberina	4189	54
+Monte Sant'Angelo	4190	71
+Monte Urano	4191	109
+Monte Vidon Combatte	4192	109
+Monte Vidon Corrado	4193	109
+Montebello della Battaglia	4194	18
+Montebello di Bertona	4195	68
+Montebello Jonico	4196	80
+Montebello sul Sangro	4197	69
+Montebello Vicentino	4198	24
+Montebelluna	4199	26
+Montebruno	4200	10
+Montebuono	4201	57
+Montecalvo in Foglia	4202	41
+Montecalvo Irpino	4203	64
+Montecalvo Versiggia	4204	18
+Montecarlo	4205	46
+Montecarotto	4206	42
+Montecassiano	4207	43
+Montecastello	4208	6
+Montecastrilli	4209	55
+Montecatini Val di Cecina	4210	50
+Montecatini-Terme	4211	47
+Montecchia di Crosara	4212	23
+Montecchio	4213	55
+Montecchio Emilia	4214	35
+Montecchio Maggiore	4215	24
+Montecchio Precalcino	4216	24
+Montechiaro d'Acqui	4217	6
+Montechiaro d'Asti	4218	5
+Montechiarugolo	4219	34
+Montecilfone	4220	70
+Montecopiolo	4221	41
+Montecorice	4222	65
+Montecorvino Pugliano	4223	65
+Montecorvino Rovella	4224	65
+Montecosaro	4225	43
+Montecrestese	4226	103
+Montecreto	4227	36
+Montedinove	4228	44
+Montedoro	4229	85
+Montefalcione	4230	64
+Montefalco	4231	54
+Montefalcone Appennino	4232	109
+Montefalcone di Val Fortore	4233	62
+Montefalcone nel Sannio	4234	70
+Montefano	4235	43
+Montefelcino	4236	41
+Monteferrante	4237	69
+Montefiascone	4238	56
+Montefino	4239	67
+Montefiore Conca	4240	99
+Montefiore dell'Aso	4241	44
+Montefiorino	4242	36
+Monteflavio	4243	58
+Monteforte Cilento	4244	65
+Monteforte d'Alpone	4245	23
+Monteforte Irpino	4246	64
+Montefortino	4247	109
+Montefranco	4248	55
+Montefredane	4249	64
+Montefusco	4250	64
+Montegabbione	4251	55
+Montegalda	4252	24
+Montegaldella	4253	24
+Montegallo	4254	44
+Montegioco	4255	6
+Montegiordano	4256	78
+Montegiorgio	4257	109
+Montegranaro	4258	109
+Montegridolfo	4259	99
+Montegrino Valtravaglia	4260	12
+Montegrosso d'Asti	4261	5
+Montegrosso Pian Latte	4262	8
+Montegrotto Terme	4263	28
+Monteiasi	4264	73
+Montelabbate	4265	41
+Montelanico	4266	58
+Montelapiano	4267	69
+Monteleone di Fermo	4268	109
+Monteleone di Puglia	4269	71
+Monteleone di Spoleto	4270	54
+Monteleone d'Orvieto	4271	55
+Monteleone Rocca Doria	4272	90
+Monteleone Sabino	4273	57
+Montelepre	4274	82
+Montelibretti	4275	58
+Montella	4276	64
+Montello	4277	16
+Montelongo	4278	70
+Montelparo	4279	109
+Montelupo Albese	4280	4
+Montelupo Fiorentino	4281	48
+Montelupone	4282	43
+Montemaggiore Belsito	4283	82
+Montemagno	4284	5
+Montemale di Cuneo	4285	4
+Montemarano	4286	64
+Montemarciano	4287	42
+Montemarzino	4288	6
+Montemesola	4289	73
+Montemezzo	4290	13
+Montemignaio	4291	51
+Montemiletto	4292	64
+Montemilone	4293	76
+Montemitro	4294	70
+Montemonaco	4295	44
+Montemurlo	4296	100
+Montemurro	4297	76
+Montenars	4298	30
+Montenero di Bisaccia	4299	70
+Montenero Sabino	4300	57
+Montenero Val Cocchiara	4301	94
+Montenerodomo	4302	69
+Monteodorisio	4303	69
+Montepaone	4304	79
+Monteparano	4305	73
+Monteprandone	4306	44
+Montepulciano	4307	52
+Monterchi	4308	51
+Montereale	4309	66
+Montereale Valcellina	4310	93
+Monterenzio	4311	37
+Monteriggioni	4312	52
+Monteroduni	4313	94
+Monteroni d'Arbia	4314	52
+Monteroni di Lecce	4315	75
+Monterosi	4316	56
+Monterosso al Mare	4317	11
+Monterosso Almo	4318	88
+Monterosso Calabro	4319	102
+Monterosso Grana	4320	4
+Monterotondo	4321	58
+Monterotondo Marittimo	4322	53
+Monterubbiano	4323	109
+Montesano Salentino	4324	75
+Montesano sulla Marcellana	4325	65
+Montesarchio	4326	62
+Montescaglioso	4327	77
+Montescano	4328	18
+Montescheno	4329	103
+Montescudaio	4330	50
+Montescudo-Monte Colombo	4331	99
+Montese	4332	36
+Montesegale	4333	18
+Montesilvano	4334	68
+Montespertoli	4335	48
+Monteu da Po	4336	1
+Monteu Roero	4337	4
+Montevago	4338	84
+Montevarchi	4339	51
+Montevecchia	4340	97
+Monteverde	4341	64
+Monteverdi Marittimo	4342	50
+Monteviale	4343	24
+Montezemolo	4344	4
+Monti	4345	90
+Montiano	4346	40
+Monticelli Brusati	4347	17
+Monticelli d'Ongina	4348	33
+Monticelli Pavese	4349	18
+Monticello Brianza	4350	97
+Monticello Conte Otto	4351	24
+Monticello d'Alba	4352	4
+Montichiari	4353	17
+Monticiano	4354	52
+Montieri	4355	53
+Montiglio Monferrato	4356	5
+Montignoso	4357	45
+Montirone	4358	17
+Montjovet	4359	7
+Montodine	4360	19
+Montoggio	4361	10
+Montone	4362	54
+Montopoli di Sabina	4363	57
+Montopoli in Val d'Arno	4364	50
+Montorfano	4365	13
+Montorio al Vomano	4366	67
+Montorio nei Frentani	4367	70
+Montorio Romano	4368	58
+Montoro	4369	64
+Montorso Vicentino	4370	24
+Montottone	4371	109
+Montresta	4372	95
+Montù Beccaria	4373	18
+Monvalle	4374	12
+Monza	4375	108
+Monzambano	4376	20
+Monzuno	4377	37
+Morano Calabro	4378	78
+Morano sul Po	4379	6
+Moransengo	4380	5
+Moraro	4381	31
+Morazzone	4382	12
+Morbegno	4383	14
+Morbello	4384	6
+Morciano di Leuca	4385	75
+Morciano di Romagna	4386	99
+Morcone	4387	62
+Mordano	4388	37
+Morengo	4389	16
+Mores	4390	90
+Moresco	4391	109
+Moretta	4392	4
+Morfasso	4393	33
+Morgano	4394	26
+Morgex	4395	7
+Morgongiori	4396	95
+Mori	4397	22
+Moriago della Battaglia	4398	26
+Moricone	4399	58
+Morigerati	4400	65
+Morimondo	4401	15
+Morino	4402	66
+Moriondo Torinese	4403	1
+Morlupo	4404	58
+Mormanno	4405	78
+Mornago	4406	12
+Mornese	4407	6
+Mornico al Serio	4408	16
+Mornico Losana	4409	18
+Morolo	4410	60
+Morozzo	4411	4
+Morra De Sanctis	4412	64
+Morro d'Alba	4413	42
+Morro d'Oro	4414	67
+Morro Reatino	4415	57
+Morrone del Sannio	4416	70
+Morrovalle	4417	43
+Morsano al Tagliamento	4418	93
+Morsasco	4419	6
+Mortara	4420	18
+Mortegliano	4421	30
+Morterone	4422	97
+Moruzzo	4423	30
+Moscazzano	4424	19
+Moschiano	4425	64
+Mosciano Sant'Angelo	4426	67
+Moscufo	4427	68
+Moso in Passiria	4428	21
+Mossa	4429	31
+Motta Baluffi	4430	19
+Motta Camastra	4431	83
+Motta d'Affermo	4432	83
+Motta de' Conti	4433	2
+Motta di Livenza	4434	26
+Motta Montecorvino	4435	71
+Motta San Giovanni	4436	80
+Motta Santa Lucia	4437	79
+Motta Sant'Anastasia	4438	87
+Motta Visconti	4439	15
+Mottafollone	4440	78
+Mottalciata	4441	96
+Motteggiana	4442	20
+Mottola	4443	73
+Mozzagrogna	4444	69
+Mozzanica	4445	16
+Mozzate	4446	13
+Mozzecane	4447	23
+Mozzo	4448	16
+Muccia	4449	43
+Muggia	4450	32
+Muggiò	4451	108
+Mugnano del Cardinale	4452	64
+Mugnano di Napoli	4453	63
+Mulazzano	4454	98
+Mulazzo	4455	45
+Mura	4456	17
+Muravera	4457	109
+Murazzano	4458	4
+Murello	4459	4
+Murialdo	4460	9
+Murisengo	4461	6
+Murlo	4462	52
+Muro Leccese	4463	75
+Muro Lucano	4464	76
+Muros	4465	90
+Muscoline	4466	17
+Musei	4467	109
+Musile di Piave	4468	27
+Musso	4469	13
+Mussolente	4470	24
+Mussomeli	4471	85
+Muzzana del Turgnano	4472	30
+Muzzano	4473	96
+Nago-Torbole	4474	22
+Nalles	4475	21
+Nanto	4476	24
+Napoli	4477	63
+Narbolia	4478	95
+Narcao	4479	109
+Nardò	4480	75
+Nardodipace	4481	102
+Narni	4482	55
+Naro	4483	84
+Narzole	4484	4
+Nasino	4485	9
+Naso	4486	83
+Naturno	4487	21
+Nave	4488	17
+Navelli	4489	66
+Naz-Sciaves	4490	21
+Nazzano	4491	58
+Ne	4492	10
+Nebbiuno	4493	3
+Negrar di Valpolicella	4494	23
+Neirone	4495	10
+Neive	4496	4
+Nembro	4497	16
+Nemi	4498	58
+Nemoli	4499	76
+Neoneli	4500	95
+Nepi	4501	56
+Nereto	4502	67
+Nerola	4503	58
+Nervesa della Battaglia	4504	26
+Nerviano	4505	15
+Nespolo	4506	57
+Nesso	4507	13
+Netro	4508	96
+Nettuno	4509	58
+Neviano	4510	75
+Neviano degli Arduini	4511	34
+Neviglie	4512	4
+Niardo	4513	17
+Nibbiola	4514	3
+Nibionno	4515	97
+Nichelino	4516	1
+Nicolosi	4517	87
+Nicorvo	4518	18
+Nicosia	4519	86
+Nicotera	4520	102
+Niella Belbo	4521	4
+Niella Tanaro	4522	4
+Nimis	4523	30
+Niscemi	4524	85
+Nissoria	4525	86
+Nizza di Sicilia	4526	83
+Nizza Monferrato	4527	5
+Noale	4528	27
+Noasca	4529	1
+Nocara	4530	78
+Nocciano	4531	68
+Nocera Inferiore	4532	65
+Nocera Superiore	4533	65
+Nocera Terinese	4534	79
+Nocera Umbra	4535	54
+Noceto	4536	34
+Noci	4537	72
+Nociglia	4538	75
+Noepoli	4539	76
+Nogara	4540	23
+Nogaredo	4541	22
+Nogarole Rocca	4542	23
+Nogarole Vicentino	4543	24
+Noicattaro	4544	72
+Nola	4545	63
+Nole	4546	1
+Noli	4547	9
+Nomaglio	4548	1
+Nomi	4549	22
+Nonantola	4550	36
+None	4551	1
+Nonio	4552	103
+Noragugume	4553	91
+Norbello	4554	95
+Norcia	4555	54
+Norma	4556	59
+Nosate	4557	15
+Notaresco	4558	67
+Noto	4559	89
+Nova Levante	4560	21
+Nova Milanese	4561	108
+Nova Ponente	4562	21
+Nova Siri	4563	77
+Novafeltria	4564	99
+Novaledo	4565	22
+Novalesa	4566	1
+Novara	4567	3
+Novara di Sicilia	4568	83
+Novate Mezzola	4569	14
+Novate Milanese	4570	15
+Nove	4571	24
+Novedrate	4572	13
+Novella	4573	22
+Novellara	4574	35
+Novello	4575	4
+Noventa di Piave	4576	27
+Noventa Padovana	4577	28
+Noventa Vicentina	4578	24
+Novi di Modena	4579	36
+Novi Ligure	4580	6
+Novi Velia	4581	65
+Noviglio	4582	15
+Novoli	4583	75
+Nucetto	4584	4
+Nughedu San Nicolò	4585	90
+Nughedu Santa Vittoria	4586	95
+Nule	4587	90
+Nulvi	4588	90
+Numana	4589	42
+Nuoro	4590	91
+Nurachi	4591	95
+Nuragus	4592	109
+Nurallao	4593	109
+Nuraminis	4594	109
+Nureci	4595	95
+Nurri	4596	109
+Nus	4597	7
+Nusco	4598	64
+Nuvolento	4599	17
+Nuvolera	4600	17
+Nuxis	4601	109
+Occhieppo Inferiore	4602	96
+Occhieppo Superiore	4603	96
+Occhiobello	4604	29
+Occimiano	4605	6
+Ocre	4606	66
+Odalengo Grande	4607	6
+Odalengo Piccolo	4608	6
+Oderzo	4609	26
+Odolo	4610	17
+Ofena	4611	66
+Offagna	4612	42
+Offanengo	4613	19
+Offida	4614	44
+Offlaga	4615	17
+Oggebbio	4616	103
+Oggiona con Santo Stefano	4617	12
+Oggiono	4618	97
+Oglianico	4619	1
+Ogliastro Cilento	4620	65
+Olbia	4621	90
+Olcenengo	4622	2
+Oldenico	4623	2
+Oleggio	4624	3
+Oleggio Castello	4625	3
+Olevano di Lomellina	4626	18
+Olevano Romano	4627	58
+Olevano sul Tusciano	4628	65
+Olgiate Comasco	4629	13
+Olgiate Molgora	4630	97
+Olgiate Olona	4631	12
+Olginate	4632	97
+Oliena	4633	91
+Oliva Gessi	4634	18
+Olivadi	4635	79
+Oliveri	4636	83
+Oliveto Citra	4637	65
+Oliveto Lario	4638	97
+Oliveto Lucano	4639	77
+Olivetta San Michele	4640	8
+Olivola	4641	6
+Ollastra	4642	95
+Ollolai	4643	91
+Ollomont	4644	7
+Olmedo	4645	90
+Olmeneta	4646	19
+Olmo al Brembo	4647	16
+Olmo Gentile	4648	5
+Oltre il Colle	4649	16
+Oltressenda Alta	4650	16
+Oltrona di San Mamette	4651	13
+Olzai	4652	91
+Ome	4653	17
+Omegna	4654	103
+Omignano	4655	65
+Onanì	4656	91
+Onano	4657	56
+Oncino	4658	4
+Oneta	4659	16
+Onifai	4660	91
+Oniferi	4661	91
+Ono San Pietro	4662	17
+Onore	4663	16
+Onzo	4664	9
+Opera	4665	15
+Opi	4666	66
+Oppeano	4667	23
+Oppido Lucano	4668	76
+Oppido Mamertina	4669	80
+Ora	4670	21
+Orani	4671	91
+Oratino	4672	70
+Orbassano	4673	1
+Orbetello	4674	53
+Orciano Pisano	4675	50
+Orco Feglino	4676	9
+Ordona	4677	71
+Orero	4678	10
+Orgiano	4679	24
+Orgosolo	4680	91
+Oria	4681	74
+Oricola	4682	66
+Origgio	4683	12
+Orino	4684	12
+Orio al Serio	4685	16
+Orio Canavese	4686	1
+Orio Litta	4687	98
+Oriolo	4688	78
+Oriolo Romano	4689	56
+Oristano	4690	95
+Ormea	4691	4
+Ormelle	4692	26
+Ornago	4693	108
+Ornavasso	4694	103
+Ornica	4695	16
+Orosei	4696	91
+Orotelli	4697	91
+Orria	4698	65
+Orroli	4699	109
+Orsago	4700	26
+Orsara Bormida	4701	6
+Orsara di Puglia	4702	71
+Orsenigo	4703	13
+Orsogna	4704	69
+Orsomarso	4705	78
+Orta di Atella	4706	61
+Orta Nova	4707	71
+Orta San Giulio	4708	3
+Ortacesus	4709	109
+Orte	4710	56
+Ortelle	4711	75
+Ortezzano	4712	109
+Ortignano Raggiolo	4713	51
+Ortisei	4714	21
+Ortona	4715	69
+Ortona dei Marsi	4716	66
+Ortovero	4717	9
+Ortucchio	4718	66
+Ortueri	4719	91
+Orune	4720	91
+Orvieto	4721	55
+Orvinio	4722	57
+Orzinuovi	4723	17
+Orzivecchi	4724	17
+Osasco	4725	1
+Osasio	4726	1
+Oschiri	4727	90
+Osidda	4728	91
+Osiglia	4729	9
+Osilo	4730	90
+Osimo	4731	42
+Osini	4732	91
+Osio Sopra	4733	16
+Osio Sotto	4734	16
+Osnago	4735	97
+Osoppo	4736	30
+Ospedaletti	4737	8
+Ospedaletto	4738	22
+Ospedaletto d'Alpinolo	4739	64
+Ospedaletto Euganeo	4740	28
+Ospedaletto Lodigiano	4741	98
+Ospitale di Cadore	4742	25
+Ospitaletto	4743	17
+Ossago Lodigiano	4744	98
+Ossana	4745	22
+Ossi	4746	90
+Ossimo	4747	17
+Ossona	4748	15
+Ostana	4749	4
+Ostellato	4750	38
+Ostiano	4751	19
+Ostiglia	4752	20
+Ostra	4753	42
+Ostra Vetere	4754	42
+Ostuni	4755	74
+Otranto	4756	75
+Otricoli	4757	55
+Ottana	4758	91
+Ottati	4759	65
+Ottaviano	4760	63
+Ottiglio	4761	6
+Ottobiano	4762	18
+Ottone	4763	33
+Oulx	4764	1
+Ovada	4765	6
+Ovaro	4766	30
+Oviglio	4767	6
+Ovindoli	4768	66
+Ovodda	4769	91
+Oyace	4770	7
+Ozegna	4771	1
+Ozieri	4772	90
+Ozzano dell'Emilia	4773	37
+Ozzano Monferrato	4774	6
+Ozzero	4775	15
+Pabillonis	4776	109
+Pace del Mela	4777	83
+Paceco	4778	81
+Pacentro	4779	66
+Pachino	4780	89
+Paciano	4781	54
+Padenghe sul Garda	4782	17
+Paderna	4783	6
+Paderno d'Adda	4784	97
+Paderno Dugnano	4785	15
+Paderno Franciacorta	4786	17
+Paderno Ponchielli	4787	19
+Padova	4788	28
+Padria	4789	90
+Padru	4790	90
+Padula	4791	65
+Paduli	4792	62
+Paesana	4793	4
+Paese	4794	26
+Pagani	4795	65
+Paganico Sabino	4796	57
+Pagazzano	4797	16
+Pagliara	4798	83
+Paglieta	4799	69
+Pagnacco	4800	30
+Pagno	4801	4
+Pagnona	4802	97
+Pago del Vallo di Lauro	4803	64
+Pago Veiano	4804	62
+Paisco Loveno	4805	17
+Paitone	4806	17
+Paladina	4807	16
+Palagano	4808	36
+Palagianello	4809	73
+Palagiano	4810	73
+Palagonia	4811	87
+Palaia	4812	50
+Palanzano	4813	34
+Palata	4814	70
+Palau	4815	90
+Palazzago	4816	16
+Palazzo Adriano	4817	82
+Palazzo Canavese	4818	1
+Palazzo Pignano	4819	19
+Palazzo San Gervasio	4820	76
+Palazzolo Acreide	4821	89
+Palazzolo dello Stella	4822	30
+Palazzolo sull'Oglio	4823	17
+Palazzolo Vercellese	4824	2
+Palazzuolo sul Senio	4825	48
+Palena	4826	69
+Palermiti	4827	79
+Palermo	4828	82
+Palestrina	4829	58
+Palestro	4830	18
+Paliano	4831	60
+Palizzi	4832	80
+Pallagorio	4833	101
+Pallanzeno	4834	103
+Pallare	4835	9
+Palma Campania	4836	63
+Palma di Montechiaro	4837	84
+Palmanova	4838	30
+Palmariggi	4839	75
+Palmas Arborea	4840	95
+Palmi	4841	80
+Palmiano	4842	44
+Palmoli	4843	69
+Palo del Colle	4844	72
+Palombara Sabina	4845	58
+Palombaro	4846	69
+Palomonte	4847	65
+Palosco	4848	16
+Palù	4849	23
+Palù del Fersina	4850	22
+Paludi	4851	78
+Paluzza	4852	30
+Pamparato	4853	4
+Pancalieri	4854	1
+Pancarana	4855	18
+Panchià	4856	22
+Pandino	4857	19
+Panettieri	4858	78
+Panicale	4859	54
+Pannarano	4860	62
+Panni	4861	71
+Pantelleria	4862	81
+Pantigliate	4863	15
+Paola	4864	78
+Paolisi	4865	62
+Papasidero	4866	78
+Papozze	4867	29
+Parabiago	4868	15
+Parabita	4869	75
+Paratico	4870	17
+Parcines	4871	21
+Parella	4872	1
+Parenti	4873	78
+Parete	4874	61
+Pareto	4875	6
+Parghelia	4876	102
+Parlasco	4877	97
+Parma	4878	34
+Parodi Ligure	4879	6
+Paroldo	4880	4
+Parolise	4881	64
+Parona	4882	18
+Parrano	4883	55
+Parre	4884	16
+Partanna	4885	81
+Partinico	4886	82
+Paruzzaro	4887	3
+Parzanica	4888	16
+Pasian di Prato	4889	30
+Pasiano di Pordenone	4890	93
+Paspardo	4891	17
+Passerano Marmorito	4892	5
+Passignano sul Trasimeno	4893	54
+Passirano	4894	17
+Pastena	4895	60
+Pastorano	4896	61
+Pastrengo	4897	23
+Pasturana	4898	6
+Pasturo	4899	97
+Paterno	4900	76
+Paternò	4901	87
+Paterno Calabro	4902	78
+Paternopoli	4903	64
+Patrica	4904	60
+Pattada	4905	90
+Patti	4906	83
+Patù	4907	75
+Pau	4908	95
+Paularo	4909	30
+Pauli Arbarei	4910	109
+Paulilatino	4911	95
+Paullo	4912	15
+Paupisi	4913	62
+Pavarolo	4914	1
+Pavia	4915	18
+Pavia di Udine	4916	30
+Pavone Canavese	4917	1
+Pavone del Mella	4918	17
+Pavullo nel Frignano	4919	36
+Pazzano	4920	80
+Peccioli	4921	50
+Pecetto di Valenza	4922	6
+Pecetto Torinese	4923	1
+Pedara	4924	87
+Pedaso	4925	109
+Pedavena	4926	25
+Pedemonte	4927	24
+Pederobba	4928	26
+Pedesina	4929	14
+Pedivigliano	4930	78
+Pedrengo	4931	16
+Peglio	4932	13
+Peglio	4933	41
+Pegognaga	4934	20
+Peia	4935	16
+Peio	4936	22
+Pelago	4937	48
+Pella	4938	3
+Pellegrino Parmense	4939	34
+Pellezzano	4940	65
+Pellizzano	4941	22
+Pelugo	4942	22
+Penango	4943	5
+Penna in Teverina	4944	55
+Penna San Giovanni	4945	43
+Penna Sant'Andrea	4946	67
+Pennabilli	4947	99
+Pennadomo	4948	69
+Pennapiedimonte	4949	69
+Penne	4950	68
+Pentone	4951	79
+Perano	4952	69
+Perarolo di Cadore	4953	25
+Perca	4954	21
+Percile	4955	58
+Perdasdefogu	4956	91
+Perdaxius	4957	109
+Perdifumo	4958	65
+Pereto	4959	66
+Perfugas	4960	90
+Pergine Valsugana	4961	22
+Pergola	4962	41
+Perinaldo	4963	8
+Perito	4964	65
+Perledo	4965	97
+Perletto	4966	4
+Perlo	4967	4
+Perloz	4968	7
+Pernumia	4969	28
+Pero	4970	15
+Perosa Argentina	4971	1
+Perosa Canavese	4972	1
+Perrero	4973	1
+Persico Dosimo	4974	19
+Pertengo	4975	2
+Pertica Alta	4976	17
+Pertica Bassa	4977	17
+Pertosa	4978	65
+Pertusio	4979	1
+Perugia	4980	54
+Pesaro	4981	41
+Pescaglia	4982	46
+Pescantina	4983	23
+Pescara	4984	68
+Pescarolo ed Uniti	4985	19
+Pescasseroli	4986	66
+Pescate	4987	97
+Pesche	4988	94
+Peschici	4989	71
+Peschiera Borromeo	4990	15
+Peschiera del Garda	4991	23
+Pescia	4992	47
+Pescina	4993	66
+Pesco Sannita	4994	62
+Pescocostanzo	4995	66
+Pescolanciano	4996	94
+Pescopagano	4997	76
+Pescopennataro	4998	94
+Pescorocchiano	4999	57
+Pescosansonesco	5000	68
+Pescosolido	5001	60
+Pessano con Bornago	5002	15
+Pessina Cremonese	5003	19
+Pessinetto	5004	1
+Petacciato	5005	70
+Petilia Policastro	5006	101
+Petina	5007	65
+Petralia Soprana	5008	82
+Petralia Sottana	5009	82
+Petrella Salto	5010	57
+Petrella Tifernina	5011	70
+Petriano	5012	41
+Petriolo	5013	43
+Petritoli	5014	109
+Petrizzi	5015	79
+Petronà	5016	79
+Petrosino	5017	81
+Petruro Irpino	5018	64
+Pettenasco	5019	3
+Pettinengo	5020	96
+Pettineo	5021	83
+Pettoranello del Molise	5022	94
+Pettorano sul Gizio	5023	66
+Pettorazza Grimani	5024	29
+Peveragno	5025	4
+Pezzana	5026	2
+Pezzaze	5027	17
+Pezzolo Valle Uzzone	5028	4
+Piacenza	5029	33
+Piacenza d'Adige	5030	28
+Piadena Drizzona	5031	19
+Piaggine	5032	65
+Pian Camuno	5033	17
+Piana Crixia	5034	9
+Piana degli Albanesi	5035	82
+Piana di Monte Verna	5036	61
+Piancastagnaio	5037	52
+Piancogno	5038	17
+Piandimeleto	5039	41
+Piane Crati	5040	78
+Pianella	5041	68
+Pianello del Lario	5042	13
+Pianello Val Tidone	5043	33
+Pianengo	5044	19
+Pianezza	5045	1
+Pianezze	5046	24
+Pianfei	5047	4
+Pianico	5048	16
+Pianiga	5049	27
+Piano di Sorrento	5050	63
+Pianopoli	5051	79
+Pianoro	5052	37
+Piansano	5053	56
+Piantedo	5054	14
+Piario	5055	16
+Piasco	5056	4
+Piateda	5057	14
+Piatto	5058	96
+Piazza al Serchio	5059	46
+Piazza Armerina	5060	86
+Piazza Brembana	5061	16
+Piazzatorre	5062	16
+Piazzola sul Brenta	5063	28
+Piazzolo	5064	16
+Picciano	5065	68
+Picerno	5066	76
+Picinisco	5067	60
+Pico	5068	60
+Piea	5069	5
+Piedicavallo	5070	96
+Piedimonte Etneo	5071	87
+Piedimonte Matese	5072	61
+Piedimonte San Germano	5073	60
+Piedimulera	5074	103
+Piegaro	5075	54
+Pienza	5076	52
+Pieranica	5077	19
+Pietra de' Giorgi	5078	18
+Pietra Ligure	5079	9
+Pietra Marazzi	5080	6
+Pietrabbondante	5081	94
+Pietrabruna	5082	8
+Pietracamela	5083	67
+Pietracatella	5084	70
+Pietracupa	5085	70
+Pietradefusi	5086	64
+Pietraferrazzana	5087	69
+Pietrafitta	5088	78
+Pietragalla	5089	76
+Pietralunga	5090	54
+Pietramelara	5091	61
+Pietramontecorvino	5092	71
+Pietranico	5093	68
+Pietrapaola	5094	78
+Pietrapertosa	5095	76
+Pietraperzia	5096	86
+Pietraporzio	5097	4
+Pietraroja	5098	62
+Pietrarubbia	5099	41
+Pietrasanta	5100	46
+Pietrastornina	5101	64
+Pietravairano	5102	61
+Pietrelcina	5103	62
+Pieve a Nievole	5104	47
+Pieve Albignola	5105	18
+Pieve del Cairo	5106	18
+Pieve del Grappa	5107	26
+Pieve di Bono-Prezzo	5108	22
+Pieve di Cadore	5109	25
+Pieve di Cento	5110	37
+Pieve di Soligo	5111	26
+Pieve di Teco	5112	8
+Pieve d'Olmi	5113	19
+Pieve Emanuele	5114	15
+Pieve Fissiraga	5115	98
+Pieve Fosciana	5116	46
+Pieve Ligure	5117	10
+Pieve Porto Morone	5118	18
+Pieve San Giacomo	5119	19
+Pieve Santo Stefano	5120	51
+Pieve Tesino	5121	22
+Pieve Torina	5122	43
+Pieve Vergonte	5123	103
+Pievepelago	5124	36
+Piglio	5125	60
+Pigna	5126	8
+Pignataro Interamna	5127	60
+Pignataro Maggiore	5128	61
+Pignola	5129	76
+Pignone	5130	11
+Pigra	5131	13
+Pila	5132	2
+Pimentel	5133	109
+Pimonte	5134	63
+Pinarolo Po	5135	18
+Pinasca	5136	1
+Pincara	5137	29
+Pinerolo	5138	1
+Pineto	5139	67
+Pino d'Asti	5140	5
+Pino Torinese	5141	1
+Pinzano al Tagliamento	5142	93
+Pinzolo	5143	22
+Piobbico	5144	41
+Piobesi d'Alba	5145	4
+Piobesi Torinese	5146	1
+Piode	5147	2
+Pioltello	5148	15
+Piombino	5149	49
+Piombino Dese	5150	28
+Pioraco	5151	43
+Piossasco	5152	1
+Piovà Massaia	5153	5
+Piove di Sacco	5154	28
+Piovene Rocchette	5155	24
+Piozzano	5156	33
+Piozzo	5157	4
+Piraino	5158	83
+Pisa	5159	50
+Pisano	5160	3
+Piscina	5161	1
+Piscinas	5162	109
+Pisciotta	5163	65
+Pisogne	5164	17
+Pisoniano	5165	58
+Pisticci	5166	77
+Pistoia	5167	47
+Pitigliano	5168	53
+Piubega	5169	20
+Piuro	5170	14
+Piverone	5171	1
+Pizzale	5172	18
+Pizzighettone	5173	19
+Pizzo	5174	102
+Pizzoferrato	5175	69
+Pizzoli	5176	66
+Pizzone	5177	94
+Pizzoni	5178	102
+Placanica	5179	80
+Plataci	5180	78
+Platania	5181	79
+Platì	5182	80
+Plaus	5183	21
+Plesio	5184	13
+Ploaghe	5185	90
+Plodio	5186	9
+Pocapaglia	5187	4
+Pocenia	5188	30
+Podenzana	5189	45
+Podenzano	5190	33
+Pofi	5191	60
+Poggiardo	5192	75
+Poggibonsi	5193	52
+Poggio a Caiano	5194	100
+Poggio Bustone	5195	57
+Poggio Catino	5196	57
+Poggio Imperiale	5197	71
+Poggio Mirteto	5198	57
+Poggio Moiano	5199	57
+Poggio Nativo	5200	57
+Poggio Picenze	5201	66
+Poggio Renatico	5202	38
+Poggio Rusco	5203	20
+Poggio San Lorenzo	5204	57
+Poggio San Marcello	5205	42
+Poggio San Vicino	5206	43
+Poggio Sannita	5207	94
+Poggio Torriana	5208	99
+Poggiodomo	5209	54
+Poggiofiorito	5210	69
+Poggiomarino	5211	63
+Poggioreale	5212	81
+Poggiorsini	5213	72
+Poggiridenti	5214	14
+Pogliano Milanese	5215	15
+Pognana Lario	5216	13
+Pognano	5217	16
+Pogno	5218	3
+Poirino	5219	1
+Pojana Maggiore	5220	24
+Polaveno	5221	17
+Polcenigo	5222	93
+Polesella	5223	29
+Polesine Zibello	5224	34
+Poli	5225	58
+Polia	5226	102
+Policoro	5227	77
+Polignano a Mare	5228	72
+Polinago	5229	36
+Polino	5230	55
+Polistena	5231	80
+Polizzi Generosa	5232	82
+Polla	5233	65
+Pollein	5234	7
+Pollena Trocchia	5235	63
+Pollenza	5236	43
+Pollica	5237	65
+Pollina	5238	82
+Pollone	5239	96
+Pollutri	5240	69
+Polonghera	5241	4
+Polpenazze del Garda	5242	17
+Polverara	5243	28
+Polverigi	5244	42
+Pomarance	5245	50
+Pomaretto	5246	1
+Pomarico	5247	77
+Pomaro Monferrato	5248	6
+Pomarolo	5249	22
+Pombia	5250	3
+Pomezia	5251	58
+Pomigliano d'Arco	5252	63
+Pompei	5253	63
+Pompeiana	5254	8
+Pompiano	5255	17
+Pomponesco	5256	20
+Pompu	5257	95
+Poncarale	5258	17
+Ponderano	5259	96
+Ponna	5260	13
+Ponsacco	5261	50
+Ponso	5262	28
+Pont Canavese	5263	1
+Pontassieve	5264	48
+Pontboset	5265	7
+Ponte	5266	62
+Ponte Buggianese	5267	47
+Ponte dell'Olio	5268	33
+Ponte di Legno	5269	17
+Ponte di Piave	5270	26
+Ponte Gardena	5271	21
+Ponte in Valtellina	5272	14
+Ponte Lambro	5273	13
+Ponte nelle Alpi	5274	25
+Ponte Nizza	5275	18
+Ponte Nossa	5276	16
+Ponte San Nicolò	5277	28
+Ponte San Pietro	5278	16
+Pontebba	5279	30
+Pontecagnano Faiano	5280	65
+Pontecchio Polesine	5281	29
+Pontechianale	5282	4
+Pontecorvo	5283	60
+Pontecurone	5284	6
+Pontedassio	5285	8
+Pontedera	5286	50
+Pontelandolfo	5287	62
+Pontelatone	5288	61
+Pontelongo	5289	28
+Pontenure	5290	33
+Ponteranica	5291	16
+Pontestura	5292	6
+Pontevico	5293	17
+Pontey	5294	7
+Ponti	5295	6
+Ponti sul Mincio	5296	20
+Pontida	5297	16
+Pontinia	5298	59
+Pontinvrea	5299	9
+Pontirolo Nuovo	5300	16
+Pontoglio	5301	17
+Pontremoli	5302	45
+Pont-Saint-Martin	5303	7
+Ponza	5304	59
+Ponzano di Fermo	5305	109
+Ponzano Monferrato	5306	6
+Ponzano Romano	5307	58
+Ponzano Veneto	5308	26
+Ponzone	5309	6
+Popoli	5310	68
+Poppi	5311	51
+Porano	5312	55
+Porcari	5313	46
+Porcia	5314	93
+Pordenone	5315	93
+Porlezza	5316	13
+Pornassio	5317	8
+Porpetto	5318	30
+Portacomaro	5319	5
+Portalbera	5320	18
+Porte	5321	1
+Porte di Rendena	5322	22
+Portici	5323	63
+Portico di Caserta	5324	61
+Portico e San Benedetto	5325	40
+Portigliola	5326	80
+Porto Azzurro	5327	49
+Porto Ceresio	5328	12
+Porto Cesareo	5329	75
+Porto Empedocle	5330	84
+Porto Mantovano	5331	20
+Porto Recanati	5332	43
+Porto San Giorgio	5333	109
+Porto Sant'Elpidio	5334	109
+Porto Tolle	5335	29
+Porto Torres	5336	90
+Porto Valtravaglia	5337	12
+Porto Viro	5338	29
+Portobuffolè	5339	26
+Portocannone	5340	70
+Portoferraio	5341	49
+Portofino	5342	10
+Portogruaro	5343	27
+Portomaggiore	5344	38
+Portopalo di Capo Passero	5345	89
+Portoscuso	5346	109
+Portovenere	5347	11
+Portula	5348	96
+Posada	5349	91
+Posina	5350	24
+Positano	5351	65
+Possagno	5352	26
+Posta	5353	57
+Posta Fibreno	5354	60
+Postal	5355	21
+Postalesio	5356	14
+Postiglione	5357	65
+Postua	5358	2
+Potenza	5359	76
+Potenza Picena	5360	43
+Pove del Grappa	5361	24
+Povegliano	5362	26
+Povegliano Veronese	5363	23
+Poviglio	5364	35
+Povoletto	5365	30
+Pozzaglia Sabina	5366	57
+Pozzaglio ed Uniti	5367	19
+Pozzallo	5368	88
+Pozzilli	5369	94
+Pozzo d'Adda	5370	15
+Pozzol Groppo	5371	6
+Pozzolengo	5372	17
+Pozzoleone	5373	24
+Pozzolo Formigaro	5374	6
+Pozzomaggiore	5375	90
+Pozzonovo	5376	28
+Pozzuoli	5377	63
+Pozzuolo del Friuli	5378	30
+Pozzuolo Martesana	5379	15
+Pradalunga	5380	16
+Pradamano	5381	30
+Pradleves	5382	4
+Pragelato	5383	1
+Praia a Mare	5384	78
+Praiano	5385	65
+Pralboino	5386	17
+Prali	5387	1
+Pralormo	5388	1
+Pralungo	5389	96
+Pramaggiore	5390	27
+Pramollo	5391	1
+Prarolo	5392	2
+Prarostino	5393	1
+Prasco	5394	6
+Prascorsano	5395	1
+Prata Camportaccio	5396	14
+Prata d'Ansidonia	5397	66
+Prata di Pordenone	5398	93
+Prata di Principato Ultra	5399	64
+Prata Sannita	5400	61
+Pratella	5401	61
+Pratiglione	5402	1
+Prato	5403	100
+Prato allo Stelvio	5404	21
+Prato Carnico	5405	30
+Prato Sesia	5406	3
+Pratola Peligna	5407	66
+Pratola Serra	5408	64
+Pratovecchio Stia	5409	51
+Pravisdomini	5410	93
+Pray	5411	96
+Prazzo	5412	4
+Precenicco	5413	30
+Preci	5414	54
+Predaia	5415	22
+Predappio	5416	40
+Predazzo	5417	22
+Predoi	5418	21
+Predore	5419	16
+Predosa	5420	6
+Preganziol	5421	26
+Pregnana Milanese	5422	15
+Prelà	5423	8
+Premana	5424	97
+Premariacco	5425	30
+Premeno	5426	103
+Premia	5427	103
+Premilcuore	5428	40
+Premolo	5429	16
+Premosello-Chiovenda	5430	103
+Preone	5431	30
+Prepotto	5432	30
+Pré-Saint-Didier	5433	7
+Preseglie	5434	17
+Presenzano	5435	61
+Presezzo	5436	16
+Presicce-Acquarica	5437	75
+Pressana	5438	23
+Pretoro	5439	69
+Prevalle	5440	17
+Prezza	5441	66
+Priero	5442	4
+Prignano Cilento	5443	65
+Prignano sulla Secchia	5444	36
+Primaluna	5445	97
+Primiero San Martino di Castrozza	5446	22
+Priocca	5447	4
+Priola	5448	4
+Priolo Gargallo	5449	89
+Priverno	5450	59
+Prizzi	5451	82
+Proceno	5452	56
+Procida	5453	63
+Propata	5454	10
+Proserpio	5455	13
+Prossedi	5456	59
+Provaglio d'Iseo	5457	17
+Provaglio Val Sabbia	5458	17
+Proves	5459	21
+Provvidenti	5460	70
+Prunetto	5461	4
+Puegnago del Garda	5462	17
+Puglianello	5463	62
+Pula	5464	92
+Pulfero	5465	30
+Pulsano	5466	73
+Pumenengo	5467	16
+Pusiano	5468	13
+Putifigari	5469	90
+Putignano	5470	72
+Quadrelle	5471	64
+Quadri	5472	69
+Quagliuzzo	5473	1
+Qualiano	5474	63
+Quaranti	5475	5
+Quaregna Cerreto	5476	96
+Quargnento	5477	6
+Quarna Sopra	5478	103
+Quarna Sotto	5479	103
+Quarona	5480	2
+Quarrata	5481	47
+Quart	5482	7
+Quarto	5483	63
+Quarto d'Altino	5484	27
+Quartu Sant'Elena	5485	92
+Quartucciu	5486	92
+Quassolo	5487	1
+Quattordio	5488	6
+Quattro Castella	5489	35
+Quero Vas	5490	25
+Quiliano	5491	9
+Quincinetto	5492	1
+Quindici	5493	64
+Quingentole	5494	20
+Quintano	5495	19
+Quinto di Treviso	5496	26
+Quinto Vercellese	5497	2
+Quinto Vicentino	5498	24
+Quinzano d'Oglio	5499	17
+Quistello	5500	20
+Rabbi	5501	22
+Racale	5502	75
+Racalmuto	5503	84
+Racconigi	5504	4
+Raccuja	5505	83
+Racines	5506	21
+Radda in Chianti	5507	52
+Raddusa	5508	87
+Radicofani	5509	52
+Radicondoli	5510	52
+Raffadali	5511	84
+Ragalna	5512	87
+Ragogna	5513	30
+Ragusa	5514	88
+Raiano	5515	66
+Ramacca	5516	87
+Rancio Valcuvia	5517	12
+Ranco	5518	12
+Randazzo	5519	87
+Ranica	5520	16
+Ranzanico	5521	16
+Ranzo	5522	8
+Rapagnano	5523	109
+Rapallo	5524	10
+Rapino	5525	69
+Rapolano Terme	5526	52
+Rapolla	5527	76
+Rapone	5528	76
+Rassa	5529	2
+Rasun-Anterselva	5530	21
+Rasura	5531	14
+Ravanusa	5532	84
+Ravarino	5533	36
+Ravascletto	5534	30
+Ravello	5535	65
+Ravenna	5536	39
+Raveo	5537	30
+Raviscanina	5538	61
+Re	5539	103
+Rea	5540	18
+Realmonte	5541	84
+Reana del Rojale	5542	30
+Reano	5543	1
+Recale	5544	61
+Recanati	5545	43
+Recco	5546	10
+Recetto	5547	3
+Recoaro Terme	5548	24
+Redavalle	5549	18
+Redondesco	5550	20
+Refrancore	5551	5
+Refrontolo	5552	26
+Regalbuto	5553	86
+Reggello	5554	48
+Reggio di Calabria	5555	80
+Reggio nell'Emilia	5556	35
+Reggiolo	5557	35
+Reino	5558	62
+Reitano	5559	83
+Remanzacco	5560	30
+Remedello	5561	17
+Renate	5562	108
+Rende	5563	78
+Renon	5564	21
+Resana	5565	26
+Rescaldina	5566	15
+Resia	5567	30
+Resiutta	5568	30
+Resuttano	5569	85
+Retorbido	5570	18
+Revello	5571	4
+Revigliasco d'Asti	5572	5
+Revine Lago	5573	26
+Rezzago	5574	13
+Rezzato	5575	17
+Rezzo	5576	8
+Rezzoaglio	5577	10
+Rhêmes-Notre-Dame	5578	7
+Rhêmes-Saint-Georges	5579	7
+Rho	5580	15
+Riace	5581	80
+Rialto	5582	9
+Riano	5583	58
+Riardo	5584	61
+Ribera	5585	84
+Ribordone	5586	1
+Ricadi	5587	102
+Ricaldone	5588	6
+Riccia	5589	70
+Riccione	5590	99
+Riccò del Golfo di Spezia	5591	11
+Ricengo	5592	19
+Ricigliano	5593	65
+Riese Pio X	5594	26
+Riesi	5595	85
+Rieti	5596	57
+Rifiano	5597	21
+Rifreddo	5598	4
+Rignano Flaminio	5599	58
+Rignano Garganico	5600	71
+Rignano sull'Arno	5601	48
+Rigolato	5602	30
+Rimella	5603	2
+Rimini	5604	99
+Rio	5605	49
+Rio di Pusteria	5606	21
+Rio Saliceto	5607	35
+Riofreddo	5608	58
+Riola Sardo	5609	95
+Riolo Terme	5610	39
+Riolunato	5611	36
+Riomaggiore	5612	11
+Rionero in Vulture	5613	76
+Rionero Sannitico	5614	94
+Ripa Teatina	5615	69
+Ripabottoni	5616	70
+Ripacandida	5617	76
+Ripalimosani	5618	70
+Ripalta Arpina	5619	19
+Ripalta Cremasca	5620	19
+Ripalta Guerina	5621	19
+Riparbella	5622	50
+Ripatransone	5623	44
+Ripe San Ginesio	5624	43
+Ripi	5625	60
+Riposto	5626	87
+Rittana	5627	4
+Riva del Garda	5628	22
+Riva del Po	5629	38
+Riva di Solto	5630	16
+Riva Ligure	5631	8
+Riva presso Chieri	5632	1
+Rivalba	5633	1
+Rivalta Bormida	5634	6
+Rivalta di Torino	5635	1
+Rivamonte Agordino	5636	25
+Rivanazzano Terme	5637	18
+Rivara	5638	1
+Rivarolo Canavese	5639	1
+Rivarolo del Re ed Uniti	5640	19
+Rivarolo Mantovano	5641	20
+Rivarone	5642	6
+Rivarossa	5643	1
+Rive	5644	2
+Rive d'Arcano	5645	30
+Rivello	5646	76
+Rivergaro	5647	33
+Rivignano Teor	5648	30
+Rivisondoli	5649	66
+Rivodutri	5650	57
+Rivoli	5651	1
+Rivoli Veronese	5652	23
+Rivolta d'Adda	5653	19
+Rizziconi	5654	80
+Roana	5655	24
+Roaschia	5656	4
+Roascio	5657	4
+Roasio	5658	2
+Roatto	5659	5
+Robassomero	5660	1
+Robbiate	5661	97
+Robbio	5662	18
+Robecchetto con Induno	5663	15
+Robecco d'Oglio	5664	19
+Robecco Pavese	5665	18
+Robecco sul Naviglio	5666	15
+Robella	5667	5
+Robilante	5668	4
+Roburent	5669	4
+Rocca Canavese	5670	1
+Rocca Canterano	5671	58
+Rocca Cigliè	5672	4
+Rocca d'Arazzo	5673	5
+Rocca d'Arce	5674	60
+Rocca de' Baldi	5675	4
+Rocca de' Giorgi	5676	18
+Rocca d'Evandro	5677	61
+Rocca di Botte	5678	66
+Rocca di Cambio	5679	66
+Rocca di Cave	5680	58
+Rocca di Mezzo	5681	66
+Rocca di Neto	5682	101
+Rocca di Papa	5683	58
+Rocca Grimalda	5684	6
+Rocca Imperiale	5685	78
+Rocca Massima	5686	59
+Rocca Pia	5687	66
+Rocca Pietore	5688	25
+Rocca Priora	5689	58
+Rocca San Casciano	5690	40
+Rocca San Felice	5691	64
+Rocca San Giovanni	5692	69
+Rocca Santa Maria	5693	67
+Rocca Santo Stefano	5694	58
+Rocca Sinibalda	5695	57
+Rocca Susella	5696	18
+Roccabascerana	5697	64
+Roccabernarda	5698	101
+Roccabianca	5699	34
+Roccabruna	5700	4
+Roccacasale	5701	66
+Roccadaspide	5702	65
+Roccafiorita	5703	83
+Roccafluvione	5704	44
+Roccaforte del Greco	5705	80
+Roccaforte Ligure	5706	6
+Roccaforte Mondovì	5707	4
+Roccaforzata	5708	73
+Roccafranca	5709	17
+Roccagiovine	5710	58
+Roccagloriosa	5711	65
+Roccagorga	5712	59
+Roccalbegna	5713	53
+Roccalumera	5714	83
+Roccamandolfi	5715	94
+Roccamena	5716	82
+Roccamonfina	5717	61
+Roccamontepiano	5718	69
+Roccamorice	5719	68
+Roccanova	5720	76
+Roccantica	5721	57
+Roccapalumba	5722	82
+Roccapiemonte	5723	65
+Roccarainola	5724	63
+Roccaraso	5725	66
+Roccaromana	5726	61
+Roccascalegna	5727	69
+Roccasecca	5728	60
+Roccasecca dei Volsci	5729	59
+Roccasicura	5730	94
+Roccasparvera	5731	4
+Roccaspinalveti	5732	69
+Roccastrada	5733	53
+Roccavaldina	5734	83
+Roccaverano	5735	5
+Roccavignale	5736	9
+Roccavione	5737	4
+Roccavivara	5738	70
+Roccella Ionica	5739	80
+Roccella Valdemone	5740	83
+Rocchetta a Volturno	5741	94
+Rocchetta Belbo	5742	4
+Rocchetta di Vara	5743	11
+Rocchetta e Croce	5744	61
+Rocchetta Ligure	5745	6
+Rocchetta Nervina	5746	8
+Rocchetta Palafea	5747	5
+Rocchetta Sant'Antonio	5748	71
+Rocchetta Tanaro	5749	5
+Rodano	5750	15
+Roddi	5751	4
+Roddino	5752	4
+Rodello	5753	4
+Rodengo	5754	21
+Rodengo Saiano	5755	17
+Rodero	5756	13
+Rodi Garganico	5757	71
+Rodì Milici	5758	83
+Rodigo	5759	20
+Roè Volciano	5760	17
+Rofrano	5761	65
+Rogeno	5762	97
+Roggiano Gravina	5763	78
+Roghudi	5764	80
+Rogliano	5765	78
+Rognano	5766	18
+Rogno	5767	16
+Rogolo	5768	14
+Roiate	5769	58
+Roio del Sangro	5770	69
+Roisan	5771	7
+Roletto	5772	1
+Rolo	5773	35
+Roma	5774	58
+Romagnano al Monte	5775	65
+Romagnano Sesia	5776	3
+Romagnese	5777	18
+Romana	5778	90
+Romanengo	5779	19
+Romano Canavese	5780	1
+Romano d'Ezzelino	5781	24
+Romano di Lombardia	5782	16
+Romans d'Isonzo	5783	31
+Rombiolo	5784	102
+Romeno	5785	22
+Romentino	5786	3
+Rometta	5787	83
+Ronago	5788	13
+Roncà	5789	23
+Roncade	5790	26
+Roncadelle	5791	17
+Roncaro	5792	18
+Roncegno Terme	5793	22
+Roncello	5794	108
+Ronchi dei Legionari	5795	31
+Ronchi Valsugana	5796	22
+Ronchis	5797	30
+Ronciglione	5798	56
+Ronco all'Adige	5799	23
+Ronco Biellese	5800	96
+Ronco Briantino	5801	108
+Ronco Canavese	5802	1
+Ronco Scrivia	5803	10
+Roncobello	5804	16
+Roncoferraro	5805	20
+Roncofreddo	5806	40
+Roncola	5807	16
+Rondanina	5808	10
+Rondissone	5809	1
+Ronsecco	5810	2
+Ronzo-Chienis	5811	22
+Ronzone	5812	22
+Roppolo	5813	96
+Rorà	5814	1
+Rosà	5815	24
+Rosarno	5816	80
+Rosasco	5817	18
+Rosate	5818	15
+Rosazza	5819	96
+Rosciano	5820	68
+Roscigno	5821	65
+Rose	5822	78
+Rosello	5823	69
+Roseto Capo Spulico	5824	78
+Roseto degli Abruzzi	5825	67
+Roseto Valfortore	5826	71
+Rosignano Marittimo	5827	49
+Rosignano Monferrato	5828	6
+Rosolina	5829	29
+Rosolini	5830	89
+Rosora	5831	42
+Rossa	5832	2
+Rossana	5833	4
+Rossano Veneto	5834	24
+Rossiglione	5835	10
+Rosta	5836	1
+Rota d'Imagna	5837	16
+Rota Greca	5838	78
+Rotella	5839	44
+Rotello	5840	70
+Rotonda	5841	76
+Rotondella	5842	77
+Rotondi	5843	64
+Rottofreno	5844	33
+Rotzo	5845	24
+Roure	5846	1
+Rovasenda	5847	2
+Rovato	5848	17
+Rovegno	5849	10
+Rovellasca	5850	13
+Rovello Porro	5851	13
+Roverbella	5852	20
+Roverchiara	5853	23
+Roverè della Luna	5854	22
+Roverè Veronese	5855	23
+Roveredo di Guà	5856	23
+Roveredo in Piano	5857	93
+Rovereto	5858	22
+Rovescala	5859	18
+Rovetta	5860	16
+Roviano	5861	58
+Rovigo	5862	29
+Rovito	5863	78
+Rovolon	5864	28
+Rozzano	5865	15
+Rubano	5866	28
+Rubiana	5867	1
+Rubiera	5868	35
+Ruda	5869	30
+Rudiano	5870	17
+Rueglio	5871	1
+Ruffano	5872	75
+Ruffia	5873	4
+Ruffrè-Mendola	5874	22
+Rufina	5875	48
+Ruinas	5876	95
+Rumo	5877	22
+Ruoti	5878	76
+Russi	5879	39
+Rutigliano	5880	72
+Rutino	5881	65
+Ruviano	5882	61
+Ruvo del Monte	5883	76
+Ruvo di Puglia	5884	72
+Sabaudia	5885	59
+Sabbio Chiese	5886	17
+Sabbioneta	5887	20
+Sacco	5888	65
+Saccolongo	5889	28
+Sacile	5890	93
+Sacrofano	5891	58
+Sadali	5892	109
+Sagama	5893	95
+Sagliano Micca	5894	96
+Sagrado	5895	31
+Sagron Mis	5896	22
+Saint-Christophe	5897	7
+Saint-Denis	5898	7
+Saint-Marcel	5899	7
+Saint-Nicolas	5900	7
+Saint-Oyen	5901	7
+Saint-Pierre	5902	7
+Saint-Rhémy-en-Bosses	5903	7
+Saint-Vincent	5904	7
+Sala Baganza	5905	34
+Sala Biellese	5906	96
+Sala Bolognese	5907	37
+Sala Comacina	5908	13
+Sala Consilina	5909	65
+Sala Monferrato	5910	6
+Salandra	5911	77
+Salaparuta	5912	81
+Salara	5913	29
+Salasco	5914	2
+Salassa	5915	1
+Salbertrand	5916	1
+Salcedo	5917	24
+Salcito	5918	70
+Sale	5919	6
+Sale delle Langhe	5920	4
+Sale Marasino	5921	17
+Sale San Giovanni	5922	4
+Salemi	5923	81
+Salento	5924	65
+Salerano Canavese	5925	1
+Salerano sul Lambro	5926	98
+Salerno	5927	65
+Salgareda	5928	26
+Sali Vercellese	5929	2
+Salice Salentino	5930	75
+Saliceto	5931	4
+Salisano	5932	57
+Salizzole	5933	23
+Salle	5934	68
+Salmour	5935	4
+Salò	5936	17
+Salorno sulla strada del vino	5937	21
+Salsomaggiore Terme	5938	34
+Saltrio	5939	12
+Saludecio	5940	99
+Saluggia	5941	2
+Salussola	5942	96
+Saluzzo	5943	4
+Salve	5944	75
+Salvirola	5945	19
+Salvitelle	5946	65
+Salza di Pinerolo	5947	1
+Salza Irpina	5948	64
+Salzano	5949	27
+Samarate	5950	12
+Samassi	5951	109
+Samatzai	5952	109
+Sambuca di Sicilia	5953	84
+Sambuca Pistoiese	5954	47
+Sambuci	5955	58
+Sambuco	5956	4
+Sammichele di Bari	5957	72
+Samo	5958	80
+Samolaco	5959	14
+Samone	5960	1
+Samone	5961	22
+Sampeyre	5962	4
+Samugheo	5963	95
+San Bartolomeo al Mare	5964	8
+San Bartolomeo in Galdo	5965	62
+San Bartolomeo Val Cavargna	5966	13
+San Basile	5967	78
+San Basilio	5968	109
+San Bassano	5969	19
+San Bellino	5970	29
+San Benedetto Belbo	5971	4
+San Benedetto dei Marsi	5972	66
+San Benedetto del Tronto	5973	44
+San Benedetto in Perillis	5974	66
+San Benedetto Po	5975	20
+San Benedetto Ullano	5976	78
+San Benedetto Val di Sambro	5977	37
+San Benigno Canavese	5978	1
+San Bernardino Verbano	5979	103
+San Biagio della Cima	5980	8
+San Biagio di Callalta	5981	26
+San Biagio Platani	5982	84
+San Biagio Saracinisco	5983	60
+San Biase	5984	70
+San Bonifacio	5985	23
+San Buono	5986	69
+San Calogero	5987	102
+San Candido	5988	21
+San Canzian d'Isonzo	5989	31
+San Carlo Canavese	5990	1
+San Casciano dei Bagni	5991	52
+San Casciano in Val di Pesa	5992	48
+San Cassiano	5993	75
+San Cataldo	5994	85
+San Cesareo	5995	58
+San Cesario di Lecce	5996	75
+San Cesario sul Panaro	5997	36
+San Chirico Nuovo	5998	76
+San Chirico Raparo	5999	76
+San Cipirello	6000	82
+San Cipriano d'Aversa	6001	61
+San Cipriano Picentino	6002	65
+San Cipriano Po	6003	18
+San Clemente	6004	99
+San Colombano al Lambro	6005	15
+San Colombano Belmonte	6006	1
+San Colombano Certenoli	6007	10
+San Cono	6008	87
+San Cosmo Albanese	6009	78
+San Costantino Albanese	6010	76
+San Costantino Calabro	6011	102
+San Costanzo	6012	41
+San Cristoforo	6013	6
+San Damiano al Colle	6014	18
+San Damiano d'Asti	6015	5
+San Damiano Macra	6016	4
+San Daniele del Friuli	6017	30
+San Daniele Po	6018	19
+San Demetrio Corone	6019	78
+San Demetrio ne' Vestini	6020	66
+San Didero	6021	1
+San Donà di Piave	6022	27
+San Donaci	6023	74
+San Donato di Lecce	6024	75
+San Donato di Ninea	6025	78
+San Donato Milanese	6026	15
+San Donato Val di Comino	6027	60
+San Dorligo della Valle	6028	32
+San Fele	6029	76
+San Felice a Cancello	6030	61
+San Felice Circeo	6031	59
+San Felice del Benaco	6032	17
+San Felice del Molise	6033	70
+San Felice sul Panaro	6034	36
+San Ferdinando	6035	80
+San Ferdinando di Puglia	6036	110
+San Fermo della Battaglia	6037	13
+San Fili	6038	78
+San Filippo del Mela	6039	83
+San Fior	6040	26
+San Fiorano	6041	98
+San Floriano del Collio	6042	31
+San Floro	6043	79
+San Francesco al Campo	6044	1
+San Fratello	6045	83
+San Gavino Monreale	6046	109
+San Gemini	6047	55
+San Genesio Atesino	6048	21
+San Genesio ed Uniti	6049	18
+San Gennaro Vesuviano	6050	63
+San Germano Chisone	6051	1
+San Germano Vercellese	6052	2
+San Gervasio Bresciano	6053	17
+San Giacomo degli Schiavoni	6054	70
+San Giacomo delle Segnate	6055	20
+San Giacomo Filippo	6056	14
+San Giacomo Vercellese	6057	2
+San Gillio	6058	1
+San Gimignano	6059	52
+San Ginesio	6060	43
+San Giorgio a Cremano	6061	63
+San Giorgio a Liri	6062	60
+San Giorgio Albanese	6063	78
+San Giorgio Bigarello	6064	20
+San Giorgio Canavese	6065	1
+San Giorgio del Sannio	6066	62
+San Giorgio della Richinvelda	6067	93
+San Giorgio delle Pertiche	6068	28
+San Giorgio di Lomellina	6069	18
+San Giorgio di Nogaro	6070	30
+San Giorgio di Piano	6071	37
+San Giorgio in Bosco	6072	28
+San Giorgio Ionico	6073	73
+San Giorgio La Molara	6074	62
+San Giorgio Lucano	6075	77
+San Giorgio Monferrato	6076	6
+San Giorgio Morgeto	6077	80
+San Giorgio Piacentino	6078	33
+San Giorgio Scarampi	6079	5
+San Giorgio su Legnano	6080	15
+San Giorio di Susa	6081	1
+San Giovanni a Piro	6082	65
+San Giovanni al Natisone	6083	30
+San Giovanni Bianco	6084	16
+San Giovanni del Dosso	6085	20
+San Giovanni di Fassa	6086	22
+San Giovanni di Gerace	6087	80
+San Giovanni Gemini	6088	84
+San Giovanni Ilarione	6089	23
+San Giovanni in Croce	6090	19
+San Giovanni in Fiore	6091	78
+San Giovanni in Galdo	6092	70
+San Giovanni in Marignano	6093	99
+San Giovanni in Persiceto	6094	37
+San Giovanni Incarico	6095	60
+San Giovanni la Punta	6096	87
+San Giovanni Lipioni	6097	69
+San Giovanni Lupatoto	6098	23
+San Giovanni Rotondo	6099	71
+San Giovanni Suergiu	6100	109
+San Giovanni Teatino	6101	69
+San Giovanni Valdarno	6102	51
+San Giuliano del Sannio	6103	70
+San Giuliano di Puglia	6104	70
+San Giuliano Milanese	6105	15
+San Giuliano Terme	6106	50
+San Giuseppe Jato	6107	82
+San Giuseppe Vesuviano	6108	63
+San Giustino	6109	54
+San Giusto Canavese	6110	1
+San Godenzo	6111	48
+San Gregorio da Sassola	6112	58
+San Gregorio di Catania	6113	87
+San Gregorio d'Ippona	6114	102
+San Gregorio Magno	6115	65
+San Gregorio Matese	6116	61
+San Gregorio nelle Alpi	6117	25
+San Lazzaro di Savena	6118	37
+San Leo	6119	99
+San Leonardo	6120	30
+San Leonardo in Passiria	6121	21
+San Leucio del Sannio	6122	62
+San Lorenzello	6123	62
+San Lorenzo	6124	80
+San Lorenzo al Mare	6125	8
+San Lorenzo Bellizzi	6126	78
+San Lorenzo del Vallo	6127	78
+San Lorenzo di Sebato	6128	21
+San Lorenzo Dorsino	6129	22
+San Lorenzo in Campo	6130	41
+San Lorenzo Isontino	6131	31
+San Lorenzo Maggiore	6132	62
+San Lorenzo Nuovo	6133	56
+San Luca	6134	80
+San Lucido	6135	78
+San Lupo	6136	62
+San Mango d'Aquino	6137	79
+San Mango Piemonte	6138	65
+San Mango sul Calore	6139	64
+San Marcellino	6140	61
+San Marcello	6141	42
+San Marcello Piteglio	6142	47
+San Marco Argentano	6143	78
+San Marco d'Alunzio	6144	83
+San Marco dei Cavoti	6145	62
+San Marco Evangelista	6146	61
+San Marco in Lamis	6147	71
+San Marco la Catola	6148	71
+San Martino al Tagliamento	6149	93
+San Martino Alfieri	6150	5
+San Martino Buon Albergo	6151	23
+San Martino Canavese	6152	1
+San Martino d'Agri	6153	76
+San Martino dall'Argine	6154	20
+San Martino del Lago	6155	19
+San Martino di Finita	6156	78
+San Martino di Lupari	6157	28
+San Martino di Venezze	6158	29
+San Martino in Badia	6159	21
+San Martino in Passiria	6160	21
+San Martino in Pensilis	6161	70
+San Martino in Rio	6162	35
+San Martino in Strada	6163	98
+San Martino Sannita	6164	62
+San Martino Siccomario	6165	18
+San Martino sulla Marrucina	6166	69
+San Martino Valle Caudina	6167	64
+San Marzano di San Giuseppe	6168	73
+San Marzano Oliveto	6169	5
+San Marzano sul Sarno	6170	65
+San Massimo	6171	70
+San Maurizio Canavese	6172	1
+San Maurizio d'Opaglio	6173	3
+San Mauro Castelverde	6174	82
+San Mauro Cilento	6175	65
+San Mauro di Saline	6176	23
+San Mauro Forte	6177	77
+San Mauro la Bruca	6178	65
+San Mauro Marchesato	6179	101
+San Mauro Pascoli	6180	40
+San Mauro Torinese	6181	1
+San Michele al Tagliamento	6182	27
+San Michele all'Adige	6183	22
+San Michele di Ganzaria	6184	87
+San Michele di Serino	6185	64
+San Michele Mondovì	6186	4
+San Michele Salentino	6187	74
+San Miniato	6188	50
+San Nazzaro	6189	62
+San Nazzaro Sesia	6190	3
+San Nazzaro Val Cavargna	6191	13
+San Nicandro Garganico	6192	71
+San Nicola Arcella	6193	78
+San Nicola Baronia	6194	64
+San Nicola da Crissa	6195	102
+San Nicola dell'Alto	6196	101
+San Nicola la Strada	6197	61
+San Nicola Manfredi	6198	62
+San Nicolò d'Arcidano	6199	95
+San Nicolò di Comelico	6200	25
+San Nicolò Gerrei	6201	109
+San Pancrazio	6202	21
+San Pancrazio Salentino	6203	74
+San Paolo	6204	17
+San Paolo Albanese	6205	76
+San Paolo Bel Sito	6206	63
+San Paolo d'Argon	6207	16
+San Paolo di Civitate	6208	71
+San Paolo di Jesi	6209	42
+San Paolo Solbrito	6210	5
+San Pellegrino Terme	6211	16
+San Pier d'Isonzo	6212	31
+San Pier Niceto	6213	83
+San Piero Patti	6214	83
+San Pietro a Maida	6215	79
+San Pietro al Natisone	6216	30
+San Pietro al Tanagro	6217	65
+San Pietro Apostolo	6218	79
+San Pietro Avellana	6219	94
+San Pietro Clarenza	6220	87
+San Pietro di Cadore	6221	25
+San Pietro di Caridà	6222	80
+San Pietro di Feletto	6223	26
+San Pietro di Morubio	6224	23
+San Pietro in Amantea	6225	78
+San Pietro in Cariano	6226	23
+San Pietro in Casale	6227	37
+San Pietro in Cerro	6228	33
+San Pietro in Gu	6229	28
+San Pietro in Guarano	6230	78
+San Pietro in Lama	6231	75
+San Pietro Infine	6232	61
+San Pietro Mosezzo	6233	3
+San Pietro Mussolino	6234	24
+San Pietro Val Lemina	6235	1
+San Pietro Vernotico	6236	74
+San Pietro Viminario	6237	28
+San Pio delle Camere	6238	66
+San Polo dei Cavalieri	6239	58
+San Polo d'Enza	6240	35
+San Polo di Piave	6241	26
+San Polo Matese	6242	70
+San Ponso	6243	1
+San Possidonio	6244	36
+San Potito Sannitico	6245	61
+San Potito Ultra	6246	64
+San Prisco	6247	61
+San Procopio	6248	80
+San Prospero	6249	36
+San Quirico d'Orcia	6250	52
+San Quirino	6251	93
+San Raffaele Cimena	6252	1
+San Roberto	6253	80
+San Rocco al Porto	6254	98
+San Romano in Garfagnana	6255	46
+San Rufo	6256	65
+San Salvatore di Fitalia	6257	83
+San Salvatore Monferrato	6258	6
+San Salvatore Telesino	6259	62
+San Salvo	6260	69
+San Sebastiano al Vesuvio	6261	63
+San Sebastiano Curone	6262	6
+San Sebastiano da Po	6263	1
+San Secondo di Pinerolo	6264	1
+San Secondo Parmense	6265	34
+San Severino Lucano	6266	76
+San Severino Marche	6267	43
+San Severo	6268	71
+San Siro	6269	13
+San Sossio Baronia	6270	64
+San Sostene	6271	79
+San Sosti	6272	78
+San Sperate	6273	109
+San Stino di Livenza	6274	27
+San Tammaro	6275	61
+San Teodoro	6276	83
+San Teodoro	6277	90
+San Tomaso Agordino	6278	25
+San Valentino in Abruzzo Citeriore	6279	68
+San Valentino Torio	6280	65
+San Venanzo	6281	55
+San Vendemiano	6282	26
+San Vero Milis	6283	95
+San Vincenzo	6284	49
+San Vincenzo La Costa	6285	78
+San Vincenzo Valle Roveto	6286	66
+San Vitaliano	6287	63
+San Vito	6288	109
+San Vito al Tagliamento	6289	93
+San Vito al Torre	6290	30
+San Vito Chietino	6291	69
+San Vito dei Normanni	6292	74
+San Vito di Cadore	6293	25
+San Vito di Fagagna	6294	30
+San Vito di Leguzzano	6295	24
+San Vito Lo Capo	6296	81
+San Vito Romano	6297	58
+San Vito sullo Ionio	6298	79
+San Vittore del Lazio	6299	60
+San Vittore Olona	6300	15
+San Zeno di Montagna	6301	23
+San Zeno Naviglio	6302	17
+San Zenone al Lambro	6303	15
+San Zenone al Po	6304	18
+San Zenone degli Ezzelini	6305	26
+Sanarica	6306	75
+Sandigliano	6307	96
+Sandrigo	6308	24
+Sanfrè	6309	4
+Sanfront	6310	4
+Sangano	6311	1
+Sangiano	6312	12
+Sangineto	6313	78
+Sanguinetto	6314	23
+Sanluri	6315	109
+Sannazzaro de' Burgondi	6316	18
+Sannicandro di Bari	6317	72
+Sannicola	6318	75
+Sanremo	6319	8
+Sansepolcro	6320	51
+Santa Brigida	6321	16
+Santa Caterina Albanese	6322	78
+Santa Caterina dello Ionio	6323	79
+Santa Caterina Villarmosa	6324	85
+Santa Cesarea Terme	6325	75
+Santa Cristina d'Aspromonte	6326	80
+Santa Cristina e Bissone	6327	18
+Santa Cristina Gela	6328	82
+Santa Cristina Valgardena	6329	21
+Santa Croce Camerina	6330	88
+Santa Croce del Sannio	6331	62
+Santa Croce di Magliano	6332	70
+Santa Croce sull'Arno	6333	50
+Santa Domenica Talao	6334	78
+Santa Domenica Vittoria	6335	83
+Santa Elisabetta	6336	84
+Santa Fiora	6337	53
+Santa Flavia	6338	82
+Santa Giuletta	6339	18
+Santa Giusta	6340	95
+Santa Giustina	6341	25
+Santa Giustina in Colle	6342	28
+Santa Luce	6343	50
+Santa Lucia del Mela	6344	83
+Santa Lucia di Piave	6345	26
+Santa Lucia di Serino	6346	64
+Santa Margherita di Belice	6347	84
+Santa Margherita di Staffora	6348	18
+Santa Margherita Ligure	6349	10
+Santa Maria a Monte	6350	50
+Santa Maria a Vico	6351	61
+Santa Maria Capua Vetere	6352	61
+Santa Maria Coghinas	6353	90
+Santa Maria del Cedro	6354	78
+Santa Maria del Molise	6355	94
+Santa Maria della Versa	6356	18
+Santa Maria di Licodia	6357	87
+Santa Maria di Sala	6358	27
+Santa Maria Hoè	6359	97
+Santa Maria Imbaro	6360	69
+Santa Maria la Carità	6361	63
+Santa Maria la Fossa	6362	61
+Santa Maria la Longa	6363	30
+Santa Maria Maggiore	6364	103
+Santa Maria Nuova	6365	42
+Santa Marina	6366	65
+Santa Marina Salina	6367	83
+Santa Marinella	6368	58
+Santa Ninfa	6369	81
+Santa Paolina	6370	64
+Santa Severina	6371	101
+Santa Sofia	6372	40
+Santa Sofia d'Epiro	6373	78
+Santa Teresa di Riva	6374	83
+Santa Teresa Gallura	6375	90
+Santa Venerina	6376	87
+Santa Vittoria d'Alba	6377	4
+Santa Vittoria in Matenano	6378	109
+Santadi	6379	109
+Sant'Agapito	6380	94
+Sant'Agata Bolognese	6381	37
+Sant'Agata de' Goti	6382	62
+Sant'Agata del Bianco	6383	80
+Sant'Agata di Esaro	6384	78
+Sant'Agata di Militello	6385	83
+Sant'Agata di Puglia	6386	71
+Sant'Agata Feltria	6387	99
+Sant'Agata Fossili	6388	6
+Sant'Agata li Battiati	6389	87
+Sant'Agata sul Santerno	6390	39
+Sant'Agnello	6391	63
+Sant'Albano Stura	6392	4
+Sant'Alessio con Vialone	6393	18
+Sant'Alessio in Aspromonte	6394	80
+Sant'Alessio Siculo	6395	83
+Sant'Alfio	6396	87
+Sant'Ambrogio di Torino	6397	1
+Sant'Ambrogio di Valpolicella	6398	23
+Sant'Ambrogio sul Garigliano	6399	60
+Sant'Anastasia	6400	63
+Sant'Anatolia di Narco	6401	54
+Sant'Andrea Apostolo dello Ionio	6402	79
+Sant'Andrea del Garigliano	6403	60
+Sant'Andrea di Conza	6404	64
+Sant'Andrea Frius	6405	109
+Sant'Angelo a Cupolo	6406	62
+Sant'Angelo a Fasanella	6407	65
+Sant'Angelo a Scala	6408	64
+Sant'Angelo all'Esca	6409	64
+Sant'Angelo d'Alife	6410	61
+Sant'Angelo dei Lombardi	6411	64
+Sant'Angelo del Pesco	6412	94
+Sant'Angelo di Brolo	6413	83
+Sant'Angelo di Piove di Sacco	6414	28
+Sant'Angelo in Pontano	6415	43
+Sant'Angelo in Vado	6416	41
+Sant'Angelo Le Fratte	6417	76
+Sant'Angelo Limosano	6418	70
+Sant'Angelo Lodigiano	6419	98
+Sant'Angelo Lomellina	6420	18
+Sant'Angelo Muxaro	6421	84
+Sant'Angelo Romano	6422	58
+Sant'Anna Arresi	6423	109
+Sant'Anna d'Alfaedo	6424	23
+Sant'Antimo	6425	63
+Sant'Antioco	6426	109
+Sant'Antonino di Susa	6427	1
+Sant'Antonio Abate	6428	63
+Sant'Antonio di Gallura	6429	90
+Sant'Apollinare	6430	60
+Sant'Arcangelo	6431	76
+Santarcangelo di Romagna	6432	99
+Sant'Arcangelo Trimonte	6433	62
+Sant'Arpino	6434	61
+Sant'Arsenio	6435	65
+Sante Marie	6436	66
+Sant'Egidio alla Vibrata	6437	67
+Sant'Egidio del Monte Albino	6438	65
+Sant'Elena	6439	28
+Sant'Elena Sannita	6440	94
+Sant'Elia a Pianisi	6441	70
+Sant'Elia Fiumerapido	6442	60
+Sant'Elpidio a Mare	6443	109
+Santena	6444	1
+Santeramo in Colle	6445	72
+Sant'Eufemia a Maiella	6446	68
+Sant'Eufemia d'Aspromonte	6447	80
+Sant'Eusanio del Sangro	6448	69
+Sant'Eusanio Forconese	6449	66
+Santhià	6450	2
+Santi Cosma e Damiano	6451	59
+Sant'Ilario dello Ionio	6452	80
+Sant'Ilario d'Enza	6453	35
+Sant'Ippolito	6454	41
+Santo Stefano al Mare	6455	8
+Santo Stefano Belbo	6456	4
+Santo Stefano d'Aveto	6457	10
+Santo Stefano del Sole	6458	64
+Santo Stefano di Cadore	6459	25
+Santo Stefano di Camastra	6460	83
+Santo Stefano di Magra	6461	11
+Santo Stefano di Rogliano	6462	78
+Santo Stefano di Sessanio	6463	66
+Santo Stefano in Aspromonte	6464	80
+Santo Stefano Lodigiano	6465	98
+Santo Stefano Quisquina	6466	84
+Santo Stefano Roero	6467	4
+Santo Stefano Ticino	6468	15
+Sant'Olcese	6469	10
+Santomenna	6470	65
+Sant'Omero	6471	67
+Sant'Omobono Terme	6472	16
+Sant'Onofrio	6473	102
+Santopadre	6474	60
+Sant'Oreste	6475	58
+Santorso	6476	24
+Sant'Orsola Terme	6477	22
+Santu Lussurgiu	6478	95
+Sant'Urbano	6479	28
+Sanza	6480	65
+Sanzeno	6481	22
+Saonara	6482	28
+Saponara	6483	83
+Sappada	6484	30
+Sapri	6485	65
+Saracena	6486	78
+Saracinesco	6487	58
+Sarcedo	6488	24
+Sarconi	6489	76
+Sardara	6490	109
+Sardigliano	6491	6
+Sarego	6492	24
+Sarentino	6493	21
+Sarezzano	6494	6
+Sarezzo	6495	17
+Sarmato	6496	33
+Sarmede	6497	26
+Sarnano	6498	43
+Sarnico	6499	16
+Sarno	6500	65
+Sarnonico	6501	22
+Saronno	6502	12
+Sarre	6503	7
+Sarroch	6504	92
+Sarsina	6505	40
+Sarteano	6506	52
+Sartirana Lomellina	6507	18
+Sarule	6508	91
+Sarzana	6509	11
+Sassano	6510	65
+Sassari	6511	90
+Sassello	6512	9
+Sassetta	6513	49
+Sassinoro	6514	62
+Sasso di Castalda	6515	76
+Sasso Marconi	6516	37
+Sassocorvaro Auditore	6517	41
+Sassofeltrio	6518	41
+Sassoferrato	6519	42
+Sassuolo	6520	36
+Satriano	6521	79
+Satriano di Lucania	6522	76
+Sauris	6523	30
+Sauze di Cesana	6524	1
+Sauze d'Oulx	6525	1
+Sava	6526	73
+Savelli	6527	101
+Saviano	6528	63
+Savigliano	6529	4
+Savignano Irpino	6530	64
+Savignano sul Panaro	6531	36
+Savignano sul Rubicone	6532	40
+Savignone	6533	10
+Saviore dell'Adamello	6534	17
+Savoca	6535	83
+Savogna	6536	30
+Savogna d'Isonzo	6537	31
+Savoia di Lucania	6538	76
+Savona	6539	9
+Scafa	6540	68
+Scafati	6541	65
+Scagnello	6542	4
+Scala	6543	65
+Scala Coeli	6544	78
+Scaldasole	6545	18
+Scalea	6546	78
+Scalenghe	6547	1
+Scaletta Zanclea	6548	83
+Scampitella	6549	64
+Scandale	6550	101
+Scandiano	6551	35
+Scandicci	6552	48
+Scandolara Ravara	6553	19
+Scandolara Ripa d'Oglio	6554	19
+Scandriglia	6555	57
+Scanno	6556	66
+Scano di Montiferro	6557	95
+Scansano	6558	53
+Scanzano Jonico	6559	77
+Scanzorosciate	6560	16
+Scapoli	6561	94
+Scarlino	6562	53
+Scarmagno	6563	1
+Scarnafigi	6564	4
+Scarperia e San Piero	6565	48
+Scena	6566	21
+Scerni	6567	69
+Scheggia e Pascelupo	6568	54
+Scheggino	6569	54
+Schiavi di Abruzzo	6570	69
+Schiavon	6571	24
+Schignano	6572	13
+Schilpario	6573	16
+Schio	6574	24
+Schivenoglia	6575	20
+Sciacca	6576	84
+Sciara	6577	82
+Scicli	6578	88
+Scido	6579	80
+Scigliano	6580	78
+Scilla	6581	80
+Scillato	6582	82
+Sciolze	6583	1
+Scisciano	6584	63
+Sclafani Bagni	6585	82
+Scontrone	6586	66
+Scopa	6587	2
+Scopello	6588	2
+Scoppito	6589	66
+Scordia	6590	87
+Scorrano	6591	75
+Scorzè	6592	27
+Scurcola Marsicana	6593	66
+Scurelle	6594	22
+Scurzolengo	6595	5
+Seborga	6596	8
+Secinaro	6597	66
+Seclì	6598	75
+Secugnago	6599	98
+Sedegliano	6600	30
+Sedico	6601	25
+Sedilo	6602	95
+Sedini	6603	90
+Sedriano	6604	15
+Sedrina	6605	16
+Sefro	6606	43
+Segariu	6607	109
+Seggiano	6608	53
+Segni	6609	58
+Segonzano	6610	22
+Segrate	6611	15
+Segusino	6612	26
+Selargius	6613	92
+Selci	6614	57
+Selegas	6615	109
+Sella Giudicarie	6616	22
+Sellano	6617	54
+Sellero	6618	17
+Sellia	6619	79
+Sellia Marina	6620	79
+Selva dei Molini	6621	21
+Selva di Cadore	6622	25
+Selva di Progno	6623	23
+Selva di Val Gardena	6624	21
+Selvazzano Dentro	6625	28
+Selvino	6626	16
+Semestene	6627	90
+Semiana	6628	18
+Seminara	6629	80
+Semproniano	6630	53
+Senago	6631	15
+Senales	6632	21
+Senale-San Felice	6633	21
+Seneghe	6634	95
+Senerchia	6635	64
+Seniga	6636	17
+Senigallia	6637	42
+Senis	6638	95
+Senise	6639	76
+Senna Comasco	6640	13
+Senna Lodigiana	6641	98
+Sennariolo	6642	95
+Sennori	6643	90
+Senorbì	6644	109
+Sepino	6645	70
+Sequals	6646	93
+Seravezza	6647	46
+Serdiana	6648	109
+Seregno	6649	108
+Seren del Grappa	6650	25
+Sergnano	6651	19
+Seriate	6652	16
+Serina	6653	16
+Serino	6654	64
+Serle	6655	17
+Sermide e Felonica	6656	20
+Sermoneta	6657	59
+Sernaglia della Battaglia	6658	26
+Sernio	6659	14
+Serole	6660	5
+Serra d'Aiello	6661	78
+Serra de' Conti	6662	42
+Serra Riccò	6663	10
+Serra San Bruno	6664	102
+Serra San Quirico	6665	42
+Serra Sant'Abbondio	6666	41
+Serracapriola	6667	71
+Serradifalco	6668	85
+Serralunga d'Alba	6669	4
+Serralunga di Crea	6670	6
+Serramanna	6671	109
+Serramazzoni	6672	36
+Serramezzana	6673	65
+Serramonacesca	6674	68
+Serrapetrona	6675	43
+Serrara Fontana	6676	63
+Serrastretta	6677	79
+Serrata	6678	80
+Serravalle a Po	6679	20
+Serravalle di Chienti	6680	43
+Serravalle Langhe	6681	4
+Serravalle Pistoiese	6682	47
+Serravalle Scrivia	6683	6
+Serravalle Sesia	6684	2
+Serre	6685	65
+Serrenti	6686	109
+Serri	6687	109
+Serrone	6688	60
+Sersale	6689	79
+Servigliano	6690	109
+Sessa Aurunca	6691	61
+Sessa Cilento	6692	65
+Sessame	6693	5
+Sessano del Molise	6694	94
+Sesta Godano	6695	11
+Sestino	6696	51
+Sesto	6697	21
+Sesto al Reghena	6698	93
+Sesto Calende	6699	12
+Sesto Campano	6700	94
+Sesto ed Uniti	6701	19
+Sesto Fiorentino	6702	48
+Sesto San Giovanni	6703	15
+Sestola	6704	36
+Sestri Levante	6705	10
+Sestriere	6706	1
+Sestu	6707	92
+Settala	6708	15
+Settefrati	6709	60
+Settime	6710	5
+Settimo Milanese	6711	15
+Settimo Rottaro	6712	1
+Settimo San Pietro	6713	92
+Settimo Torinese	6714	1
+Settimo Vittone	6715	1
+Settingiano	6716	79
+Setzu	6717	109
+Seui	6718	109
+Seulo	6719	109
+Seveso	6720	108
+Sezzadio	6721	6
+Sezze	6722	59
+Sfruz	6723	22
+Sgonico	6724	32
+Sgurgola	6725	60
+Siamaggiore	6726	95
+Siamanna	6727	95
+Siano	6728	65
+Siapiccia	6729	95
+Sicignano degli Alburni	6730	65
+Siculiana	6731	84
+Siddi	6732	109
+Siderno	6733	80
+Siena	6734	52
+Sigillo	6735	54
+Signa	6736	48
+Silandro	6737	21
+Silanus	6738	91
+Silea	6739	26
+Siligo	6740	90
+Siliqua	6741	109
+Silius	6742	109
+Sillano Giuncugnano	6743	46
+Sillavengo	6744	3
+Silvano d'Orba	6745	6
+Silvano Pietra	6746	18
+Silvi	6747	67
+Simala	6748	95
+Simaxis	6749	95
+Simbario	6750	102
+Simeri Crichi	6751	79
+Sinagra	6752	83
+Sinalunga	6753	52
+Sindia	6754	91
+Sini	6755	95
+Sinio	6756	4
+Siniscola	6757	91
+Sinnai	6758	92
+Sinopoli	6759	80
+Siracusa	6760	89
+Sirignano	6761	64
+Siris	6762	95
+Sirmione	6763	17
+Sirolo	6764	42
+Sirone	6765	97
+Sirtori	6766	97
+Sissa Trecasali	6767	34
+Siurgus Donigala	6768	109
+Siziano	6769	18
+Sizzano	6770	3
+Sluderno	6771	21
+Smerillo	6772	109
+Soave	6773	23
+Socchieve	6774	30
+Soddì	6775	95
+Sogliano al Rubicone	6776	40
+Sogliano Cavour	6777	75
+Soglio	6778	5
+Soiano del Lago	6779	17
+Solagna	6780	24
+Solarino	6781	89
+Solaro	6782	15
+Solarolo	6783	39
+Solarolo Rainerio	6784	19
+Solarussa	6785	95
+Solbiate Arno	6786	12
+Solbiate con Cagno	6787	13
+Solbiate Olona	6788	12
+Soldano	6789	8
+Soleminis	6790	109
+Solero	6791	6
+Solesino	6792	28
+Soleto	6793	75
+Solferino	6794	20
+Soliera	6795	36
+Solignano	6796	34
+Solofra	6797	64
+Solonghello	6798	6
+Solopaca	6799	62
+Solto Collina	6800	16
+Solza	6801	16
+Somaglia	6802	98
+Somano	6803	4
+Somma Lombardo	6804	12
+Somma Vesuviana	6805	63
+Sommacampagna	6806	23
+Sommariva del Bosco	6807	4
+Sommariva Perno	6808	4
+Sommatino	6809	85
+Sommo	6810	18
+Sona	6811	23
+Soncino	6812	19
+Sondalo	6813	14
+Sondrio	6814	14
+Songavazzo	6815	16
+Sonico	6816	17
+Sonnino	6817	59
+Sora	6818	60
+Soraga di Fassa	6819	22
+Soragna	6820	34
+Sorano	6821	53
+Sorbo San Basile	6822	79
+Sorbo Serpico	6823	64
+Sorbolo Mezzani	6824	34
+Sordevolo	6825	96
+Sordio	6826	98
+Soresina	6827	19
+Sorgà	6828	23
+Sorgono	6829	91
+Sori	6830	10
+Sorianello	6831	102
+Soriano Calabro	6832	102
+Soriano nel Cimino	6833	56
+Sorico	6834	13
+Soriso	6835	3
+Sorisole	6836	16
+Sormano	6837	13
+Sorradile	6838	95
+Sorrento	6839	63
+Sorso	6840	90
+Sortino	6841	89
+Sospiro	6842	19
+Sospirolo	6843	25
+Sossano	6844	24
+Sostegno	6845	96
+Sotto il Monte Giovanni XXIII	6846	16
+Sover	6847	22
+Soverato	6848	79
+Sovere	6849	16
+Soveria Mannelli	6850	79
+Soveria Simeri	6851	79
+Soverzene	6852	25
+Sovicille	6853	52
+Sovico	6854	108
+Sovizzo	6855	24
+Sovramonte	6856	25
+Sozzago	6857	3
+Spadafora	6858	83
+Spadola	6859	102
+Sparanise	6860	61
+Sparone	6861	1
+Specchia	6862	75
+Spello	6863	54
+Sperlinga	6864	86
+Sperlonga	6865	59
+Sperone	6866	64
+Spessa	6867	18
+Spezzano Albanese	6868	78
+Spezzano della Sila	6869	78
+Spiazzo	6870	22
+Spigno Monferrato	6871	6
+Spigno Saturnia	6872	59
+Spilamberto	6873	36
+Spilimbergo	6874	93
+Spilinga	6875	102
+Spinadesco	6876	19
+Spinazzola	6877	110
+Spinea	6878	27
+Spineda	6879	19
+Spinete	6880	70
+Spineto Scrivia	6881	6
+Spinetoli	6882	44
+Spino d'Adda	6883	19
+Spinone al Lago	6884	16
+Spinoso	6885	76
+Spirano	6886	16
+Spoleto	6887	54
+Spoltore	6888	68
+Spongano	6889	75
+Spormaggiore	6890	22
+Sporminore	6891	22
+Spotorno	6892	9
+Spresiano	6893	26
+Spriana	6894	14
+Squillace	6895	79
+Squinzano	6896	75
+Staffolo	6897	42
+Stagno Lombardo	6898	19
+Staiti	6899	80
+Stalettì	6900	79
+Stanghella	6901	28
+Staranzano	6902	31
+Statte	6903	73
+Stazzano	6904	6
+Stazzema	6905	46
+Stazzona	6906	13
+Stefanaconi	6907	102
+Stella	6908	9
+Stella Cilento	6909	65
+Stellanello	6910	9
+Stelvio	6911	21
+Stenico	6912	22
+Sternatia	6913	75
+Stezzano	6914	16
+Stienta	6915	29
+Stigliano	6916	77
+Stignano	6917	80
+Stilo	6918	80
+Stimigliano	6919	57
+Stintino	6920	90
+Stio	6921	65
+Stornara	6922	71
+Stornarella	6923	71
+Storo	6924	22
+Stra	6925	27
+Stradella	6926	18
+Strambinello	6927	1
+Strambino	6928	1
+Strangolagalli	6929	60
+Stregna	6930	30
+Strembo	6931	22
+Stresa	6932	103
+Strevi	6933	6
+Striano	6934	63
+Strona	6935	96
+Stroncone	6936	55
+Strongoli	6937	101
+Stroppiana	6938	2
+Stroppo	6939	4
+Strozza	6940	16
+Sturno	6941	64
+Suardi	6942	18
+Subbiano	6943	51
+Subiaco	6944	58
+Succivo	6945	61
+Sueglio	6946	97
+Suelli	6947	109
+Suello	6948	97
+Suisio	6949	16
+Sulbiate	6950	108
+Sulmona	6951	66
+Sulzano	6952	17
+Sumirago	6953	12
+Summonte	6954	64
+Suni	6955	95
+Suno	6956	3
+Supersano	6957	75
+Supino	6958	60
+Surano	6959	75
+Surbo	6960	75
+Susa	6961	1
+Susegana	6962	26
+Sustinente	6963	20
+Sutera	6964	85
+Sutri	6965	56
+Sutrio	6966	30
+Suvereto	6967	49
+Suzzara	6968	20
+Taceno	6969	97
+Tadasuni	6970	95
+Taggia	6971	8
+Tagliacozzo	6972	66
+Taglio di Po	6973	29
+Tagliolo Monferrato	6974	6
+Taibon Agordino	6975	25
+Taino	6976	12
+Taipana	6977	30
+Talamello	6978	99
+Talamona	6979	14
+Talana	6980	91
+Taleggio	6981	16
+Talla	6982	51
+Talmassons	6983	30
+Tambre	6984	25
+Taormina	6985	83
+Tarano	6986	57
+Taranta Peligna	6987	69
+Tarantasca	6988	4
+Taranto	6989	73
+Tarcento	6990	30
+Tarquinia	6991	56
+Tarsia	6992	78
+Tartano	6993	14
+Tarvisio	6994	30
+Tarzo	6995	26
+Tassarolo	6996	6
+Taurano	6997	64
+Taurasi	6998	64
+Taurianova	6999	80
+Taurisano	7000	75
+Tavagnacco	7001	30
+Tavagnasco	7002	1
+Tavazzano con Villavesco	7003	98
+Tavenna	7004	70
+Taverna	7005	79
+Tavernerio	7006	13
+Tavernola Bergamasca	7007	16
+Tavernole sul Mella	7008	17
+Taviano	7009	75
+Tavigliano	7010	96
+Tavoleto	7011	41
+Tavullia	7012	41
+Teana	7013	76
+Teano	7014	61
+Teggiano	7015	65
+Teglio	7016	14
+Teglio Veneto	7017	27
+Telese Terme	7018	62
+Telgate	7019	16
+Telti	7020	90
+Telve	7021	22
+Telve di Sopra	7022	22
+Tempio Pausania	7023	90
+Temù	7024	17
+Tenna	7025	22
+Tenno	7026	22
+Teolo	7027	28
+Teora	7028	64
+Teramo	7029	67
+Terdobbiate	7030	3
+Terelle	7031	60
+Terento	7032	21
+Terenzo	7033	34
+Tergu	7034	90
+Terlano	7035	21
+Terlizzi	7036	72
+Terme Vigliatore	7037	83
+Termeno sulla strada del vino	7038	21
+Termini Imerese	7039	82
+Termoli	7040	70
+Ternate	7041	12
+Ternengo	7042	96
+Terni	7043	55
+Terno d'Isola	7044	16
+Terracina	7045	59
+Terragnolo	7046	22
+Terralba	7047	95
+Terranova da Sibari	7048	78
+Terranova dei Passerini	7049	98
+Terranova di Pollino	7050	76
+Terranova Sappo Minulio	7051	80
+Terranuova Bracciolini	7052	51
+Terrasini	7053	82
+Terrassa Padovana	7054	28
+Terravecchia	7055	78
+Terrazzo	7056	23
+Terre d'Adige	7057	22
+Terre del Reno	7058	38
+Terre Roveresche	7059	41
+Terricciola	7060	50
+Terruggia	7061	6
+Tertenia	7062	91
+Terzigno	7063	63
+Terzo	7064	6
+Terzo d'Aquileia	7065	30
+Terzolas	7066	22
+Terzorio	7067	8
+Tesero	7068	22
+Tesimo	7069	21
+Tessennano	7070	56
+Testico	7071	9
+Teti	7072	91
+Teulada	7073	109
+Teverola	7074	61
+Tezze sul Brenta	7075	24
+Thiene	7076	24
+Thiesi	7077	90
+Tiana	7078	91
+Ticengo	7079	19
+Ticineto	7080	6
+Tiggiano	7081	75
+Tiglieto	7082	10
+Tigliole	7083	5
+Tignale	7084	17
+Tinnura	7085	95
+Tione degli Abruzzi	7086	66
+Tione di Trento	7087	22
+Tirano	7088	14
+Tires	7089	21
+Tiriolo	7090	79
+Tirolo	7091	21
+Tissi	7092	90
+Tito	7093	76
+Tivoli	7094	58
+Tizzano Val Parma	7095	34
+Toano	7096	35
+Tocco Caudio	7097	62
+Tocco da Casauria	7098	68
+Toceno	7099	103
+Todi	7100	54
+Toffia	7101	57
+Toirano	7102	9
+Tolentino	7103	43
+Tolfa	7104	58
+Tollegno	7105	96
+Tollo	7106	69
+Tolmezzo	7107	30
+Tolve	7108	76
+Tombolo	7109	28
+Ton	7110	22
+Tonara	7111	91
+Tonco	7112	5
+Tonengo	7113	5
+Tonezza del Cimone	7114	24
+Tora e Piccilli	7115	61
+Torano Castello	7116	78
+Torano Nuovo	7117	67
+Torbole Casaglia	7118	17
+Torcegno	7119	22
+Torchiara	7120	65
+Torchiarolo	7121	74
+Torella dei Lombardi	7122	64
+Torella del Sannio	7123	70
+Torgiano	7124	54
+Torgnon	7125	7
+Torino	7126	1
+Torino di Sangro	7127	69
+Toritto	7128	72
+Torlino Vimercati	7129	19
+Tornaco	7130	3
+Tornareccio	7131	69
+Tornata	7132	19
+Tornimparte	7133	66
+Torno	7134	13
+Tornolo	7135	34
+Toro	7136	70
+Torpè	7137	91
+Torraca	7138	65
+Torralba	7139	90
+Torrazza Coste	7140	18
+Torrazza Piemonte	7141	1
+Torrazzo	7142	96
+Torre Annunziata	7143	63
+Torre Beretti e Castellaro	7144	18
+Torre Boldone	7145	16
+Torre Bormida	7146	4
+Torre Cajetani	7147	60
+Torre Canavese	7148	1
+Torre d'Arese	7149	18
+Torre de' Busi	7150	16
+Torre de' Negri	7151	18
+Torre de' Passeri	7152	68
+Torre de' Picenardi	7153	19
+Torre de' Roveri	7154	16
+Torre del Greco	7155	63
+Torre di Mosto	7156	27
+Torre di Ruggiero	7157	79
+Torre di Santa Maria	7158	14
+Torre d'Isola	7159	18
+Torre Le Nocelle	7160	64
+Torre Mondovì	7161	4
+Torre Orsaia	7162	65
+Torre Pallavicina	7163	16
+Torre Pellice	7164	1
+Torre San Giorgio	7165	4
+Torre San Patrizio	7166	109
+Torre Santa Susanna	7167	74
+Torreano	7168	30
+Torrebelvicino	7169	24
+Torrebruna	7170	69
+Torrecuso	7171	62
+Torreglia	7172	28
+Torregrotta	7173	83
+Torremaggiore	7174	71
+Torrenova	7175	83
+Torresina	7176	4
+Torretta	7177	82
+Torrevecchia Pia	7178	18
+Torrevecchia Teatina	7179	69
+Torri del Benaco	7180	23
+Torri di Quartesolo	7181	24
+Torri in Sabina	7182	57
+Torrice	7183	60
+Torricella	7184	73
+Torricella del Pizzo	7185	19
+Torricella in Sabina	7186	57
+Torricella Peligna	7187	69
+Torricella Sicura	7188	67
+Torricella Verzate	7189	18
+Torriglia	7190	10
+Torrile	7191	34
+Torrioni	7192	64
+Torrita di Siena	7193	52
+Torrita Tiberina	7194	58
+Tortolì	7195	91
+Tortona	7196	6
+Tortora	7197	78
+Tortorella	7198	65
+Tortoreto	7199	67
+Tortorici	7200	83
+Torviscosa	7201	30
+Toscolano-Maderno	7202	17
+Tossicia	7203	67
+Tovo di Sant'Agata	7204	14
+Tovo San Giacomo	7205	9
+Trabia	7206	82
+Tradate	7207	12
+Tramatza	7208	95
+Trambileno	7209	22
+Tramonti	7210	65
+Tramonti di Sopra	7211	93
+Tramonti di Sotto	7212	93
+Tramutola	7213	76
+Trana	7214	1
+Trani	7215	110
+Traona	7216	14
+Trapani	7217	81
+Trappeto	7218	82
+Trarego Viggiona	7219	103
+Trasacco	7220	66
+Trasaghis	7221	30
+Trasquera	7222	103
+Tratalias	7223	109
+Travacò Siccomario	7224	18
+Travagliato	7225	17
+Travedona-Monate	7226	12
+Traversella	7227	1
+Traversetolo	7228	34
+Traves	7229	1
+Travesio	7230	93
+Travo	7231	33
+Tre Ville	7232	22
+Trebaseleghe	7233	28
+Trebisacce	7234	78
+Trecase	7235	63
+Trecastagni	7236	87
+Trecastelli	7237	42
+Trecate	7238	3
+Trecchina	7239	76
+Trecenta	7240	29
+Tredozio	7241	40
+Treglio	7242	69
+Tregnago	7243	23
+Treia	7244	43
+Treiso	7245	4
+Tremestieri Etneo	7246	87
+Tremezzina	7247	13
+Tremosine sul Garda	7248	17
+Trentinara	7249	65
+Trento	7250	22
+Trentola Ducenta	7251	61
+Trenzano	7252	17
+Treppo Grande	7253	30
+Treppo Ligosullo	7254	30
+Trepuzzi	7255	75
+Trequanda	7256	52
+Tresana	7257	45
+Trescore Balneario	7258	16
+Trescore Cremasco	7259	19
+Tresignana	7260	38
+Tresivio	7261	14
+Tresnuraghes	7262	95
+Trevenzuolo	7263	23
+Trevi	7264	54
+Trevi nel Lazio	7265	60
+Trevico	7266	64
+Treviglio	7267	16
+Trevignano	7268	26
+Trevignano Romano	7269	58
+Treville	7270	6
+Treviolo	7271	16
+Treviso	7272	26
+Treviso Bresciano	7273	17
+Trezzano Rosa	7274	15
+Trezzano sul Naviglio	7275	15
+Trezzo sull'Adda	7276	15
+Trezzo Tinella	7277	4
+Trezzone	7278	13
+Tribano	7279	28
+Tribiano	7280	15
+Tribogna	7281	10
+Tricarico	7282	77
+Tricase	7283	75
+Tricerro	7284	2
+Tricesimo	7285	30
+Triei	7286	91
+Trieste	7287	32
+Triggiano	7288	72
+Trigolo	7289	19
+Trinità	7290	4
+Trinità d'Agultu e Vignola	7291	90
+Trinitapoli	7292	110
+Trino	7293	2
+Triora	7294	8
+Tripi	7295	83
+Trisobbio	7296	6
+Trissino	7297	24
+Triuggio	7298	108
+Trivento	7299	70
+Trivigliano	7300	60
+Trivignano Udinese	7301	30
+Trivigno	7302	76
+Trivolzio	7303	18
+Trodena nel parco naturale	7304	21
+Trofarello	7305	1
+Troia	7306	71
+Troina	7307	86
+Tromello	7308	18
+Trontano	7309	103
+Tronzano Lago Maggiore	7310	12
+Tronzano Vercellese	7311	2
+Tropea	7312	102
+Trovo	7313	18
+Truccazzano	7314	15
+Tubre	7315	21
+Tufara	7316	70
+Tufillo	7317	69
+Tufino	7318	63
+Tufo	7319	64
+Tuglie	7320	75
+Tuili	7321	109
+Tula	7322	90
+Tuoro sul Trasimeno	7323	54
+Turania	7324	57
+Turano Lodigiano	7325	98
+Turate	7326	13
+Turbigo	7327	15
+Turi	7328	72
+Turri	7329	109
+Turriaco	7330	31
+Turrivalignani	7331	68
+Tursi	7332	77
+Tusa	7333	83
+Tuscania	7334	56
+Ubiale Clanezzo	7335	16
+Uboldo	7336	12
+Ucria	7337	83
+Udine	7338	30
+Ugento	7339	75
+Uggiano la Chiesa	7340	75
+Uggiate-Trevano	7341	13
+Ulà Tirso	7342	95
+Ulassai	7343	91
+Ultimo	7344	21
+Umbertide	7345	54
+Umbriatico	7346	101
+Urago d'Oglio	7347	17
+Uras	7348	95
+Urbana	7349	28
+Urbania	7350	41
+Urbe	7351	9
+Urbino	7352	41
+Urbisaglia	7353	43
+Urgnano	7354	16
+Uri	7355	90
+Ururi	7356	70
+Urzulei	7357	91
+Uscio	7358	10
+Usellus	7359	95
+Usini	7360	90
+Usmate Velate	7361	108
+Ussana	7362	109
+Ussaramanna	7363	109
+Ussassai	7364	91
+Usseaux	7365	1
+Usseglio	7366	1
+Ussita	7367	43
+Ustica	7368	82
+Uta	7369	92
+Uzzano	7370	47
+Vaccarizzo Albanese	7371	78
+Vacone	7372	57
+Vacri	7373	69
+Vadena	7374	21
+Vado Ligure	7375	9
+Vagli Sotto	7376	46
+Vaglia	7377	48
+Vaglio Basilicata	7378	76
+Vaglio Serra	7379	5
+Vaiano	7380	100
+Vaiano Cremasco	7381	19
+Vaie	7382	1
+Vailate	7383	19
+Vairano Patenora	7384	61
+Vajont	7385	93
+Val Brembilla	7386	16
+Val della Torre	7387	1
+Val di Chy	7388	1
+Val di Nizza	7389	18
+Val di Vizze	7390	21
+Val di Zoldo	7391	25
+Val Liona	7392	24
+Val Masino	7393	14
+Val Rezzo	7394	13
+Valbondione	7395	16
+Valbrembo	7396	16
+Valbrenta	7397	24
+Valbrevenna	7398	10
+Valbrona	7399	13
+Valchiusa	7400	1
+Valdagno	7401	24
+Valdaone	7402	22
+Valdaora	7403	21
+Valdastico	7404	24
+Valdengo	7405	96
+Valderice	7406	81
+Valdidentro	7407	14
+Valdieri	7408	4
+Valdilana	7409	96
+Valdina	7410	83
+Valdisotto	7411	14
+Valdobbiadene	7412	26
+Valduggia	7413	2
+Valeggio	7414	18
+Valeggio sul Mincio	7415	23
+Valentano	7416	56
+Valenza	7417	6
+Valenzano	7418	72
+Valera Fratta	7419	98
+Valfabbrica	7420	54
+Valfenera	7421	5
+Valfloriana	7422	22
+Valfornace	7423	43
+Valfurva	7424	14
+Valganna	7425	12
+Valgioie	7426	1
+Valgoglio	7427	16
+Valgrana	7428	4
+Valgreghentino	7429	97
+Valgrisenche	7430	7
+Valguarnera Caropepe	7431	86
+Vallada Agordina	7432	25
+Vallanzengo	7433	96
+Vallarsa	7434	22
+Vallata	7435	64
+Valle Agricola	7436	61
+Valle Aurina	7437	21
+Valle Cannobina	7438	103
+Valle Castellana	7439	67
+Valle dell'Angelo	7440	65
+Valle di Cadore	7441	25
+Valle di Casies	7442	21
+Valle di Maddaloni	7443	61
+Valle Lomellina	7444	18
+Valle Salimbene	7445	18
+Valle San Nicolao	7446	96
+Vallebona	7447	8
+Vallecorsa	7448	60
+Vallecrosia	7449	8
+Valledolmo	7450	82
+Valledoria	7451	90
+Vallefiorita	7452	79
+Vallefoglia	7453	41
+Vallelaghi	7454	22
+Vallelonga	7455	102
+Vallelunga Pratameno	7456	85
+Vallemaio	7457	60
+Vallepietra	7458	58
+Vallerano	7459	56
+Vallermosa	7460	109
+Vallerotonda	7461	60
+Vallesaccarda	7462	64
+Valleve	7463	16
+Valli del Pasubio	7464	24
+Vallinfreda	7465	58
+Vallio Terme	7466	17
+Vallo della Lucania	7467	65
+Vallo di Nera	7468	54
+Vallo Torinese	7469	1
+Valloriate	7470	4
+Valmacca	7471	6
+Valmadrera	7472	97
+Valmontone	7473	58
+Valmorea	7474	13
+Valmozzola	7475	34
+Valnegra	7476	16
+Valpelline	7477	7
+Valperga	7478	1
+Valprato Soana	7479	1
+Valsamoggia	7480	37
+Valsavarenche	7481	7
+Valsinni	7482	77
+Valsolda	7483	13
+Valstrona	7484	103
+Valtopina	7485	54
+Valtorta	7486	16
+Valtournenche	7487	7
+Valva	7488	65
+Valvarrone	7489	97
+Valvasone Arzene	7490	93
+Valverde	7491	87
+Valvestino	7492	17
+Vandoies	7493	21
+Vanzaghello	7494	15
+Vanzago	7495	15
+Vanzone con San Carlo	7496	103
+Vaprio d'Adda	7497	15
+Vaprio d'Agogna	7498	3
+Varallo	7499	2
+Varallo Pombia	7500	3
+Varano Borghi	7501	12
+Varano de' Melegari	7502	34
+Varapodio	7503	80
+Varazze	7504	9
+Varco Sabino	7505	57
+Varedo	7506	108
+Varenna	7507	97
+Varese	7508	12
+Varese Ligure	7509	11
+Varisella	7510	1
+Varmo	7511	30
+Varna	7512	21
+Varsi	7513	34
+Varzi	7514	18
+Varzo	7515	103
+Vasanello	7516	56
+Vasia	7517	8
+Vasto	7518	69
+Vastogirardi	7519	94
+Vauda Canavese	7520	1
+Vazzano	7521	102
+Vazzola	7522	26
+Vecchiano	7523	50
+Vedano al Lambro	7524	108
+Vedano Olona	7525	12
+Vedelago	7526	26
+Vedeseta	7527	16
+Veduggio con Colzano	7528	108
+Veggiano	7529	28
+Veglie	7530	75
+Veglio	7531	96
+Vejano	7532	56
+Veleso	7533	13
+Velezzo Lomellina	7534	18
+Velletri	7535	58
+Vellezzo Bellini	7536	18
+Velo d'Astico	7537	24
+Velo Veronese	7538	23
+Velturno	7539	21
+Venafro	7540	94
+Venaria Reale	7541	1
+Venarotta	7542	44
+Venasca	7543	4
+Venaus	7544	1
+Vendone	7545	9
+Venegono Inferiore	7546	12
+Venegono Superiore	7547	12
+Venetico	7548	83
+Venezia	7549	27
+Veniano	7550	13
+Venosa	7551	76
+Ventasso	7552	35
+Venticano	7553	64
+Ventimiglia	7554	8
+Ventimiglia di Sicilia	7555	82
+Ventotene	7556	59
+Venzone	7557	30
+Verano	7558	21
+Verano Brianza	7559	108
+Verbania	7560	103
+Verbicaro	7561	78
+Vercana	7562	13
+Verceia	7563	14
+Vercelli	7564	2
+Vercurago	7565	97
+Verdellino	7566	16
+Verdello	7567	16
+Verderio	7568	97
+Verduno	7569	4
+Vergato	7570	37
+Verghereto	7571	40
+Vergiate	7572	12
+Vermezzo con Zelo	7573	15
+Vermiglio	7574	22
+Vernante	7575	4
+Vernasca	7576	33
+Vernate	7577	15
+Vernazza	7578	11
+Vernio	7579	100
+Vernole	7580	75
+Verolanuova	7581	17
+Verolavecchia	7582	17
+Verolengo	7583	1
+Veroli	7584	60
+Verona	7585	23
+Veronella	7586	23
+Verrayes	7587	7
+Verrès	7588	7
+Verretto	7589	18
+Verrone	7590	96
+Verrua Po	7591	18
+Verrua Savoia	7592	1
+Vertemate con Minoprio	7593	13
+Vertova	7594	16
+Verucchio	7595	99
+Vervio	7596	14
+Verzegnis	7597	30
+Verzino	7598	101
+Verzuolo	7599	4
+Vescovana	7600	28
+Vescovato	7601	19
+Vesime	7602	5
+Vespolate	7603	3
+Vessalico	7604	8
+Vestenanova	7605	23
+Vestignè	7606	1
+Vestone	7607	17
+Vetralla	7608	56
+Vetto	7609	35
+Vezza d'Alba	7610	4
+Vezza d'Oglio	7611	17
+Vezzano Ligure	7612	11
+Vezzano sul Crostolo	7613	35
+Vezzi Portio	7614	9
+Viadana	7615	20
+Viadanica	7616	16
+Viagrande	7617	87
+Viale	7618	5
+Vialfrè	7619	1
+Viano	7620	35
+Viareggio	7621	46
+Viarigi	7622	5
+Vibo Valentia	7623	102
+Vibonati	7624	65
+Vicalvi	7625	60
+Vicari	7626	82
+Vicchio	7627	48
+Vicenza	7628	24
+Vico del Gargano	7629	71
+Vico Equense	7630	63
+Vico nel Lazio	7631	60
+Vicoforte	7632	4
+Vicoli	7633	68
+Vicolungo	7634	3
+Vicopisano	7635	50
+Vicovaro	7636	58
+Viddalba	7637	90
+Vidigulfo	7638	18
+Vidor	7639	26
+Vidracco	7640	1
+Vieste	7641	71
+Vietri di Potenza	7642	76
+Vietri sul Mare	7643	65
+Viganò	7644	97
+Vigano San Martino	7645	16
+Vigarano Mainarda	7646	38
+Vigasio	7647	23
+Vigevano	7648	18
+Viggianello	7649	76
+Viggiano	7650	76
+Viggiù	7651	12
+Vighizzolo d'Este	7652	28
+Vigliano Biellese	7653	96
+Vigliano d'Asti	7654	5
+Vignale Monferrato	7655	6
+Vignanello	7656	56
+Vignate	7657	15
+Vignola	7658	36
+Vignola-Falesina	7659	22
+Vignole Borbera	7660	6
+Vignolo	7661	4
+Vignone	7662	103
+Vigo di Cadore	7663	25
+Vigodarzere	7664	28
+Vigolo	7665	16
+Vigolzone	7666	33
+Vigone	7667	1
+Vigonovo	7668	27
+Vigonza	7669	28
+Viguzzolo	7670	6
+Villa Bartolomea	7671	23
+Villa Basilica	7672	46
+Villa Biscossi	7673	18
+Villa Carcina	7674	17
+Villa Castelli	7675	74
+Villa Celiera	7676	68
+Villa Collemandina	7677	46
+Villa Cortese	7678	15
+Villa d'Adda	7679	16
+Villa d'Almè	7680	16
+Villa del Bosco	7681	96
+Villa del Conte	7682	28
+Villa di Briano	7683	61
+Villa di Chiavenna	7684	14
+Villa di Serio	7685	16
+Villa di Tirano	7686	14
+Villa d'Ogna	7687	16
+Villa Estense	7688	28
+Villa Faraldi	7689	8
+Villa Guardia	7690	13
+Villa Lagarina	7691	22
+Villa Latina	7692	60
+Villa Literno	7693	61
+Villa Minozzo	7694	35
+Villa San Giovanni	7695	80
+Villa San Giovanni in Tuscia	7696	56
+Villa San Pietro	7697	92
+Villa San Secondo	7698	5
+Villa Santa Lucia	7699	60
+Villa Santa Lucia degli Abruzzi	7700	66
+Villa Santa Maria	7701	69
+Villa Sant'Angelo	7702	66
+Villa Sant'Antonio	7703	95
+Villa Santina	7704	30
+Villa Santo Stefano	7705	60
+Villa Verde	7706	95
+Villabassa	7707	21
+Villabate	7708	82
+Villachiara	7709	17
+Villacidro	7710	109
+Villadeati	7711	6
+Villadose	7712	29
+Villadossola	7713	103
+Villafalletto	7714	4
+Villafranca d'Asti	7715	5
+Villafranca di Verona	7716	23
+Villafranca in Lunigiana	7717	45
+Villafranca Padovana	7718	28
+Villafranca Piemonte	7719	1
+Villafranca Sicula	7720	84
+Villafranca Tirrena	7721	83
+Villafrati	7722	82
+Villaga	7723	24
+Villagrande Strisaili	7724	91
+Villalago	7725	66
+Villalba	7726	85
+Villalfonsina	7727	69
+Villalvernia	7728	6
+Villamagna	7729	69
+Villamaina	7730	64
+Villamar	7731	109
+Villamarzana	7732	29
+Villamassargia	7733	109
+Villamiroglio	7734	6
+Villandro	7735	21
+Villanova Biellese	7736	96
+Villanova Canavese	7737	1
+Villanova d'Albenga	7738	9
+Villanova d'Ardenghi	7739	18
+Villanova d'Asti	7740	5
+Villanova del Battista	7741	64
+Villanova del Ghebbo	7742	29
+Villanova del Sillaro	7743	98
+Villanova di Camposampiero	7744	28
+Villanova Marchesana	7745	29
+Villanova Mondovì	7746	4
+Villanova Monferrato	7747	6
+Villanova Monteleone	7748	90
+Villanova Solaro	7749	4
+Villanova sull'Arda	7750	33
+Villanova Truschedu	7751	95
+Villanova Tulo	7752	109
+Villanovaforru	7753	109
+Villanovafranca	7754	109
+Villanterio	7755	18
+Villanuova sul Clisi	7756	17
+Villaperuccio	7757	109
+Villapiana	7758	78
+Villaputzu	7759	109
+Villar Dora	7760	1
+Villar Focchiardo	7761	1
+Villar Pellice	7762	1
+Villar Perosa	7763	1
+Villar San Costanzo	7764	4
+Villarbasse	7765	1
+Villarboit	7766	2
+Villareggia	7767	1
+Villaricca	7768	63
+Villaromagnano	7769	6
+Villarosa	7770	86
+Villasalto	7771	109
+Villasanta	7772	108
+Villasimius	7773	109
+Villasor	7774	109
+Villaspeciosa	7775	109
+Villastellone	7776	1
+Villata	7777	2
+Villaurbana	7778	95
+Villavallelonga	7779	66
+Villaverla	7780	24
+Ville d'Anaunia	7781	22
+Ville di Fiemme	7782	22
+Villeneuve	7783	7
+Villesse	7784	31
+Villetta Barrea	7785	66
+Villette	7786	103
+Villimpenta	7787	20
+Villongo	7788	16
+Villorba	7789	26
+Vilminore di Scalve	7790	16
+Vimercate	7791	108
+Vimodrone	7792	15
+Vinadio	7793	4
+Vinchiaturo	7794	70
+Vinchio	7795	5
+Vinci	7796	48
+Vinovo	7797	1
+Vinzaglio	7798	3
+Viola	7799	4
+Vione	7800	17
+Vipiteno	7801	21
+Virle Piemonte	7802	1
+Visano	7803	17
+Vische	7804	1
+Visciano	7805	63
+Visco	7806	30
+Visone	7807	6
+Visso	7808	43
+Vistarino	7809	18
+Vistrorio	7810	1
+Vita	7811	81
+Viterbo	7812	56
+Viticuso	7813	60
+Vito d'Asio	7814	93
+Vitorchiano	7815	56
+Vittoria	7816	88
+Vittorio Veneto	7817	26
+Vittorito	7818	66
+Vittuone	7819	15
+Vitulano	7820	62
+Vitulazio	7821	61
+Viù	7822	1
+Vivaro	7823	93
+Vivaro Romano	7824	58
+Viverone	7825	96
+Vizzini	7826	87
+Vizzola Ticino	7827	12
+Vizzolo Predabissi	7828	15
+Vo'	7829	28
+Vobarno	7830	17
+Vobbia	7831	10
+Vocca	7832	2
+Vodo Cadore	7833	25
+Voghera	7834	18
+Voghiera	7835	38
+Vogogna	7836	103
+Volano	7837	22
+Volla	7838	63
+Volongo	7839	19
+Volpago del Montello	7840	26
+Volpara	7841	18
+Volpedo	7842	6
+Volpeglino	7843	6
+Volpiano	7844	1
+Volta Mantovana	7845	20
+Voltaggio	7846	6
+Voltago Agordino	7847	25
+Volterra	7848	50
+Voltido	7849	19
+Volturara Appula	7850	71
+Volturara Irpina	7851	64
+Volturino	7852	71
+Volvera	7853	1
+Vottignasco	7854	4
+Zaccanopoli	7855	102
+Zafferana Etnea	7856	87
+Zagarise	7857	79
+Zagarolo	7858	58
+Zambrone	7859	102
+Zandobbio	7860	16
+Zanè	7861	24
+Zanica	7862	16
+Zapponeta	7863	71
+Zavattarello	7864	18
+Zeccone	7865	18
+Zeddiani	7866	95
+Zelbio	7867	13
+Zelo Buon Persico	7868	98
+Zeme	7869	18
+Zenevredo	7870	18
+Zenson di Piave	7871	26
+Zerba	7872	33
+Zerbo	7873	18
+Zerbolò	7874	18
+Zerfaliu	7875	95
+Zeri	7876	45
+Zermeghedo	7877	24
+Zero Branco	7878	26
+Zevio	7879	23
+Ziano di Fiemme	7880	22
+Ziano Piacentino	7881	33
+Zibido San Giacomo	7882	15
+Zignago	7883	11
+Zimella	7884	23
+Zimone	7885	96
+Zinasco	7886	18
+Zoagli	7887	10
+Zocca	7888	36
+Zogno	7889	16
+Zola Predosa	7890	37
+Zollino	7891	75
+Zone	7892	17
+Zoppè di Cadore	7893	25
+Zoppola	7894	93
+Zovencedo	7895	24
+Zubiena	7896	96
+Zuccarello	7897	9
+Zugliano	7898	24
+Zuglio	7899	30
+Zumaglia	7900	96
+Zumpano	7901	78
+Zungoli	7902	64
+Zungri	7903	102
